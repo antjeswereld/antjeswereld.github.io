@@ -1,0 +1,1431 @@
+1:"$Sreact.fragment"
+2:I[8534,["736","static/chunks/736-2972e5ba1cd49338.js","177","static/chunks/app/layout-0537dc54c28e657c.js"],"Providers"]
+3:I[5244,[],""]
+4:I[3866,[],""]
+5:I[8438,["634","static/chunks/634-8187c3001598e0e6.js","345","static/chunks/app/not-found-b8c594135b9c578f.js"],"NotFound"]
+7:I[6213,[],"OutletBoundary"]
+9:I[6213,[],"MetadataBoundary"]
+b:I[6213,[],"ViewportBoundary"]
+d:I[4835,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/47aead083664c123.css","style"]
+0:{"P":null,"b":"WV8mdd7htHJLnr3L_QZR0","p":"","c":["","videos","page","92"],"i":false,"f":[[["",{"children":["videos",{"children":["page",{"children":[["page","92","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/47aead083664c123.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen bg-background font-sans antialiased m-auto __variable_e8ce0c","children":["$","$L2",null,{"children":["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],["$","$L5",null,{}]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}],{"children":["videos",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","videos","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["page",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","videos","children","page","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["page","92","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","videos","children","page","children","$0:f:0:1:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":"$L8"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","siW8heudHnRZx2q2ihni3",{"children":[["$","$L9",null,{"children":"$La"}],["$","$Lb",null,{"children":"$Lc"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$d","$undefined"],"s":false,"S":true}
+e:I[791,["634","static/chunks/634-8187c3001598e0e6.js","338","static/chunks/338-e9726a663e7fb097.js","411","static/chunks/411-3c8008af2d0814de.js","801","static/chunks/app/videos/page/%5Bpage%5D/page-3333f6826300435d.js"],"Header"]
+f:I[8173,["634","static/chunks/634-8187c3001598e0e6.js","338","static/chunks/338-e9726a663e7fb097.js","411","static/chunks/411-3c8008af2d0814de.js","801","static/chunks/app/videos/page/%5Bpage%5D/page-3333f6826300435d.js"],""]
+10:I[7970,["634","static/chunks/634-8187c3001598e0e6.js","338","static/chunks/338-e9726a663e7fb097.js","411","static/chunks/411-3c8008af2d0814de.js","801","static/chunks/app/videos/page/%5Bpage%5D/page-3333f6826300435d.js"],"Image"]
+23:I[2316,["634","static/chunks/634-8187c3001598e0e6.js","338","static/chunks/338-e9726a663e7fb097.js","411","static/chunks/411-3c8008af2d0814de.js","801","static/chunks/app/videos/page/%5Bpage%5D/page-3333f6826300435d.js"],"Footer"]
+11:Tbbe,Unboxing my little box x clinique - Thé ou Café? - November 2020 - Antje's Wereld
+
+Hallo Zusammen,
+
+heute zeige ich das Unboxing der My Little Box.
+
+Diese gibt es im Monats-, und Jahresabo. Die Box im Monatsabo kostet 17,50€ und im Jahresabo 195€ (Einmalzahlung, 12 Boxen zum Preis von 11).
+
+Die Box kannst du dir über folgenden Link bestellen:
+
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#Antjeswereld #Unboxing #mylittlebox
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://www.bygoodiebox.de/antjekroner *
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Box selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.12:Te8e,Unboxing Crash Cosmetics & Friends Adventskalender - November 2020 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch das Unboxing des Adventskalenders von Crash Cosmetics. Dieser ist leider ausverkauft.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#Antjeswereld #Adventskalender #CrashCosmetics
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+Angaben zur Verlosung:
+1. Sei Abonnent von meinem Kanal (das Abo muss sichtbar für mich sein)✅
+2. Gib diesem Video bei Gefallen einen Daumen nach oben ✅
+3. Schreibe mir einen lieben Kommentar unter dieses Video mit das Du teilnehmen möchtest und #Louisa ein✅
+4. Die Verlosung ist ab 18 Jahren
+5. Die Verlosung endet am 24.11.2020 um 23:00 Uhr 
+6. Die Gewinner werden per Instagram benachrichtigt oder E-Mail und muss sich innerhalb einer Woche nach Verlosungsende bei mir per Mail oder Instagram melden 
+7. Der Rechtsweg ist ausgeschlossen 
+8. Jeder kann 1x teilnehmen 
+9. Die Verlosung gilt für Deutschland
+
+Hier ein Link zu den Richtlinien von Youtube: https://www.youtube.com/intl/de/yt/ab... 
+
+Wettbewerbsrichtlinien von YouTube / Bitte unbedingt lesen!
+https://support.google.com/youtube/an...
+
+
+Youtube steht in keinem Zusammenhang mit dem Gewinnspiel.
+Datenschutzhinweis: Es werden keine Daten gespeichert! Die Adresse & Name des Gewinners werden lediglich für den Versand genutzt und danach sofort gelöscht
+
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://www.bygoodiebox.de/antjekroner *
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe den Adventskalender selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.13:Ta52,Unboxing Herbst Sale Glossybox Teil 2 - November 2020 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch mein letztes Glossybox Bundles, das ich im Sale gekauft habe. 
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://www.bygoodiebox.de/antjekroner *
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.
+
+
+#Antje'sWereld #Sale #Glossybox14:Tb13,Unboxing Neonail Adventskalender - November 2020 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch das Unboxing des Adventskalenders von der Neonail.
+
+Hier könnt ihr ihn bestellen
+https://www.douglas.de/Make-up-N%C3%A4gel-Gel-Nagellack-NeoNail-UV-Farblack-Advent-Calendar_productbrand_5003274001.html
+
+Da bekommt ihr ihn heute 20% günstiger.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://www.bygoodiebox.de/antjekroner *
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe den Adventskalender selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.
+
+
+#Antje'sWereld #Adventskalender #Neonail15:Tab8,Asam Wundertüte - Lohnt sie sich? - November 2020 - Antje's Wereld
+
+Hallo Zusammen,
+
+heute zeige ich euch die M. Asam Wundertüte. Ich finde sie super, aber entscheidet selbst und guckt euch mein Video an.
+
+Sie hat 34,75€ gekostet und  ob sie sich gelohnt hat, seht ihr im Video.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://www.bygoodiebox.de/antjekroner *
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Wundertüte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.
+
+#Antje'sWereld #MASAM #Wundertuete16:Tec5,Unboxing Young Glossybox Shooting Stars Edition mit Verlosung - November 2020 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch ein Unboxing der Glossybox Young Beauty.
+
+Diese kostet 10 € und kann ihr hier bestellt werden:
+
+https://www.glossybox.de/young-beauty.list
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+Angaben zur Verlosung:
+1. Sei Abonnent von meinem Kanal (das Abo muss sichtbar für mich sein)✅
+2. Gib diesem Video bei Gefallen einen Daumen nach oben ✅
+3. Schreibe mir einen lieben Kommentar unter dieses Video mit das Du teilnehmen möchtest und #youngbeauty ein✅
+4. Die Verlosung ist ab 18 Jahren.
+5. Die Verlosung endet am 20.11.2020 um 23:00 Uhr 
+6. Die Gewinner werden per Instagram benachrichtigt oder E-Mail und muss sich innerhalb einer Woche nach Verlosungsende bei mir per Mail oder Instagram melden 
+7. Der Rechtsweg ist ausgeschlossen 
+8. Jeder kann 1x teilnehmen 
+9. Die Verlosung gilt für Deutschland
+
+Hier ein Link zu den Richtlinien von Youtube: https://www.youtube.com/intl/de/yt/ab... 
+
+Wettbewerbsrichtlinien von YouTube / Bitte unbedingt lesen!
+https://support.google.com/youtube/an...
+
+
+Youtube steht in keinem Zusammenhang mit dem Gewinnspiel.
+Datenschutzhinweis: Es werden keine Daten gespeichert! Die Adresse & Name des Gewinners werden lediglich für den Versand genutzt und danach sofort gelöscht
+
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://www.bygoodiebox.de/antjekroner *
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe den Box selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.
+
+
+#Antje'sWereld #YoungGlossybox #Unboxing17:Tc72,Unboxing Adventskalender Goodiebox - November 2020 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch das Unboxing des Adventskalenders von der Goodiebox.
+
+Für Nicht-Mitglieder kostet er 119,95€, für Mitglieder 99,95€
+
+Falls ihr euch eure erste Goodiebox bestellen wollt, dann könnt ihr das hierüber tun (Du bekommst die erste Box 50% günstiger):
+
+https://www.bygoodiebox.de/antjekroner *
+
+Hier könnt ihr den Adventskalender bestellen:
+https://www.bygoodiebox.de/shop/limited-edition/adventskalender.html?gclid=CjwKCAiAv4n9BRA9EiwA30WND8WrrfUQWbjdc77agsEI0fqm2aEvkL87bZNmaC9kM9h3LiL4XJJSihoC4UkQAvD_BwE&utm_expid=.BrBx0HXeTT6Nj-51O2aSIA.1&utm_referrer=https%3A%2F%2Fwww.google.com%2F
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://www.bygoodiebox.de/antjekroner *
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe den Adventskalender selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.
+
+
+#Antje'sWereld #Adventskalender #Goodiebox18:Tecc,Unboxing MIABOX Oktober 2020 Leaves Edition - November 2020 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch das Unboxing der neuen Miabox. Diese kostet 24,20€ oder aber für 3 Monate 66€.
+
+Hier könnt ihr die verschiedenen Editionen bestellen:
+https://miabox.de/shop/aktuelleEditionen
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+Angaben zur Verlosung:
+1. Sei Abonnent von meinem Kanal (das Abo muss sichtbar für mich sein)✅
+2. Gib diesem Video bei Gefallen einen Daumen nach oben ✅
+3. Schreibe mir einen lieben Kommentar unter dieses Video mit das Du teilnehmen möchtest und #schön ein✅
+4. Die Verlosung ist ab 18 Jahren.
+5. Die Verlosung endet am 16.11.2020 um 23:00 Uhr 
+6. Die Gewinner werden per Instagram benachrichtigt pder E-Mail und muss sich innerhalb einer Woche nach Verlosungsende bei mir per Mail oder Instagram melden 
+7. Der Rechtsweg ist ausgeschlossen 
+8. Jeder kann 1x teilnehmen 
+9. Die Verlosung gilt für Deutschland
+
+Hier ein Link zu den Richtlinien von Youtube: https://www.youtube.com/intl/de/yt/ab... 
+
+Wettbewerbsrichtlinien von YouTube / Bitte unbedingt lesen!
+https://support.google.com/youtube/an...
+
+
+Youtube steht in keinem Zusammenhang mit dem Gewinnspiel.
+Datenschutzhinweis: Es werden keine Daten gespeichert! Die Adresse & Name des Gewinners werden lediglich für den Versand genutzt und danach sofort gelöscht
+
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://www.bygoodiebox.de/antjekroner *
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe den Box selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.
+
+
+#Antje'sWereld #Miabox #Leaves19:Tb37,Unboxing  Kiko Milano Adventkalender Holiday Gems - November 2020 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch das Unboxing des Adventskalenders von Kiko Milano. 
+
+Hier könnt ihr ihn bestellen:
+https://www.kikocosmetics.com/de-de/p-KC000000241001B
+
+Im Video sage ich, dass es einen braunen Lippenstift und Lipliner gibt. lt. der Homepage von Kiko Milano ist es aber rot.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://www.bygoodiebox.de/antjekroner *
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe den Adventskalender selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.
+
+
+#Antje'sWereld #Adventskalender #kikomilano1a:Ta5f,Herbst Sale Glossybox Bundles - Oktober 2020 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch die Glossybox Bundles, die ich im Sale gekauft habe. Diese gibt es jetzt nicht mehr.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://www.bygoodiebox.de/antjekroner *
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.
+
+
+#Antje'sWereld #Sale #Glossybox1b:Tac8,Aufgebraucht Teil1 - Oktober 2020 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch meine aufgebrauchten Produkte. Welche es sind und wie sie mir gefallen haben erfahrt ihr im Video.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+Laufende Verlosungen:
+
+https://www.youtube.com/watch?v=vPByQyL2F-4 
+
+https://youtu.be/Q4n_HrGn_vw 
+
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://www.bygoodiebox.de/antjekroner *
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.
+
+
+#Antje'sWereld #aufgebraucht #top1c:Tf67,200 Abonnenten - Dankeschön - Oktober 2020 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video möchte ich mich bei euch bedanken. Vielen Dank, dass ihr mir die treue haltet und dafür habe ich auch ein kleines Dankeschön für euch.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+Angaben zur Verlosung:
+1. Sei Abonnent von meinem Kanal (das Abo muss sichtbar für mich sein)✅
+2. Gib diesem Video bei Gefallen einen Daumen nach oben ✅
+3. Schreibe mir einen lieben Kommentar unter dieses Video mit das Du teilnehmen möchtest und #200 ein✅
+4. Die Verlosung ist ab 16 Jahren oder mit Einverständniserklärung der Eltern 
+5. Die Verlosung endet am 08.11.2020 um 23:00 Uhr 
+6. Die Gewinner werden per Instagram benachrichtigt pder E-Mail und muss sich innerhalb einer Woche nach Verlosungsende bei mir per Mail oder Instagram melden 
+7. Der Rechtsweg ist ausgeschlossen 
+8. Jeder kann 1x teilnehmen 
+9. Die Verlosung gilt für Deutschland
+
+Hier ein Link zu den Richtlinien von Youtube: https://www.youtube.com/intl/de/yt/ab... 
+
+Wettbewerbsrichtlinien von YouTube / Bitte unbedingt lesen!
+https://support.google.com/youtube/an...
+
+
+Youtube steht in keinem Zusammenhang mit dem Gewinnspiel.
+Datenschutzhinweis: Es werden keine Daten gespeichert! Die Adresse & Name des Gewinners werden lediglich für den Versand genutzt und danach sofort gelöscht
+
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+Laufende Verlosungen:
+
+https://www.youtube.com/watch?v=vPByQyL2F-4 
+
+https://youtu.be/Q4n_HrGn_vw 
+
+
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://www.bygoodiebox.de/antjekroner *
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Box selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.
+
+
+#Antje'sWereld #200Abonnenten #Verlosung1d:Tb6c,First Impression Alycia Marie x bh cosmetics - Oktober 2020 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch die neuen Pinsel, die Lidschattenpalette und Wimpern von Alycia Marie mit bh cosmetics.
+
+Hier könnt ihr sie bestellen:
+https://www.bhcosmetics.de/collections/neuheiten
+
+Mit dem Code "maxim10" spart ihr 10% auf euren Einkauf.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+Laufende Verlosungen:
+
+https://www.youtube.com/watch?v=vPByQyL2F-4 
+
+https://youtu.be/Q4n_HrGn_vw 
+
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://www.bygoodiebox.de/antjekroner *
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.
+
+
+#Antje'sWereld #FirstImpression #AlyciaMarie1e:Taca,First Impression neues Herbst-/Wintersortiment Essence - Oktober 2020 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch einige neue Produkte vom Herbst-/Wintersortiment von Essence.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+Laufende Verlosungen:
+
+https://www.youtube.com/watch?v=vPByQyL2F-4 
+
+https://youtu.be/Q4n_HrGn_vw 
+
+
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://www.bygoodiebox.de/antjekroner *
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Box selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.
+
+
+#Antje'sWereld #FirstImpression #Essence1f:Taa8,Unboxing Deko Wunderbox - Funkelnde Adventszeit - Oktober 2020 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch ein Unboxing der Deko Wunderbox von Depot. 
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+Laufende Verlosungen:
+
+https://www.youtube.com/watch?v=vPByQyL2F-4 
+
+https://youtu.be/Q4n_HrGn_vw 
+
+
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://www.bygoodiebox.de/antjekroner *
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Box selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.
+
+
+#Antje'sWereld #Unboxing #Depot20:Tcb7,Unboxing TrendRaider - Endless Weekend - Oktober 2020 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch ein Unboxing der Trendraider für Oktober.
+Diese gibt es auch als vegane Variante.
+
+Diese gibt es in folgenden Varianten:
+
+- Flexibel = 32,95 € (Mindestlaufzeit 2 Monate, danach jederzeit kündbar)
+- einmalige Box = 34,95 € (kein Abo)
+- 3 Monate = 33,95 € (automatische Kündigung)
+- 12 Monate = 29,95 € (automatische Kündigung)
+
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+Laufende Verlosungen:
+
+https://www.youtube.com/watch?v=vPByQyL2F-4 
+
+https://youtu.be/Q4n_HrGn_vw 
+
+
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://www.bygoodiebox.de/antjekroner *
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Box selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.
+
+
+#Antje'sWereld #Unboxing #Trendraider21:T1040,Unboxing My Little Box - mit Verlosung - Oktober 2020 - Antje's Wereld
+
+Hallo Zusammen,
+
+heute zeige ich das Unboxing der My Little Box.
+
+Diese gibt es im Monats-, und Jahresabo. Die Box im Monatsabo kostet 17,50€ und im Jahresabo 195€ (Einmalzahlung, 12 Boxen zum Preis von 11).
+
+Die Box kannst du dir über folgenden Link bestellen:
+
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+Angaben zur Verlosung:
+1. Sei Abonnent von meinem Kanal (das Abo muss sichtbar für mich sein)✅
+2. Gib diesem Video bei Gefallen einen Daumen nach oben ✅
+3. Schreibe mir einen lieben Kommentar unter dieses Video mit das Du teilnehmen möchtest, trage mir #MyLittleBox ein✅
+4. Die Verlosung ist ab 16 Jahren oder mit Einverständniserklärung der Eltern 
+5. Die Verlosung endet am 31.10.2020 um 23:00 Uhr 
+6. Der Gewinner wird per Instagram oder Mail benachrichtigt und muss sich innerhalb einer Woche nach Verlosungsende bei mir per Mail oder Instagram melden 
+7. Der Rechtsweg ist ausgeschlossen 
+8. Jeder kann 1x teilnehmen 
+9. Die Verlosung gilt für Deutschland
+
+Hier ein Link zu den Richtlinien von Youtube: https://www.youtube.com/intl/de/yt/ab... 
+
+Wettbewerbsrichtlinien von YouTube / Bitte unbedingt lesen!
+https://support.google.com/youtube/an...
+
+
+Youtube steht in keinem Zusammenhang mit dem Gewinnspiel.
+Datenschutzhinweis: Es werden keine Daten gespeichert! Die Adresse & Name des Gewinners werden lediglich für den Versand genutzt und danach sofort gelöscht
+
+Laufende Verlosungen:
+
+https://youtu.be/Xc4PsexN8iE
+
+https://youtu.be/5tfMXXRqyuw
+
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://www.bygoodiebox.de/antjekroner *
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Box selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.
+
+
+#Antje'sWereld #Unboxing #MyLittleBox22:Tb9b,Unboxing Pinkbox Boho Beauty - meine letzte Pinkbox - Oktober 2020 - Antje's Wereld
+
+Hallo Zusammen,
+
+heute zeige ich das Unboxing der Pinkbox für Oktober.
+
+Diese gibt es im Monats-, 6 Monats- und Jahresabo. Das Monatsabo kostet 14,95€ und ab 6 Monate 12,46€.
+
+Bestellen kannst du sie hier:
+https://www.pinkbox.de/productlist
+
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+Laufende Verlosungen:
+
+https://www.youtube.com/watch?v=vPByQyL2F-4 
+
+https://youtu.be/Q4n_HrGn_vw 
+
+
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://www.bygoodiebox.de/antjekroner *
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Box selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.
+
+
+#Antje'sWereld #Unboxing #Pinkbox6:["$","div",null,{"children":[["$","$Le",null,{}],["$","section",null,{"className":"mb-20 mx-auto text-center bg-sky-800 w-full p-10 text-2xl md:text-4xl lg:text-5xl font-bold shadow-md shadow-gray-400","children":["$","h1",null,{"className":"text-muted","children":"Videos und Shorts aus Antjes Wereld"}]}],["$","div",null,{"className":"container mx-auto px-5","children":[["$","div",null,{"className":"prose lg:prose-xl dark:prose-invert blog-content max-w-full","children":[["$","p","p-0",{"children":["$","strong","strong-0",{"children":"Entdeckt in meinen Videos und Shorts mit mir die Welt der Bücher und Schönheit!"}]}],"\n",["$","p","p-1",{"children":"Hier findet ihr alle Videos und Shorts von meinem YouTube-Kanal „Antjes Wereld“.\nIn diesen teile ich meine Leidenschaft für Bücher und Beauty mit euch. Darin geht es u.a. um spannende Buchbesprechungen, in denen ich meine Lieblingsromane und auch Neuerscheinungen vorstelle.\nIch gebe euch wertvolle Lesetipps und teile meine persönlichen Empfehlungen, damit ihr die besten Bücher für eure nächste Lektüre findet.\nZusätzlich zu meinen Buchinhalten erwarten euch auch Beauty-Videos und -Shorts, in denen ich meine liebsten Produkte vorstelle und Tipps für eure Schönheitsroutine teile."}],"\n",["$","p","p-2",{"children":"Abonniert meinen YouTube-Kanal, um keine neuen Videos oder Shorts zu verpassen, und lasst uns gemeinsam in die faszinierende Welt der Bücher und der Schönheit eintauchen!"}]]}],["$","div",null,{"className":"text-center","children":["$","button",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted transition-transform transform hover:scale-105 p-2 h-20 w-96 shadow-md shadow-gray-400 text-2xl font-bold mt-10 bg-sky-800 text-muted","ref":"$undefined","children":["$","$Lf",null,{"href":"https://www.youtube.com/@antjeswereld","target":"_blank","className":"w-full h-full flex flex-row items-center justify-center","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 576 512","className":"mr-5 !w-16 !h-16 block","children":["$undefined",[["$","path","0",{"d":"M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]," Zum YouTube-Kanal"]}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-16 2xl:gap-28 lg:grid-cols-2 xl:grid-cols-3 md:mt-24 mt-8 mb-6 justify-items-center","children":[["$","div","jxoh0-Mus7k",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=jxoh0-Mus7k","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/jxoh0-Mus7k/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing my little box x clinique - Thé ou Café? - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=jxoh0-Mus7k","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing my little box x clinique - Thé ou Café? - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"12. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$11"}]]}]]}],["$","div","splnVx8F0RU",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=splnVx8F0RU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/splnVx8F0RU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Crash Cosmetics & Friends Adventskalender mit Verlosung - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=splnVx8F0RU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Crash Cosmetics &amp; Friends Adventskalender mit Verlosung - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"11. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$12"}]]}]]}],["$","div","rb8PJEfyPTI",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=rb8PJEfyPTI","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/rb8PJEfyPTI/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Herbst Sale Glossybox Teil 2 - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=rb8PJEfyPTI","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Herbst Sale Glossybox Teil 2 - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"09. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$13"}]]}]]}],["$","div","42ywKhpEPvc",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=42ywKhpEPvc","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/42ywKhpEPvc/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Neonail Adventskalender - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=42ywKhpEPvc","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Neonail Adventskalender - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"08. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$14"}]]}]]}],["$","div","LzokMv8ELy4",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=LzokMv8ELy4","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/LzokMv8ELy4/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Asam Wundertüte - Lohnt sie sich? - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=LzokMv8ELy4","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Asam Wundertüte - Lohnt sie sich? - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"07. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$15"}]]}]]}],["$","div","ezhEYLFYrV0",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=ezhEYLFYrV0","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/ezhEYLFYrV0/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Young Glossybox Shooting Stars Edition mit Verlosung - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=ezhEYLFYrV0","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Young Glossybox Shooting Stars Edition mit Verlosung - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"06. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$16"}]]}]]}],["$","div","Yg3rzaW0LJU",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=Yg3rzaW0LJU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/Yg3rzaW0LJU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Adventskalender Goodiebox - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=Yg3rzaW0LJU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Adventskalender Goodiebox - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"04. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$17"}]]}]]}],["$","div","K3alJ8OQkPQ",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=K3alJ8OQkPQ","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/K3alJ8OQkPQ/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing MIABOX Oktober 2020 Leaves Edition - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=K3alJ8OQkPQ","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing MIABOX Oktober 2020 Leaves Edition - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"02. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$18"}]]}]]}],["$","div","yD-qJFrP18E",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=yD-qJFrP18E","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/yD-qJFrP18E/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing  Kiko Milano Adventkalender Holiday Gems - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=yD-qJFrP18E","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing  Kiko Milano Adventkalender Holiday Gems - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"01. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$19"}]]}]]}],["$","div","GEBM0VruMpY",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=GEBM0VruMpY","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/GEBM0VruMpY/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Herbst Sale Glossybox Bundles - Oktober 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=GEBM0VruMpY","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Herbst Sale Glossybox Bundles - Oktober 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"30. Oktober 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$1a"}]]}]]}],["$","div","xGp88igGwF0",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=xGp88igGwF0","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/xGp88igGwF0/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Aufgebraucht Teil1 - Oktober 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=xGp88igGwF0","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Aufgebraucht Teil1 - Oktober 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"28. Oktober 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$1b"}]]}]]}],["$","div","zd1nnCcpQE0",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=zd1nnCcpQE0","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/zd1nnCcpQE0/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 200 Abonnenten - Dankeschön - Oktober 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=zd1nnCcpQE0","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"200 Abonnenten - Dankeschön - Oktober 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"26. Oktober 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$1c"}]]}]]}],["$","div","FW_tfSqpNno",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=FW_tfSqpNno","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/FW_tfSqpNno/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel First Impression Alycia Marie x bh cosmetics - Oktober 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=FW_tfSqpNno","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"First Impression Alycia Marie x bh cosmetics - Oktober 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"23. Oktober 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$1d"}]]}]]}],["$","div","PfWVueNmQws",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=PfWVueNmQws","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/PfWVueNmQws/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel First Impression neues Herbst-/Wintersortiment Essence - Oktober 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=PfWVueNmQws","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"First Impression neues Herbst-/Wintersortiment Essence - Oktober 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"21. Oktober 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$1e"}]]}]]}],["$","div","XpwVBlHQDkg",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=XpwVBlHQDkg","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/XpwVBlHQDkg/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Depot Deko Wunderbox - Funkelnde Adventszeit - Oktober 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=XpwVBlHQDkg","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Depot Deko Wunderbox - Funkelnde Adventszeit - Oktober 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"19. Oktober 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$1f"}]]}]]}],["$","div","UK6TlH6_T1s",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=UK6TlH6_T1s","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/UK6TlH6_T1s/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing TrendRaider - Endless Weekend - Oktober 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=UK6TlH6_T1s","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing TrendRaider - Endless Weekend - Oktober 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"18. Oktober 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$20"}]]}]]}],["$","div","aTXCB7kI9ZU",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=aTXCB7kI9ZU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/aTXCB7kI9ZU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing My Little Box - mit Verlosung - Oktober 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=aTXCB7kI9ZU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing My Little Box - mit Verlosung - Oktober 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"17. Oktober 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$21"}]]}]]}],["$","div","4vhKFAMgG2A",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=4vhKFAMgG2A","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/4vhKFAMgG2A/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Pinkbox Boho Beauty - meine letzte Pinkbox - Oktober 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=4vhKFAMgG2A","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Pinkbox Boho Beauty - meine letzte Pinkbox - Oktober 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"16. Oktober 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$22"}]]}]]}]]}],["$","p",null,{"className":"tracking-tighter text-muted-foreground text-center text-sm md:mb-20 mb-8","children":["Zuletzt aktualisiert am ","17. Juni 2025, 00:43"," Uhr"]}],["$","nav",null,{"role":"navigation","aria-label":"pagination","className":"mx-auto flex w-full justify-center","children":["$","ul",null,{"ref":"$undefined","className":"flex flex-row items-center gap-1","children":[["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted h-10 px-4 py-2 gap-1 pl-2.5","aria-label":"Go to previous page","href":"/videos/page/91","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-4 w-4","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],["$","span",null,{"children":"Zurück"}]]}]}],[["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted h-10 w-10","href":"/videos/page/1","children":"1"}]}],["$","span",null,{"aria-hidden":true,"className":"flex h-9 w-9 items-center justify-center","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-ellipsis h-4 w-4","children":[["$","circle","41hilf",{"cx":"12","cy":"12","r":"1"}],["$","circle","1wjl8i",{"cx":"19","cy":"12","r":"1"}],["$","circle","1pcz8c",{"cx":"5","cy":"12","r":"1"}],"$undefined"]}],["$","span",null,{"className":"sr-only","children":"Weitere Seiten"}]]}]],[["$","li","90",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted h-10 w-10","href":"/videos/page/90","children":90}]}],["$","li","91",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted h-10 w-10","href":"/videos/page/91","children":91}]}],["$","li","92",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"page","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input bg-background transition-colors hover:bg-sky-800 hover:text-muted h-10 w-10","href":"/videos/page/92","children":92}]}],["$","li","93",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted h-10 w-10","href":"/videos/page/93","children":93}]}],["$","li","94",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted h-10 w-10","href":"/videos/page/94","children":94}]}]],[["$","span",null,{"aria-hidden":true,"className":"flex h-9 w-9 items-center justify-center","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-ellipsis h-4 w-4","children":[["$","circle","41hilf",{"cx":"12","cy":"12","r":"1"}],["$","circle","1wjl8i",{"cx":"19","cy":"12","r":"1"}],["$","circle","1pcz8c",{"cx":"5","cy":"12","r":"1"}],"$undefined"]}],["$","span",null,{"className":"sr-only","children":"Weitere Seiten"}]]}],["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted h-10 w-10","href":"/videos/page/99","children":99}]}]],["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted h-10 px-4 py-2 gap-1 pr-2.5","aria-label":"Go to next page","href":"/videos/page/93","children":[["$","span",null,{"children":"Weiter"}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right h-4 w-4","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]]}]}]]}]}]]}],["$","$L23",null,{}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Antjes Wereld: Bücher, Beauty, Lifestyle"}],["$","meta","2",{"name":"description","content":"Willkommen in Antjes Wereld! Videos, Shorts und Reels über Bücher sowie Beauty und Lifestyle inkl. Unboxings. Social-Media-Kanäle: YouTube, Instagram."}],["$","meta","3",{"property":"og:title","content":"Antjes Wereld: Bücher, Beauty, Lifestyle"}],["$","meta","4",{"property":"og:description","content":"Willkommen in Antjes Wereld! Videos, Shorts und Reels über Bücher sowie Beauty und Lifestyle inkl. Unboxings. Social-Media-Kanäle: YouTube, Instagram."}],["$","meta","5",{"name":"twitter:card","content":"summary"}],["$","meta","6",{"name":"twitter:title","content":"Antjes Wereld: Bücher, Beauty, Lifestyle"}],["$","meta","7",{"name":"twitter:description","content":"Willkommen in Antjes Wereld! Videos, Shorts und Reels über Bücher sowie Beauty und Lifestyle inkl. Unboxings. Social-Media-Kanäle: YouTube, Instagram."}],["$","link","8",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+8:null

@@ -1,0 +1,1839 @@
+1:"$Sreact.fragment"
+2:I[8534,["736","static/chunks/736-2972e5ba1cd49338.js","177","static/chunks/app/layout-0537dc54c28e657c.js"],"Providers"]
+3:I[5244,[],""]
+4:I[3866,[],""]
+5:I[8438,["634","static/chunks/634-8187c3001598e0e6.js","345","static/chunks/app/not-found-b8c594135b9c578f.js"],"NotFound"]
+7:I[6213,[],"OutletBoundary"]
+9:I[6213,[],"MetadataBoundary"]
+b:I[6213,[],"ViewportBoundary"]
+d:I[4835,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/47aead083664c123.css","style"]
+0:{"P":null,"b":"WV8mdd7htHJLnr3L_QZR0","p":"","c":["","videos","page","84"],"i":false,"f":[[["",{"children":["videos",{"children":["page",{"children":[["page","84","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/47aead083664c123.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen bg-background font-sans antialiased m-auto __variable_e8ce0c","children":["$","$L2",null,{"children":["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],["$","$L5",null,{}]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}],{"children":["videos",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","videos","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["page",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","videos","children","page","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["page","84","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","videos","children","page","children","$0:f:0:1:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":"$L8"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","iEX6fmDHGHeyqLTKh2E4Q",{"children":[["$","$L9",null,{"children":"$La"}],["$","$Lb",null,{"children":"$Lc"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$d","$undefined"],"s":false,"S":true}
+e:I[791,["634","static/chunks/634-8187c3001598e0e6.js","338","static/chunks/338-e9726a663e7fb097.js","411","static/chunks/411-3c8008af2d0814de.js","801","static/chunks/app/videos/page/%5Bpage%5D/page-3333f6826300435d.js"],"Header"]
+f:I[8173,["634","static/chunks/634-8187c3001598e0e6.js","338","static/chunks/338-e9726a663e7fb097.js","411","static/chunks/411-3c8008af2d0814de.js","801","static/chunks/app/videos/page/%5Bpage%5D/page-3333f6826300435d.js"],""]
+10:I[7970,["634","static/chunks/634-8187c3001598e0e6.js","338","static/chunks/338-e9726a663e7fb097.js","411","static/chunks/411-3c8008af2d0814de.js","801","static/chunks/app/videos/page/%5Bpage%5D/page-3333f6826300435d.js"],"Image"]
+23:I[2316,["634","static/chunks/634-8187c3001598e0e6.js","338","static/chunks/338-e9726a663e7fb097.js","411","static/chunks/411-3c8008af2d0814de.js","801","static/chunks/app/videos/page/%5Bpage%5D/page-3333f6826300435d.js"],"Footer"]
+11:Ted2,Unboxing Blissim Box 💙Die blaue Stunde 💙- Juli/August 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch das Unboxing der Blissim Box Juli/August 2021. 
+
+Die Box kostet 16,90€ im Monat (incl. Versand).
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #unboxing #blissim
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Twicy:
+Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
+TW10Y
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.12:T137b,Unboxing Miabox ☀️Sommer Love Edition❤️ mit Verlosung - Juli 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch das Unboxing der Miabox.
+
+Diese reguläre Box kostet 24,20€ oder aber für 3 Monate 66€.
+
+Mein Freundelink:*
+https://miabox.de/FrIv/AntjeK/gwobikzniq3r
+
+Ich erhalte ein Gratisprodukt.
+
+Hier könnt ihr die verschiedenen Editionen bestellen:
+https://miabox.de/shop/aktuelleEditionen
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #unboxing #miabox
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+Angaben zur Verlosung:
+1. Schreibe mir einen lieben Kommentar unter diesem Video mit #verlosung, wenn du teilnehmen möchtest ✅
+2. Hinterlasse mir bitte eine E-Mailadresse oder deinen Instragramnamen, damit ich dich kontaktieren kann✅
+3. Die Verlosung ist ab 18 Jahren
+4. Die Verlosung endet am 13.08.2021 um 23:00 Uhr 
+5. Die Gewinner werden per Instagram benachrichtigt oder E-Mail und muss sich innerhalb einer Woche nach Verlosungsende bei mir per Mail oder Instagram melden 
+6. Der Rechtsweg ist ausgeschlossen 
+7. Jeder kann 1x teilnehmen 
+8. Die Verlosung gilt für Deutschland
+
+Hier ein Link zu den Richtlinien von Youtube: https://www.youtube.com/intl/de/yt/ab... 
+
+Wettbewerbsrichtlinien von YouTube / Bitte unbedingt lesen!
+https://support.google.com/youtube/an...
+
+Youtube steht in keinem Zusammenhang mit dem Gewinnspiel.
+
+Datenschutzhinweis: Es werden keine Daten gespeichert! Die Adresse & Name des Gewinners werden lediglich für den Versand genutzt und danach sofort gelöscht
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Twicy:
+Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
+TW10Y
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.13:T10aa,Unboxing TrendRaider Box 🌈 Colour your day 🌈 - Juli 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch ein Unboxing der TrendRaider Juli Box. Diese gibt es auch als vegane Variante.
+
+Diese gibt es in folgenden Varianten:
+
+- Flexibel = 32,95 € (Mindestlaufzeit 2 Monate, danach jederzeit kündbar)
+- einmalige Box = 34,95 € (kein Abo)
+- 3 Monate = 33,95 € (automatische Kündigung)
+- 12 Monate = 29,95 € (automatische Kündigung)
+
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #unboxing #trendraider
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Twicy:
+Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
+TW10Y
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.14:Te86,Action, TKmaxx und Rossmann Haul - Juli 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch meinen Einkauf bei Action, TKmaxx und Rossmann.
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #haul #action
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Twicy:
+Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
+TW10Y
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.15:Te89,Rossmann Sommer Haul + Unboxing Catrice Surprise Box - Juli 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch meinen Einkauf bei Rossmann.
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #haul #rossmann
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Twicy:
+Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
+TW10Y
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.16:T10bf,Unboxing MyLittleBox x albertine ☀️Die Sommerbox ☀️- Juli / August 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch die Sommerbox von Mylittlebox.
+Es gibt aktuell ein gutes Angebot, da bekommt man mit dem Code SURPRISEME die Sommerbox und Geschenke im Wert von 70€ dazu (bei Neukunden).
+
+Diese gibt es im Monats-, und Jahresabo. Die Box im Monatsabo kostet 17,50€ und im Jahresabo 195€ (Einmalzahlung, 12 Boxen zum Preis von 11).
+
+Die Box kannst du dir über folgenden Link bestellen:
+
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #unboxing #mylittlebox
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Twicy:
+Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
+TW10Y
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.17:Te8a,dm Haul - 😇 Ich habe wirklich nur das nötigste gekauft...😇 - Juli 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch meinen Einkauf bei dm.
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #haul #dm
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Twicy:
+Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
+TW10Y
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.18:T11de,Unboxing Goodiebox Happy Moments mit Verlosung - Juli 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch das Unboxing der neuen Goodiebox. 
+
+Die Goodiebox kostet 19,95€ im Abo.
+
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst deine erste Box 50% günstiger:
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da, einen lieben Kommentar und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #unboxing #goodiebox
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+Angaben zur Verlosung:
+1. Schreibe mir einen lieben Kommentar unter diesem Video mit #crush, wenn du teilnehmen möchtest ✅
+2. Hinterlasse mir bitte eine E-Mailadresse oder deinen Instragramnamen ✅
+3. Die Verlosung ist ab 18 Jahren
+4. Die Verlosung endet am 01.08.2021 um 23:00 Uhr 
+5. Die Gewinner werden per Instagram benachrichtigt oder E-Mail und muss sich innerhalb einer Woche nach Verlosungsende bei mir per Mail oder Instagram melden 
+6. Der Rechtsweg ist ausgeschlossen 
+7. Jeder kann 1x teilnehmen 
+8. Die Verlosung gilt für Deutschland
+
+Hier ein Link zu den Richtlinien von Youtube: https://www.youtube.com/intl/de/yt/ab... 
+
+Wettbewerbsrichtlinien von YouTube / Bitte unbedingt lesen!
+https://support.google.com/youtube/an...
+
+Youtube steht in keinem Zusammenhang mit dem Gewinnspiel.
+
+Datenschutzhinweis: Es werden keine Daten gespeichert! Die Adresse & Name des Gewinners werden lediglich für den Versand genutzt und danach sofort gelöscht
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Twicy:
+Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
+TW10Y
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.19:Tf86,🌅kleiner Dalton Haul🌅 - Juli 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch meinen Einkauf bei Dalton Marine Cosmetics. Dieser ist zwar eine Weile her😉, wollte ihn euch aber noch zeigen. Denn ich bin so begeistert von den Produkten.
+
+Sommer Sale:
+https://www.dalton-cosmetics.com/de/summer-sale-20-prozent-auf-anti-aging-produkte
+
+https://www.dalton-cosmetics.com/de
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #haul #daltonmarinecosmetics
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Twicy:
+Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
+TW10Y
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1a:T1157,Unboxing Artdeco Überraschungsbox HAPPY SUMMER TIMES mit Verlosung - Juli 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich die Artdeco Überraschungsbox.
+
+Hier könnt ihr sie bestellen:
+https://www.artdeco.de/neu/artdecobox-summer
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da, einen lieben Kommentar und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #unboxing #artdeco
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+Angaben zur Verlosung:
+1. Schreibe mir einen lieben Kommentar unter dieses Video mit das Du teilnehmen möchtest und #artdeco ein✅
+2. Hinterlasst mir bitte eine Möglichkeit wie ich euch kontaktieren kann (entweder Mailadresse oder Instagram Account)
+3. Die Verlosung ist ab 18 Jahren
+4. Die Verlosung endet am 23.07.2021 um 23:00 Uhr 
+5. Die Gewinner werden per Instagram oder E-Mail benachrichtigt und muss sich innerhalb einer Woche nach Verlosungsende bei mir per Mail oder Instagram melden 
+6. Der Rechtsweg ist ausgeschlossen 
+7. Jeder kann 1x teilnehmen 
+8. Die Verlosung gilt für Deutschland
+
+Hier ein Link zu den Richtlinien von Youtube: https://www.youtube.com/intl/de/yt/ab... 
+
+Wettbewerbsrichtlinien von YouTube / Bitte unbedingt lesen!
+https://support.google.com/youtube/an...
+
+Youtube steht in keinem Zusammenhang mit dem Gewinnspiel.
+Datenschutzhinweis: Es werden keine Daten gespeichert! Die Adresse & Name des Gewinners werden lediglich für den Versand genutzt und danach sofort gelöscht
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Twicy:
+Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
+TW10Y
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1b:Td95,Duftwochen beim Thiemann Onlineshop - Juli 2021 - Antje's Wereld 
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich meine Bestellung im Thiemann Onlinehop bei den Duftwochen. Mit dem Code "Duftwochen20" spart ihr 20% auf Alles.
+Das ist kein Affliate-Code!
+
+Thiemann Onlineshop:
+https://thiemann.shop/
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da, einen lieben Kommentar und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #duftwochen #thiemannshop
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Twicy:
+Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
+TW10Y
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1c:Tec5,Unboxing Glossybox Beauty Treasures - Juli 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich die Glossybox für den Monat Juli.
+
+Die Glossybox ist eine Abobox. Diese gibt es als Monatsabo (je Box 15€), 3 Monats- (pro Quartal 43,50€ Einmalzahlung), 6 Monats- (pro Halbjahr 81,00€ Einmalzahlung) und 12 Monatsabo (12,50€ - dieses kann jetzt auch monatlich bezahlt werden).
+
+Diese könnt ihr hier bestellen:
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da, einen lieben Kommentar und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #unboxing #glossybox
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Twicy:
+Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
+TW10Y
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1d:T1003,☀️Unboxing Instyle Box Sommer-Edition☀️ - Juli 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+m heutigen Video zeige ich euch ein Unboxing der Instyle Box Sommer Edition. Dies ist eine Beauty-Abobox.
+Diese gibt es im Flexiblem Abo für 29,95€, im Halbjahresabo für 27€  pro Box (=54€) oder aber im Jahresabo für 25€ pro Box (=100€).
+
+Die Box kannst du dir über folgenden Link bestellen:
+
+https://www.box.instyle.de/control/productlist
+
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #unboxing #instylebox
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Twicy:
+Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
+TW10Y
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1e:Tf5a,Unboxing Fairy Box mit First Impression Wild Animals 🦓 - Juli 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+heute zeige ich das die neue Fairybox und meine neue Lidschattenpalette Wild Animal von Revolution.
+
+Hier geht's zur Homepage:
+https://fairy-box.de/
+
+Ihr könnt euch auf die Warteliste setzen lassen, damit ihr eine Info bekommt, wenn es einen freien Platz gibt.
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #unboxing #fairybox
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Twicy:
+Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
+TW10Y
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1f:T130c,🌞Eurapon for you Box Sommer-Edition🌞 mit Verlosung - Juli 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch die Sommer-Edition der Euraponbox.
+Die nächste Verkaufsrunde findet am 07.07.2021 um 16 Uhr statt:
+
+https://www.eurapon.de/eurapon-for-you-08024690
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #euraponforyoubox #verlosung
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+Angaben zur Verlosung:
+1. Schreibe mir einen lieben Kommentar unter dieses Video mit das Du teilnehmen möchtest und #apothekenbox ein✅
+2. Hinterlasst mir bitte eine Möglichkeit wie ich euch kontaktieren kann (entweder Mailadresse oder Instagram Account)
+3. Die Verlosung ist ab 18 Jahren
+4. Die Verlosung endet am 19.07.2021 um 23:00 Uhr 
+5. Die Gewinner werden per Instagram oder E-Mail benachrichtigt und muss sich innerhalb einer Woche nach Verlosungsende bei mir per Mail oder Instagram melden 
+6. Der Rechtsweg ist ausgeschlossen 
+7. Jeder kann 1x teilnehmen 
+8. Die Verlosung gilt für Deutschland
+
+Hier ein Link zu den Richtlinien von Youtube: https://www.youtube.com/intl/de/yt/ab... 
+
+Wettbewerbsrichtlinien von YouTube / Bitte unbedingt lesen!
+https://support.google.com/youtube/an...
+
+Youtube steht in keinem Zusammenhang mit dem Gewinnspiel.
+Datenschutzhinweis: Es werden keine Daten gespeichert! Die Adresse & Name des Gewinners werden lediglich für den Versand genutzt und danach sofort gelöscht
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Twicy:
+Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
+TW10Y
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.20:Te31,💚Tauschpaket mit der lieben Irene💚 - Juli 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch das Tauschpaket von der lieben Irene.
+
+Link zu Irenes Video:
+https://youtu.be/nN72ko0F2XE
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #tauschpaket #hormesirene
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Twicy:
+Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
+TW10Y
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.21:Tf62,Thiemann Shop & Kiko Milano Haul - 🍊 es wird fruchtig 🍉- Juli 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch meinen kleinen Einkauf beim Thiemann Onlineshop und Kiko Milano.
+
+Thiemann Onlineshop:
+https://thiemann.shop/duftkerzen
+
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Kiko Milano Fruit Explosion:
+https://www.kikocosmetics.com/de-de/make-up/limitierte-auflagen/fruit-explosion.html
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #kikomilano #thiemann_shop
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Twicy:
+Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
+TW10Y
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.22:T1300,😄Unboxing Miabox Happy-June-Edition mit Verlosung 😄- Juni 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch das Unboxing der Miabox.
+
+Diese reguläre Box kostet 24,20€ oder aber für 3 Monate 66€.
+
+Mein Freundelink:*
+https://miabox.de/FrIv/AntjeK/gwobikzniq3r
+
+Ich erhalte ein Gratisprodukt.
+
+Hier könnt ihr die verschiedenen Editionen bestellen:
+https://miabox.de/shop/aktuelleEditionen
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #unboxing #miabox
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+Angaben zur Verlosung:
+1. Sei Abonnent von meinem Kanal (das Abo muss sichtbar für mich sein)✅
+2. Gib diesem Video bei Gefallen einen Daumen nach oben ✅
+3. Schreibe mir einen lieben Kommentar unter dieses Video mit das Du teilnehmen möchtest und #miabox ein✅
+4. Die Verlosung ist ab 18 Jahren
+5. Die Verlosung endet am 14.07.2021 um 23:00 Uhr 
+6. Die Gewinner werden per Instagram benachrichtigt oder E-Mail und muss sich innerhalb einer Woche nach Verlosungsende bei mir per Mail oder Instagram melden 
+7. Der Rechtsweg ist ausgeschlossen 
+8. Jeder kann 1x teilnehmen 
+9. Die Verlosung gilt für Deutschland
+
+Hier ein Link zu den Richtlinien von Youtube: https://www.youtube.com/intl/de/yt/ab... 
+
+Wettbewerbsrichtlinien von YouTube / Bitte unbedingt lesen!
+https://support.google.com/youtube/an...
+
+
+Youtube steht in keinem Zusammenhang mit dem Gewinnspiel.
+Datenschutzhinweis: Es werden keine Daten gespeichert! Die Adresse & Name des Gewinners werden lediglich für den Versand genutzt und danach sofort gelöscht
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Twicy:
+Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
+TW10Y
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.6:["$","div",null,{"children":[["$","$Le",null,{}],["$","section",null,{"className":"mb-20 mx-auto text-center bg-sky-800 w-full p-10 text-2xl md:text-4xl lg:text-5xl font-bold shadow-md shadow-gray-400","children":["$","h1",null,{"className":"text-muted","children":"Videos und Shorts aus Antjes Wereld"}]}],["$","div",null,{"className":"container mx-auto px-5","children":[["$","div",null,{"className":"prose lg:prose-xl dark:prose-invert blog-content max-w-full","children":[["$","p","p-0",{"children":["$","strong","strong-0",{"children":"Entdeckt in meinen Videos und Shorts mit mir die Welt der Bücher und Schönheit!"}]}],"\n",["$","p","p-1",{"children":"Hier findet ihr alle Videos und Shorts von meinem YouTube-Kanal „Antjes Wereld“.\nIn diesen teile ich meine Leidenschaft für Bücher und Beauty mit euch. Darin geht es u.a. um spannende Buchbesprechungen, in denen ich meine Lieblingsromane und auch Neuerscheinungen vorstelle.\nIch gebe euch wertvolle Lesetipps und teile meine persönlichen Empfehlungen, damit ihr die besten Bücher für eure nächste Lektüre findet.\nZusätzlich zu meinen Buchinhalten erwarten euch auch Beauty-Videos und -Shorts, in denen ich meine liebsten Produkte vorstelle und Tipps für eure Schönheitsroutine teile."}],"\n",["$","p","p-2",{"children":"Abonniert meinen YouTube-Kanal, um keine neuen Videos oder Shorts zu verpassen, und lasst uns gemeinsam in die faszinierende Welt der Bücher und der Schönheit eintauchen!"}]]}],["$","div",null,{"className":"text-center","children":["$","button",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted transition-transform transform hover:scale-105 p-2 h-20 w-96 shadow-md shadow-gray-400 text-2xl font-bold mt-10 bg-sky-800 text-muted","ref":"$undefined","children":["$","$Lf",null,{"href":"https://www.youtube.com/@antjeswereld","target":"_blank","className":"w-full h-full flex flex-row items-center justify-center","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 576 512","className":"mr-5 !w-16 !h-16 block","children":["$undefined",[["$","path","0",{"d":"M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]," Zum YouTube-Kanal"]}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-16 2xl:gap-28 lg:grid-cols-2 xl:grid-cols-3 md:mt-24 mt-8 mb-6 justify-items-center","children":[["$","div","NKE9NJoAFZQ",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=NKE9NJoAFZQ","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/NKE9NJoAFZQ/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Blissim Box 💙Die blaue Stunde 💙- Juli/August 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=NKE9NJoAFZQ","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Blissim Box 💙Die blaue Stunde 💙- Juli/August 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"01. August 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$11"}]]}]]}],["$","div","DB7MzZK51Kw",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=DB7MzZK51Kw","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/DB7MzZK51Kw/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Miabox ☀️Sommer Love Edition❤️ mit Verlosung - Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=DB7MzZK51Kw","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Miabox ☀️Sommer Love Edition❤️ mit Verlosung - Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"30. Juli 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$12"}]]}]]}],["$","div","GyEjzxiNc9o",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=GyEjzxiNc9o","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/GyEjzxiNc9o/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing TrendRaider Box 🌈 Colour your day 🌈 - Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=GyEjzxiNc9o","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing TrendRaider Box 🌈 Colour your day 🌈 - Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"28. Juli 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$13"}]]}]]}],["$","div","lFxoJ50G1Kg",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=lFxoJ50G1Kg","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/lFxoJ50G1Kg/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Action, TKmaxx und Rossmann Haul - Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=lFxoJ50G1Kg","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Action, TKmaxx und Rossmann Haul - Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"26. Juli 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$14"}]]}]]}],["$","div","elODqtjpXjU",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=elODqtjpXjU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/elODqtjpXjU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Rossmann Sommer Haul + Unboxing Catrice Surprise Box - Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=elODqtjpXjU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Rossmann Sommer Haul + Unboxing Catrice Surprise Box - Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"25. Juli 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$15"}]]}]]}],["$","div","G3_AvlsRtwI",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=G3_AvlsRtwI","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/G3_AvlsRtwI/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing MyLittleBox x albertine ☀️Die Sommerbox ☀️- Juli / August 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=G3_AvlsRtwI","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing MyLittleBox x albertine ☀️Die Sommerbox ☀️- Juli / August 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"23. Juli 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$16"}]]}]]}],["$","div","4v2aUzTbxqM",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=4v2aUzTbxqM","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/4v2aUzTbxqM/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel dm Haul - 😇 Ich habe wirklich nur das nötigste gekauft...😇 - Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=4v2aUzTbxqM","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"dm Haul - 😇 Ich habe wirklich nur das nötigste gekauft...😇 - Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"19. Juli 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$17"}]]}]]}],["$","div","NW3_GGRhfvA",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=NW3_GGRhfvA","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/NW3_GGRhfvA/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Goodiebox Happy Moments mit Verlosung - Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=NW3_GGRhfvA","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Goodiebox Happy Moments mit Verlosung - Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"18. Juli 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$18"}]]}]]}],["$","div","gDBMeXMBCtc",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=gDBMeXMBCtc","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/gDBMeXMBCtc/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 🌅kleiner Dalton Haul🌅 - Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=gDBMeXMBCtc","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"🌅kleiner Dalton Haul🌅 - Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"16. Juli 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$19"}]]}]]}],["$","div","G4oYT0B9yYQ",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=G4oYT0B9yYQ","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/G4oYT0B9yYQ/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Artdeco Überraschungsbox HAPPY SUMMER TIMES mit Verlosung - Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=G4oYT0B9yYQ","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Artdeco Überraschungsbox HAPPY SUMMER TIMES mit Verlosung - Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"14. Juli 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$1a"}]]}]]}],["$","div","XUGwYI_0r94",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=XUGwYI_0r94","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/XUGwYI_0r94/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Duftwochen beim Thiemann Onlineshop - Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=XUGwYI_0r94","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Duftwochen beim Thiemann Onlineshop - Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"12. Juli 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$1b"}]]}]]}],["$","div","VmYCnLITIYg",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=VmYCnLITIYg","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/VmYCnLITIYg/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Glossybox Beauty Treasures - Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=VmYCnLITIYg","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Glossybox Beauty Treasures - Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"11. Juli 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$1c"}]]}]]}],["$","div","F90Y5Zsp0Fg",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=F90Y5Zsp0Fg","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/F90Y5Zsp0Fg/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel ☀️Unboxing Instyle Box Sommer-Edition☀️ - Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=F90Y5Zsp0Fg","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"☀️Unboxing Instyle Box Sommer-Edition☀️ - Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"09. Juli 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$1d"}]]}]]}],["$","div","b_3udMpaIOE",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=b_3udMpaIOE","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/b_3udMpaIOE/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Fairy Box mit First Impression Wild Animals 🦓 - Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=b_3udMpaIOE","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Fairy Box mit First Impression Wild Animals 🦓 - Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"07. Juli 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$1e"}]]}]]}],["$","div","E-xY_uvbej8",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=E-xY_uvbej8","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/E-xY_uvbej8/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 🌞Eurapon for you Box Sommer-Edition🌞 mit Verlosung - Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=E-xY_uvbej8","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"🌞Eurapon for you Box Sommer-Edition🌞 mit Verlosung - Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"05. Juli 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$1f"}]]}]]}],["$","div","qDKPwPZuGO0",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=qDKPwPZuGO0","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/qDKPwPZuGO0/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 💚Tauschpaket mit der lieben Irene💚 - Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=qDKPwPZuGO0","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"💚Tauschpaket mit der lieben Irene💚 - Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"04. Juli 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$20"}]]}]]}],["$","div","KkxWK_QOPgc",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=KkxWK_QOPgc","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/KkxWK_QOPgc/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Thiemann Shop & Kiko Milano Haul - 🍊 es wird fruchtig 🍉- Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=KkxWK_QOPgc","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Thiemann Shop &amp; Kiko Milano Haul - 🍊 es wird fruchtig 🍉- Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"02. Juli 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$21"}]]}]]}],["$","div","YzupODJcF18",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=YzupODJcF18","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/YzupODJcF18/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 😄Unboxing Miabox Happy-June-Edition mit Verlosung 😄- Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=YzupODJcF18","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"😄Unboxing Miabox Happy-June-Edition mit Verlosung 😄- Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"30. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$22"}]]}]]}]]}],["$","p",null,{"className":"tracking-tighter text-muted-foreground text-center text-sm md:mb-20 mb-8","children":["Zuletzt aktualisiert am ","17. Juni 2025, 00:43"," Uhr"]}],["$","nav",null,{"role":"navigation","aria-label":"pagination","className":"mx-auto flex w-full justify-center","children":["$","ul",null,{"ref":"$undefined","className":"flex flex-row items-center gap-1","children":[["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted h-10 px-4 py-2 gap-1 pl-2.5","aria-label":"Go to previous page","href":"/videos/page/83","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-4 w-4","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],["$","span",null,{"children":"Zurück"}]]}]}],[["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted h-10 w-10","href":"/videos/page/1","children":"1"}]}],["$","span",null,{"aria-hidden":true,"className":"flex h-9 w-9 items-center justify-center","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-ellipsis h-4 w-4","children":[["$","circle","41hilf",{"cx":"12","cy":"12","r":"1"}],["$","circle","1wjl8i",{"cx":"19","cy":"12","r":"1"}],["$","circle","1pcz8c",{"cx":"5","cy":"12","r":"1"}],"$undefined"]}],["$","span",null,{"className":"sr-only","children":"Weitere Seiten"}]]}]],[["$","li","82",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted h-10 w-10","href":"/videos/page/82","children":82}]}],["$","li","83",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted h-10 w-10","href":"/videos/page/83","children":83}]}],["$","li","84",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"page","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input bg-background transition-colors hover:bg-sky-800 hover:text-muted h-10 w-10","href":"/videos/page/84","children":84}]}],["$","li","85",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted h-10 w-10","href":"/videos/page/85","children":85}]}],["$","li","86",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted h-10 w-10","href":"/videos/page/86","children":86}]}]],[["$","span",null,{"aria-hidden":true,"className":"flex h-9 w-9 items-center justify-center","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-ellipsis h-4 w-4","children":[["$","circle","41hilf",{"cx":"12","cy":"12","r":"1"}],["$","circle","1wjl8i",{"cx":"19","cy":"12","r":"1"}],["$","circle","1pcz8c",{"cx":"5","cy":"12","r":"1"}],"$undefined"]}],["$","span",null,{"className":"sr-only","children":"Weitere Seiten"}]]}],["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted h-10 w-10","href":"/videos/page/99","children":99}]}]],["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted h-10 px-4 py-2 gap-1 pr-2.5","aria-label":"Go to next page","href":"/videos/page/85","children":[["$","span",null,{"children":"Weiter"}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right h-4 w-4","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]]}]}]]}]}]]}],["$","$L23",null,{}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Antjes Wereld: Bücher, Beauty, Lifestyle"}],["$","meta","2",{"name":"description","content":"Willkommen in Antjes Wereld! Videos, Shorts und Reels über Bücher sowie Beauty und Lifestyle inkl. Unboxings. Social-Media-Kanäle: YouTube, Instagram."}],["$","meta","3",{"property":"og:title","content":"Antjes Wereld: Bücher, Beauty, Lifestyle"}],["$","meta","4",{"property":"og:description","content":"Willkommen in Antjes Wereld! Videos, Shorts und Reels über Bücher sowie Beauty und Lifestyle inkl. Unboxings. Social-Media-Kanäle: YouTube, Instagram."}],["$","meta","5",{"name":"twitter:card","content":"summary"}],["$","meta","6",{"name":"twitter:title","content":"Antjes Wereld: Bücher, Beauty, Lifestyle"}],["$","meta","7",{"name":"twitter:description","content":"Willkommen in Antjes Wereld! Videos, Shorts und Reels über Bücher sowie Beauty und Lifestyle inkl. Unboxings. Social-Media-Kanäle: YouTube, Instagram."}],["$","link","8",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+8:null

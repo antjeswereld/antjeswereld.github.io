@@ -1,0 +1,434 @@
+1:"$Sreact.fragment"
+2:I[8534,["736","static/chunks/736-2972e5ba1cd49338.js","177","static/chunks/app/layout-0537dc54c28e657c.js"],"Providers"]
+3:I[5244,[],""]
+4:I[3866,[],""]
+5:I[8438,["634","static/chunks/634-8187c3001598e0e6.js","345","static/chunks/app/not-found-b8c594135b9c578f.js"],"NotFound"]
+7:I[6213,[],"OutletBoundary"]
+9:I[6213,[],"MetadataBoundary"]
+b:I[6213,[],"ViewportBoundary"]
+d:I[4835,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/47aead083664c123.css","style"]
+0:{"P":null,"b":"WV8mdd7htHJLnr3L_QZR0","p":"","c":["","videos","page","26"],"i":false,"f":[[["",{"children":["videos",{"children":["page",{"children":[["page","26","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/47aead083664c123.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"min-h-screen bg-background font-sans antialiased m-auto __variable_e8ce0c","children":["$","$L2",null,{"children":["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],["$","$L5",null,{}]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}],{"children":["videos",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","videos","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["page",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","videos","children","page","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["page","26","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","videos","children","page","children","$0:f:0:1:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":"$L8"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","lhjblt0EGBkf6OuTYVgcQ",{"children":[["$","$L9",null,{"children":"$La"}],["$","$Lb",null,{"children":"$Lc"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$d","$undefined"],"s":false,"S":true}
+e:I[791,["634","static/chunks/634-8187c3001598e0e6.js","338","static/chunks/338-e9726a663e7fb097.js","411","static/chunks/411-3c8008af2d0814de.js","801","static/chunks/app/videos/page/%5Bpage%5D/page-3333f6826300435d.js"],"Header"]
+f:I[8173,["634","static/chunks/634-8187c3001598e0e6.js","338","static/chunks/338-e9726a663e7fb097.js","411","static/chunks/411-3c8008af2d0814de.js","801","static/chunks/app/videos/page/%5Bpage%5D/page-3333f6826300435d.js"],""]
+10:I[7970,["634","static/chunks/634-8187c3001598e0e6.js","338","static/chunks/338-e9726a663e7fb097.js","411","static/chunks/411-3c8008af2d0814de.js","801","static/chunks/app/videos/page/%5Bpage%5D/page-3333f6826300435d.js"],"Image"]
+19:I[2316,["634","static/chunks/634-8187c3001598e0e6.js","338","static/chunks/338-e9726a663e7fb097.js","411","static/chunks/411-3c8008af2d0814de.js","801","static/chunks/app/videos/page/%5Bpage%5D/page-3333f6826300435d.js"],"Footer"]
+11:T91b,Hallo Zusammen,
+
+heute zeige ich euch das Wanderpaket der Gruppe 2. 
+
+Kanalmitglied werden und exklusive Vorteile erhalten:
+https://www.youtube.com/channel/UCDym9OJCRgtQcHgrXm8lPdA/join
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #wanderpaket #unboxing
+Schaut auch gerne auf meinen Instagram Accounts vorbei:
+antjeswereld (Bücher): https://www.instagram.com/antjeswereld/ 
+antjesbeautywereld (Beauty & mehr): https://www.instagram.com/antjesbeautywereld/
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+LOOKFANTASTIC:
+LFDEANTJE (bis zu 20% Rabatt)
+https://tidd.ly/3Yuiuf2 *
+
+Yepoda:
+Ich erhalte einen 15 € Yepoda Gutschein – für jeden neuen Yepoda-Fan, der/die zum ersten Mal bestellt. Ihr bekommt 25 % Rabatt auf eure erste Bestellung.
+Einfach an der Kasse „Antje Kröner“ eingeben und ihr erhaltet automatisch 25 % Rabatt auf eure Bestellung bei Yepoda.
+Yesstyle:
+https://ystyle.co/kYQ9
+Mit meinem Code ANTWERELD22 könnt ihr bei euren Bestellungen sparen.
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+----------------------------------------------------------------------------------------------------------------------
+Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.12:Ta76,Hallo Zusammen,
+
+heute zeige ich euch Bücher, die bei mir angekommen sind. Kennt ihr sie schon?
+
+Bis auf das Buchjournal, dass ich von der Autorin zugeschickt bekommen habe, sind die anderen Bücher alle selbstbezahlt.
+
+Büchmädchen:
+https://www.buchmaedchen.de/shop
+
+Chest of Fandoms:
+https://chest-of-fandoms.de/shop/buecher/special-editions/
+
+Bücherbüchse:
+https://buecherbuechse.de/produkt-kategorie/buecher/
+
+Kanalmitglied werden und exklusive Vorteile erhalten:
+https://www.youtube.com/channel/UCDym9OJCRgtQcHgrXm8lPdA/join
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #buchpost #buchliebe 
+Schaut auch gerne auf meinen Instagram Accounts vorbei:
+antjeswereld (Bücher): https://www.instagram.com/antjeswereld/ 
+antjesbeautywereld (Beauty & mehr): https://www.instagram.com/antjesbeautywereld/
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+LOOKFANTASTIC:
+LFDEANTJE (bis zu 20% Rabatt)
+https://tidd.ly/3Yuiuf2 *
+
+Yepoda:
+Ich erhalte einen 15 € Yepoda Gutschein – für jeden neuen Yepoda-Fan, der/die zum ersten Mal bestellt. Ihr bekommt 25 % Rabatt auf eure erste Bestellung.
+Einfach an der Kasse „Antje Kröner“ eingeben und ihr erhaltet automatisch 25 % Rabatt auf eure Bestellung bei Yepoda.
+Yesstyle:
+https://ystyle.co/kYQ9
+Mit meinem Code ANTWERELD22 könnt ihr bei euren Bestellungen sparen.
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+----------------------------------------------------------------------------------------------------------------------
+Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.13:T952,Hallo Zusammen,
+
+heute schminke ich mich mit den Produkte aus der Sommerbox von Makeupcoach.
+
+Shop:
+https://www.makeupcoach.com/sommer-box
+
+Kanalmitglied werden und exklusive Vorteile erhalten:
+https://www.youtube.com/channel/UCDym9OJCRgtQcHgrXm8lPdA/join
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #makeup
+Schaut auch gerne auf meinen Instagram Accounts vorbei:
+antjeswereld (Bücher): https://www.instagram.com/antjeswereld/ 
+antjesbeautywereld (Beauty & mehr): https://www.instagram.com/antjesbeautywereld/
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+LOOKFANTASTIC:
+LFDEANTJE (bis zu 20% Rabatt)
+https://tidd.ly/3Yuiuf2 *
+
+Yepoda:
+Ich erhalte einen 15 € Yepoda Gutschein – für jeden neuen Yepoda-Fan, der/die zum ersten Mal bestellt. Ihr bekommt 25 % Rabatt auf eure erste Bestellung.
+Einfach an der Kasse „Antje Kröner“ eingeben und ihr erhaltet automatisch 25 % Rabatt auf eure Bestellung bei Yepoda.
+Yesstyle:
+https://ystyle.co/kYQ9
+Mit meinem Code ANTWERELD22 könnt ihr bei euren Bestellungen sparen.
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+----------------------------------------------------------------------------------------------------------------------
+Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.14:T986,Hallo Zusammen,
+
+heute zeige ich euch Lakritz von Genuss Berlin. Ich habe mir ein Sparpaket bestellt und zeige es euch.
+
+Shop:
+https://deingenussberlin.de/collections/spar-sets
+
+Kanalmitglied werden und exklusive Vorteile erhalten:
+https://www.youtube.com/channel/UCDym9OJCRgtQcHgrXm8lPdA/join
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #haul #süßigkeiten 
+Schaut auch gerne auf meinen Instagram Accounts vorbei:
+antjeswereld (Bücher): https://www.instagram.com/antjeswereld/ 
+antjesbeautywereld (Beauty & mehr): https://www.instagram.com/antjesbeautywereld/
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+LOOKFANTASTIC:
+LFDEANTJE (bis zu 20% Rabatt)
+https://tidd.ly/3Yuiuf2 *
+
+Yepoda:
+Ich erhalte einen 15 € Yepoda Gutschein – für jeden neuen Yepoda-Fan, der/die zum ersten Mal bestellt. Ihr bekommt 25 % Rabatt auf eure erste Bestellung.
+Einfach an der Kasse „Antje Kröner“ eingeben und ihr erhaltet automatisch 25 % Rabatt auf eure Bestellung bei Yepoda.
+Yesstyle:
+https://ystyle.co/kYQ9
+Mit meinem Code ANTWERELD22 könnt ihr bei euren Bestellungen sparen.
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+----------------------------------------------------------------------------------------------------------------------
+Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.15:T944,Hallo Zusammen,
+
+heute zeige ich euch Bücher, die bei mir angekommen sind. Diese habe ich alle selbst bezahlt.
+
+Kanalmitglied werden und exklusive Vorteile erhalten:
+https://www.youtube.com/channel/UCDym9OJCRgtQcHgrXm8lPdA/join
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #buchpost #booklove 
+Schaut auch gerne auf meinen Instagram Accounts vorbei:
+antjeswereld (Bücher): https://www.instagram.com/antjeswereld/ 
+antjesbeautywereld (Beauty & mehr): https://www.instagram.com/antjesbeautywereld/
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+LOOKFANTASTIC:
+LFDEANTJE (bis zu 20% Rabatt)
+https://tidd.ly/3Yuiuf2 *
+
+Yepoda:
+Ich erhalte einen 15 € Yepoda Gutschein – für jeden neuen Yepoda-Fan, der/die zum ersten Mal bestellt. Ihr bekommt 25 % Rabatt auf eure erste Bestellung.
+Einfach an der Kasse „Antje Kröner“ eingeben und ihr erhaltet automatisch 25 % Rabatt auf eure Bestellung bei Yepoda.
+Yesstyle:
+https://ystyle.co/kYQ9
+Mit meinem Code ANTWERELD22 könnt ihr bei euren Bestellungen sparen.
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+----------------------------------------------------------------------------------------------------------------------
+Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.16:Ta81,Hallo Zusammen,
+
+heute zeige ich euch Trashy 2.0, das ich zusammen mit Kathrin ausgepackt habe. Teil 2 findet ihr auf ihrem Kanal.
+
+Schaut doch mal bei den anderen Mädels vorbei😉.
+
+🎀  @schikitasplace  
+🎀  @NikasBeautyKiste   
+🎀  @Fruehlingsrolina  
+🎀  @ClaudisWelt  
+🎀  @nicoleninawien  
+🎀  @jennisbeautyworld  
+🎀  @kathrinsweltundso  
+🎀 Antje‘s Wereld
+🎀  @LikeADaisyInSpring  
+🎀  @Rosa87lie  
+
+
+Kanalmitglied werden und exklusive Vorteile erhalten:
+https://www.youtube.com/channel/UCDym9OJCRgtQcHgrXm8lPdA/join
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #trashy #unboxing 
+Schaut auch gerne auf meinen Instagram Accounts vorbei:
+antjeswereld (Bücher): https://www.instagram.com/antjeswereld/ 
+antjesbeautywereld (Beauty & mehr): https://www.instagram.com/antjesbeautywereld/
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+LOOKFANTASTIC:
+LFDEANTJE (bis zu 20% Rabatt)
+https://tidd.ly/3Yuiuf2 *
+
+Yepoda:
+Ich erhalte einen 15 € Yepoda Gutschein – für jeden neuen Yepoda-Fan, der/die zum ersten Mal bestellt. Ihr bekommt 25 % Rabatt auf eure erste Bestellung.
+Einfach an der Kasse „Antje Kröner“ eingeben und ihr erhaltet automatisch 25 % Rabatt auf eure Bestellung bei Yepoda.
+Yesstyle:
+https://ystyle.co/kYQ9
+Mit meinem Code ANTWERELD22 könnt ihr bei euren Bestellungen sparen.
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+----------------------------------------------------------------------------------------------------------------------
+Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.17:Tad8,Hallo Zusammen,
+
+heute zeige ich euch meine Bestellung bei Pull & Bear. Außerdem zeige ich euch Periodenunterwäsche, die ich zugeschickt bekommen habe.
+
+Pull & Bear Onlineshop:
+https://www.pullandbear.com/de/damen-n6417
+
+Kennt ihr die Pantys von The Female Company? Wie sind eure Erfahrungen damit?
+
+Falls ihr sie auch mal ausprobieren möchtet oder weitere kaufen möchtet, dann könnt ihr gerne meinen Code TFC_ANTJE (12% Rabatt auf alle Produkte, MBW 14€) verwenden. 
+
+https://tfc.is/TFC_ANTJE
+
+Kanalmitglied werden und exklusive Vorteile erhalten:
+https://www.youtube.com/channel/UCDym9OJCRgtQcHgrXm8lPdA/join
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #pullandbear #periodenunterwäsche 
+Schaut auch gerne auf meinen Instagram Accounts vorbei:
+antjeswereld (Bücher): https://www.instagram.com/antjeswereld/ 
+antjesbeautywereld (Beauty & mehr): https://www.instagram.com/antjesbeautywereld/
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+LOOKFANTASTIC:
+LFDEANTJE (bis zu 20% Rabatt)
+https://tidd.ly/3Yuiuf2 *
+
+Yepoda:
+Ich erhalte einen 15 € Yepoda Gutschein – für jeden neuen Yepoda-Fan, der/die zum ersten Mal bestellt. Ihr bekommt 25 % Rabatt auf eure erste Bestellung.
+Einfach an der Kasse „Antje Kröner“ eingeben und ihr erhaltet automatisch 25 % Rabatt auf eure Bestellung bei Yepoda.
+Yesstyle:
+https://ystyle.co/kYQ9
+Mit meinem Code ANTWERELD22 könnt ihr bei euren Bestellungen sparen.
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+----------------------------------------------------------------------------------------------------------------------
+Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.18:T99e,Hallo Zusammen,
+
+heute zeige ich euch Bücher, die ich sehr gerne mag. Ist etwas für euch dabei.
+
+Ellie Bradons Shop:
+https://www.elliebradon.com/shop/
+
+Buchmädchen:
+https://www.buchmaedchen.de/shop
+
+Kanalmitglied werden und exklusive Vorteile erhalten:
+https://www.youtube.com/channel/UCDym9OJCRgtQcHgrXm8lPdA/join
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #buchtipps #booklove 
+Schaut auch gerne auf meinen Instagram Accounts vorbei:
+antjeswereld (Bücher): https://www.instagram.com/antjeswereld/ 
+antjesbeautywereld (Beauty & mehr): https://www.instagram.com/antjesbeautywereld/
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+LOOKFANTASTIC:
+LFDEANTJE (bis zu 20% Rabatt)
+https://tidd.ly/3Yuiuf2 *
+
+Yepoda:
+Ich erhalte einen 15 € Yepoda Gutschein – für jeden neuen Yepoda-Fan, der/die zum ersten Mal bestellt. Ihr bekommt 25 % Rabatt auf eure erste Bestellung.
+Einfach an der Kasse „Antje Kröner“ eingeben und ihr erhaltet automatisch 25 % Rabatt auf eure Bestellung bei Yepoda.
+Yesstyle:
+https://ystyle.co/kYQ9
+Mit meinem Code ANTWERELD22 könnt ihr bei euren Bestellungen sparen.
+
+ava & may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+----------------------------------------------------------------------------------------------------------------------
+Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.6:["$","div",null,{"children":[["$","$Le",null,{}],["$","section",null,{"className":"mb-20 mx-auto text-center bg-sky-800 w-full p-10 text-2xl md:text-4xl lg:text-5xl font-bold shadow-md shadow-gray-400","children":["$","h1",null,{"className":"text-muted","children":"Videos und Shorts aus Antjes Wereld"}]}],["$","div",null,{"className":"container mx-auto px-5","children":[["$","div",null,{"className":"prose lg:prose-xl dark:prose-invert blog-content max-w-full","children":[["$","p","p-0",{"children":["$","strong","strong-0",{"children":"Entdeckt in meinen Videos und Shorts mit mir die Welt der Bücher und Schönheit!"}]}],"\n",["$","p","p-1",{"children":"Hier findet ihr alle Videos und Shorts von meinem YouTube-Kanal „Antjes Wereld“.\nIn diesen teile ich meine Leidenschaft für Bücher und Beauty mit euch. Darin geht es u.a. um spannende Buchbesprechungen, in denen ich meine Lieblingsromane und auch Neuerscheinungen vorstelle.\nIch gebe euch wertvolle Lesetipps und teile meine persönlichen Empfehlungen, damit ihr die besten Bücher für eure nächste Lektüre findet.\nZusätzlich zu meinen Buchinhalten erwarten euch auch Beauty-Videos und -Shorts, in denen ich meine liebsten Produkte vorstelle und Tipps für eure Schönheitsroutine teile."}],"\n",["$","p","p-2",{"children":"Abonniert meinen YouTube-Kanal, um keine neuen Videos oder Shorts zu verpassen, und lasst uns gemeinsam in die faszinierende Welt der Bücher und der Schönheit eintauchen!"}]]}],["$","div",null,{"className":"text-center","children":["$","button",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted transition-transform transform hover:scale-105 p-2 h-20 w-96 shadow-md shadow-gray-400 text-2xl font-bold mt-10 bg-sky-800 text-muted","ref":"$undefined","children":["$","$Lf",null,{"href":"https://www.youtube.com/@antjeswereld","target":"_blank","className":"w-full h-full flex flex-row items-center justify-center","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 576 512","className":"mr-5 !w-16 !h-16 block","children":["$undefined",[["$","path","0",{"d":"M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]," Zum YouTube-Kanal"]}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-16 2xl:gap-28 lg:grid-cols-2 xl:grid-cols-3 md:mt-24 mt-8 mb-6 justify-items-center","children":[["$","div","Qaz7zakeG5Q",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=Qaz7zakeG5Q","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/Qaz7zakeG5Q/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Abonnenten Wanderpaket der Gruppe 2 auspacken","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=Qaz7zakeG5Q","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Abonnenten Wanderpaket der Gruppe 2 auspacken"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"11. August 2024"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$11"}]]}]]}],["$","div","J7tec-izZzQ",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=J7tec-izZzQ","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/J7tec-izZzQ/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Summer 🥰 #antjeswereld #summer","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=J7tec-izZzQ","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Summer 🥰 #antjeswereld #summer"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"10. August 2024"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":""}]]}]]}],["$","div","fLgkqU6j7iU",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=fLgkqU6j7iU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/fLgkqU6j7iU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Lesenachschub","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=fLgkqU6j7iU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Lesenachschub"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"09. August 2024"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$12"}]]}]]}],["$","div","zShqsxELwWY",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=zShqsxELwWY","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/zShqsxELwWY/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Kennt ihr diese Buchreihe?","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=zShqsxELwWY","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Kennt ihr diese Buchreihe?"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"08. August 2024"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"#antjeswereld #buchpost \n\nDie Bücher von Ellie Bradon sind einfach so gut. Ihre Bücher kann ich so kaufen, ohne zu wissen worum es geht."}]]}]]}],["$","div","SoZAE0JG-dw",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=SoZAE0JG-dw","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/SoZAE0JG-dw/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Schminken mit den Produkten aus der Sommebox von @makeupcoach","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=SoZAE0JG-dw","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Schminken mit den Produkten aus der Sommebox von @makeupcoach"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"06. August 2024"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$13"}]]}]]}],["$","div","tYPgZcYycIU",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=tYPgZcYycIU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/tYPgZcYycIU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 𝐃𝐲𝐧𝐚𝐬𝐭𝐲 𝐨𝐟 𝐯𝐞𝐧𝐠𝐞𝐚𝐧𝐜𝐞","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=tYPgZcYycIU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"𝐃𝐲𝐧𝐚𝐬𝐭𝐲 𝐨𝐟 𝐯𝐞𝐧𝐠𝐞𝐚𝐧𝐜𝐞"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"06. August 2024"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"#antjeswereld #buchpost"}]]}]]}],["$","div","55wNnSju7us",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=55wNnSju7us","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/55wNnSju7us/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Neues Buch von Sam Woods","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=55wNnSju7us","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Neues Buch von Sam Woods"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"04. August 2024"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"#antjeswereld #buchpost"}]]}]]}],["$","div","wt0dxp13L8s",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=wt0dxp13L8s","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/wt0dxp13L8s/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Kennt ihr Genuss Berlin?","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=wt0dxp13L8s","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Kennt ihr Genuss Berlin?"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"04. August 2024"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$14"}]]}]]}],["$","div","XmirFPF4Jf0",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=XmirFPF4Jf0","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/XmirFPF4Jf0/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Buchpost 🧛🔪 #antjeswereld #buchpost","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=XmirFPF4Jf0","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Buchpost 🧛🔪 #antjeswereld #buchpost"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"03. August 2024"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":""}]]}]]}],["$","div","WK3hNl9jWOY",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=WK3hNl9jWOY","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/WK3hNl9jWOY/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Neuzugänge / Buchpost","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=WK3hNl9jWOY","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Neuzugänge / Buchpost"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"02. August 2024"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$15"}]]}]]}],["$","div","-HI5kD8pqDU",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=-HI5kD8pqDU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/-HI5kD8pqDU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Magic?","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=-HI5kD8pqDU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Magic?"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"02. August 2024"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"#antjeswereld #booktube #booklove"}]]}]]}],["$","div","PsoTH-L-M6w",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=PsoTH-L-M6w","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/PsoTH-L-M6w/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel So schön🥰","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=PsoTH-L-M6w","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"So schön🥰"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"01. August 2024"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":""}]]}]]}],["$","div","DklrgRlENkM",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=DklrgRlENkM","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/DklrgRlENkM/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Kennt ihr diese Bücher?","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=DklrgRlENkM","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Kennt ihr diese Bücher?"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"31. Juli 2024"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":""}]]}]]}],["$","div","otQ2-c7g-A8",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=otQ2-c7g-A8","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/otQ2-c7g-A8/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Trashy 2.0 mit @kathrinsweltundso auspacken Teil 1","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=otQ2-c7g-A8","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Trashy 2.0 mit @kathrinsweltundso auspacken Teil 1"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"30. Juli 2024"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$16"}]]}]]}],["$","div","-FVLwBEDbQc",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=-FVLwBEDbQc","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/-FVLwBEDbQc/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Buchbox auspacken😊","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=-FVLwBEDbQc","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Buchbox auspacken😊"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"30. Juli 2024"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"#antjeswereld #buchbox"}]]}]]}],["$","div","ChWk0xbdcbU",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=ChWk0xbdcbU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/ChWk0xbdcbU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Buchpost 📚","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=ChWk0xbdcbU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Buchpost 📚"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"29. Juli 2024"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"#antjeswereld #buchpost"}]]}]]}],["$","div","svhTZjEU6i4",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=svhTZjEU6i4","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/svhTZjEU6i4/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Meine Bestellung bei Pull&Bear","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=svhTZjEU6i4","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Meine Bestellung bei Pull&amp;Bear"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"28. Juli 2024"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$17"}]]}]]}],["$","div","sSNuAFNiWik",{"className":"w-96 shadow-md shadow-gray-400","children":[["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=sSNuAFNiWik","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L10",null,{"src":"https://i.ytimg.com/vi/sSNuAFNiWik/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Buchtalk mit @kathrinsweltundso","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$Lf",null,{"href":"https://www.youtube.com/watch?v=sSNuAFNiWik","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Buchtalk mit @kathrinsweltundso"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"26. Juli 2024"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","children":"$18"}]]}]]}]]}],["$","p",null,{"className":"tracking-tighter text-muted-foreground text-center text-sm md:mb-20 mb-8","children":["Zuletzt aktualisiert am ","17. Juni 2025, 00:43"," Uhr"]}],["$","nav",null,{"role":"navigation","aria-label":"pagination","className":"mx-auto flex w-full justify-center","children":["$","ul",null,{"ref":"$undefined","className":"flex flex-row items-center gap-1","children":[["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted h-10 px-4 py-2 gap-1 pl-2.5","aria-label":"Go to previous page","href":"/videos/page/25","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-4 w-4","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],["$","span",null,{"children":"Zurück"}]]}]}],[["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted h-10 w-10","href":"/videos/page/1","children":"1"}]}],["$","span",null,{"aria-hidden":true,"className":"flex h-9 w-9 items-center justify-center","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-ellipsis h-4 w-4","children":[["$","circle","41hilf",{"cx":"12","cy":"12","r":"1"}],["$","circle","1wjl8i",{"cx":"19","cy":"12","r":"1"}],["$","circle","1pcz8c",{"cx":"5","cy":"12","r":"1"}],"$undefined"]}],["$","span",null,{"className":"sr-only","children":"Weitere Seiten"}]]}]],[["$","li","24",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted h-10 w-10","href":"/videos/page/24","children":24}]}],["$","li","25",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted h-10 w-10","href":"/videos/page/25","children":25}]}],["$","li","26",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"page","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input bg-background transition-colors hover:bg-sky-800 hover:text-muted h-10 w-10","href":"/videos/page/26","children":26}]}],["$","li","27",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted h-10 w-10","href":"/videos/page/27","children":27}]}],["$","li","28",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted h-10 w-10","href":"/videos/page/28","children":28}]}]],[["$","span",null,{"aria-hidden":true,"className":"flex h-9 w-9 items-center justify-center","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-ellipsis h-4 w-4","children":[["$","circle","41hilf",{"cx":"12","cy":"12","r":"1"}],["$","circle","1wjl8i",{"cx":"19","cy":"12","r":"1"}],["$","circle","1pcz8c",{"cx":"5","cy":"12","r":"1"}],"$undefined"]}],["$","span",null,{"className":"sr-only","children":"Weitere Seiten"}]]}],["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted h-10 w-10","href":"/videos/page/99","children":99}]}]],["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-muted h-10 px-4 py-2 gap-1 pr-2.5","aria-label":"Go to next page","href":"/videos/page/27","children":[["$","span",null,{"children":"Weiter"}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right h-4 w-4","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]]}]}]]}]}]]}],["$","$L19",null,{}]]}]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Antjes Wereld: Bücher, Beauty, Lifestyle"}],["$","meta","2",{"name":"description","content":"Willkommen in Antjes Wereld! Videos, Shorts und Reels über Bücher sowie Beauty und Lifestyle inkl. Unboxings. Social-Media-Kanäle: YouTube, Instagram."}],["$","meta","3",{"property":"og:title","content":"Antjes Wereld: Bücher, Beauty, Lifestyle"}],["$","meta","4",{"property":"og:description","content":"Willkommen in Antjes Wereld! Videos, Shorts und Reels über Bücher sowie Beauty und Lifestyle inkl. Unboxings. Social-Media-Kanäle: YouTube, Instagram."}],["$","meta","5",{"name":"twitter:card","content":"summary"}],["$","meta","6",{"name":"twitter:title","content":"Antjes Wereld: Bücher, Beauty, Lifestyle"}],["$","meta","7",{"name":"twitter:description","content":"Willkommen in Antjes Wereld! Videos, Shorts und Reels über Bücher sowie Beauty und Lifestyle inkl. Unboxings. Social-Media-Kanäle: YouTube, Instagram."}],["$","link","8",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+8:null

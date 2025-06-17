@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Antjes Wereld]]></title>
+        <description><![CDATA[Willkommen in Antjes Wereld! Videos, Shorts und Reels über Bücher sowie Beauty und Lifestyle inkl. Unboxings. Social-Media-Kanäle: YouTube, Instagram.]]></description>
+        <link>https://example.com</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 17 Jun 2025 21:32:46 GMT</lastBuildDate>
+        <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 17 Jun 2025 21:32:46 GMT</pubDate>
+        <item>
+            <title><![CDATA[Neue Bücher, neues Glück: Mein Book Haul!]]></title>
+            <description><![CDATA[Heute präsentiere ich euch die neuesten Bücher, die frisch bei mir angekommen sind: Die Chroniken der Unterwelt (Luxus Kollektion) mit einem digitalen, reihenübergreifendem Farbschnitt von der Bücherbüchse. ]]></description>
+            <link>https://example.com/blog/neue-bucher-neues-gluck-mein-book-haul</link>
+            <guid isPermaLink="true">https://example.com/blog/neue-bucher-neues-gluck-mein-book-haul</guid>
+            <pubDate>Sat, 31 May 2025 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Neuigkeiten von meiner Reise als Verlags-Bloggerin!]]></title>
+            <description><![CDATA[Ich freue mich, euch mitteilen zu können, dass ich eine aufregende neue Rolle als Verlags-Bloggerin bei Dark Devotion Publishing übernommen habe! Dieser Verlag ist bekannt für seine fesselnden Geschichten und talentierten Autorinnen, darunter meine persönliche Favoritin, Melodie Sky.]]></description>
+            <link>https://example.com/blog/neuigkeiten-von-meiner-reise-als-verlags-bloggerin</link>
+            <guid isPermaLink="true">https://example.com/blog/neuigkeiten-von-meiner-reise-als-verlags-bloggerin</guid>
+            <pubDate>Sat, 31 May 2025 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Willkommen in Antjes Wereld!]]></title>
+            <description><![CDATA[Herzlich Willkommen!
+
+Hier findet ihr Content aus meinen Social-Media-Kanälen, in denen ihr alles rund um die Themen Bücher sowie Beauty und Lifestyle findet! Lasst uns zusammen über Bücher reden und entdecken, was in Boxen enthalten ist.]]></description>
+            <link>https://example.com/blog/willkommen-in-antjes-wereld</link>
+            <guid isPermaLink="true">https://example.com/blog/willkommen-in-antjes-wereld</guid>
+            <pubDate>Thu, 29 May 2025 22:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
