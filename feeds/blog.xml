@@ -2,30 +2,30 @@
     <channel>
         <title><![CDATA[Antjes Wereld]]></title>
         <description><![CDATA[Willkommen in Antjes Wereld! Videos, Shorts und Reels über Bücher sowie Beauty und Lifestyle inkl. Unboxings. Social-Media-Kanäle: YouTube, Instagram.]]></description>
-        <link>https://example.com</link>
+        <link>https://antjeswereld.github.io</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Jun 2025 03:42:17 GMT</lastBuildDate>
-        <atom:link href="https://example.com/rss" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Jun 2025 03:42:17 GMT</pubDate>
+        <lastBuildDate>Sun, 22 Jun 2025 03:51:10 GMT</lastBuildDate>
+        <atom:link href="https://antjeswereld.github.io/rss" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 22 Jun 2025 03:51:10 GMT</pubDate>
         <item>
             <title><![CDATA[Silent shadows]]></title>
             <description><![CDATA[Silent Shadows by Ravyn A Stadley Book Cover Reveal. It's very close! Schaut euch hierzu meinen Short auf YouTube an.]]></description>
-            <link>https://example.com/blog/silent-shadows</link>
-            <guid isPermaLink="true">https://example.com/blog/silent-shadows</guid>
+            <link>https://antjeswereld.github.io/blog/silent-shadows</link>
+            <guid isPermaLink="true">https://antjeswereld.github.io/blog/silent-shadows</guid>
             <pubDate>Tue, 17 Jun 2025 22:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Neue Bücher, neues Glück: Mein Book Haul!]]></title>
             <description><![CDATA[Heute präsentiere ich euch die neuesten Bücher, die frisch bei mir angekommen sind: Die Chroniken der Unterwelt (Luxus Kollektion) mit einem digitalen, reihenübergreifendem Farbschnitt von der Bücherbüchse. ]]></description>
-            <link>https://example.com/blog/neue-bucher-neues-gluck-mein-book-haul</link>
-            <guid isPermaLink="true">https://example.com/blog/neue-bucher-neues-gluck-mein-book-haul</guid>
+            <link>https://antjeswereld.github.io/blog/neue-bucher-neues-gluck-mein-book-haul</link>
+            <guid isPermaLink="true">https://antjeswereld.github.io/blog/neue-bucher-neues-gluck-mein-book-haul</guid>
             <pubDate>Sat, 31 May 2025 22:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Neuigkeiten von meiner Reise als Verlags-Bloggerin!]]></title>
             <description><![CDATA[Ich freue mich, euch mitteilen zu können, dass ich eine aufregende neue Rolle als Verlags-Bloggerin bei Dark Devotion Publishing übernommen habe! Dieser Verlag ist bekannt für seine fesselnden Geschichten und talentierten Autorinnen, darunter meine persönliche Favoritin, Melodie Sky.]]></description>
-            <link>https://example.com/blog/neuigkeiten-von-meiner-reise-als-verlags-bloggerin</link>
-            <guid isPermaLink="true">https://example.com/blog/neuigkeiten-von-meiner-reise-als-verlags-bloggerin</guid>
+            <link>https://antjeswereld.github.io/blog/neuigkeiten-von-meiner-reise-als-verlags-bloggerin</link>
+            <guid isPermaLink="true">https://antjeswereld.github.io/blog/neuigkeiten-von-meiner-reise-als-verlags-bloggerin</guid>
             <pubDate>Sat, 31 May 2025 22:00:00 GMT</pubDate>
         </item>
         <item>
@@ -33,8 +33,8 @@
             <description><![CDATA[Herzlich Willkommen!
 
 Hier findet ihr Content aus meinen Social-Media-Kanälen, in denen ihr alles rund um die Themen Bücher sowie Beauty und Lifestyle findet! Lasst uns zusammen über Bücher reden und entdecken, was in Boxen enthalten ist.]]></description>
-            <link>https://example.com/blog/willkommen-in-antjes-wereld</link>
-            <guid isPermaLink="true">https://example.com/blog/willkommen-in-antjes-wereld</guid>
+            <link>https://antjeswereld.github.io/blog/willkommen-in-antjes-wereld</link>
+            <guid isPermaLink="true">https://antjeswereld.github.io/blog/willkommen-in-antjes-wereld</guid>
             <pubDate>Thu, 29 May 2025 22:00:00 GMT</pubDate>
         </item>
     </channel>
