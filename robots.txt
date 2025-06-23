@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://antjeswereld.github.io
+
+# Sitemaps
+Sitemap: https://antjeswereld.github.io/sitemap.xml
