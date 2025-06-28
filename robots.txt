@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://antjeswereld.github.io
+Host: https://www.antjeswereld.de
 
 # Sitemaps
-Sitemap: https://antjeswereld.github.io/sitemap.xml
+Sitemap: https://www.antjeswereld.de/sitemap.xml
