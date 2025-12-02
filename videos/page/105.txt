@@ -13,9 +13,393 @@ f:I[6213,[],"ViewportBoundary"]
 11:I[4835,[],""]
 :HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/84f6e185f98872e6.css","style"]
-0:{"P":null,"b":"uuWn4M6sscRSscyM5hdWL","p":"","c":["","videos","page","105"],"i":false,"f":[[["",{"children":["videos",{"children":["page",{"children":[["page","105","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/84f6e185f98872e6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"de","children":["$","body",null,{"className":"min-h-screen bg-background font-sans antialiased m-auto dark:bg-[rgb(18,18,18)] __variable_f367f3","children":[["$","$L2",null,{"children":[["$","$L3",null,{}],["$","main",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],["$","$L6",null,{}]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-8 md:mt-16 lg:px-16 md:pt-16 bg-sky-800","children":["$","div",null,{"className":"container mx-auto flex flex-col justify-between pt-8 md:pt-0","children":[["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-3 xl:grid-cols-4 lg:gap-32 text-md lg:text-lg","children":[["$","div",null,{"id":"affiliate","className":"text-[rgb(250,250,250)] xl:col-span-2 pb-12","children":[["$","h2",null,{"className":"font-sans font-bold text-2xl md:text-3xl pb-6","children":"Affiliate-Links / -Codes"}],["$","p",null,{"className":"pb-4","children":[["$","span",null,{"children":"Links und Codes, über die ihr bei Abos oder Bestellungen sparen könnt. Mehr Informationen hierzu findet ihr auf meiner "}],["$","$L7",null,{"href":"/gutscheine","className":"font-bold hover:text-sky-300 underline","children":"Gutscheinseite"}],"."]}],["$","ul",null,{"children":[["$","li","ANTJESBEAUTY20",{"className":"pb-4","children":[["$","$L7",null,{"href":"/gutschein/wild","className":"underline font-bold hover:text-sky-300","children":"Wild"}],"*",["$","p",null,{"children":"Mit meinem Code ANTJESBEAUTY20 spart ihr 20% auf eure Bestellung."}]]}],["$","li","LFDEANTJE",{"className":"pb-4","children":[["$","$L7",null,{"href":"/gutschein/lookfantastic","className":"underline font-bold hover:text-sky-300","children":"LOOKFANTASTIC"}],"*",["$","p",null,{"children":"Mit meinem Code LFDEANTJE spart ihr bis zu 20% auf eure Bestellung."}]]}],["$","li","ANTWERELD22",{"className":"pb-4","children":[["$","$L7",null,{"href":"/gutschein/yesstyle","className":"underline font-bold hover:text-sky-300","children":"YESSTYLE"}],"*",["$","p",null,{"children":"Mit meinem Code ANTWERELD22 könnt ihr bei euren Bestellungen sparen."}]]}],["$","li","0417547812",{"className":"pb-4","children":[["$","$L7",null,{"href":"/gutschein/larise","className":"underline font-bold hover:text-sky-300","children":"L'ARISÉ"}],"*",["$","p",null,{"children":"Mit meinem Code 0417547812 erhalten wir beide einen Gutschein im Wert von 10€, wenn ihr ihn bei eurer Bestellung eingebt."}]]}],["$","li","ANTJE-IMDQB",{"className":"pb-4","children":[["$","$L7",null,{"href":"/gutschein/ava-and-may","className":"underline font-bold hover:text-sky-300","children":"ava & may"}],"*",["$","p",null,{"children":"Mit meinem Code ANTJE-IMDQB erhalten Neukunden einen 40%-Rabattcode."}]]}]]}]]}],["$","div",null,{"className":"text-[rgb(250,250,250)] pb-16","children":[["$","h2",null,{"className":"font-sans font-bold text-2xl md:text-3xl pb-6","children":"Navigation"}],["$","ul",null,{"children":[["$","li",null,{"className":"pb-4 font-bold","children":["$","$L7",null,{"href":"/","className":"hover:text-sky-300","children":"Home"}]}],["$","li",null,{"className":"pb-4 font-bold","children":["$","$L7",null,{"href":"/videos","className":"hover:text-sky-300","children":"Videos"}]}],["$","li",null,{"className":"pb-4 font-bold","children":["$","$L7",null,{"href":"/blog","className":"hover:text-sky-300","children":"Blog"}]}],["$","li",null,{"className":"pb-4 font-bold","children":["$","$L7",null,{"href":"/ueber-mich","className":"hover:text-sky-300","children":"Über mich"}]}],["$","li",null,{"className":"font-bold","children":["$","$L7",null,{"href":"/impressum","className":"hover:text-sky-300","children":"Impressum"}]}]]}],["$","h2",null,{"className":"font-sans font-bold text-2xl md:text-3xl pb-6 pt-16","children":"Datenschutz"}],["$","ul",null,{"children":[["$","li",null,{"className":"pb-4 font-bold","children":["$","$L7",null,{"href":"/datenschutzerklaerung","className":"hover:text-sky-300","children":"Datenschutzerklärung"}]}],["$","li",null,{"className":"pb-4 font-bold","children":["$","$L7",null,{"href":"/datenschutzeinstellungen","className":"hover:text-sky-300","children":"Datenschutzeinstellungen"}]}]]}]]}],["$","div",null,{"className":"text-[rgb(250,250,250)] pb-16","children":[["$","h2",null,{"className":"font-sans font-bold text-2xl md:text-3xl pb-6","children":"Kontakt"}],["$","$L7",null,{"href":"mailto:antjeswereld@gmail.com","className":"font-bold hover:text-sky-300","children":"antjeswereld@gmail.com"}]]}]]}],["$","div",null,{"children":[["$","hr",null,{"className":"border-[rgb(228,228,231)]"}],["$","section",null,{"className":"py-6 text-[rgb(250,250,250)] break-words prose text-md lg:text-lg w-full max-w-full","children":[["$","p","p-0",{"children":"Die oben aufgeführten Affiliate-Links und -Codes dienen dazu, euch eine einfache Orientierung und ein schnelles Finden der Produkte zu ermöglichen.\nBei erfolgreicher Nutzung dieser Links oder Codes erhalte ich eine Provision. 😊"}],"\n",["$","p","p-1",{"children":"Es steht euch selbstverständlich frei, wo ihr die Produkte kaufen möchtet. 😊 Affiliate-Links sind durch ein Sternchen (*) am Ende des Links gekennzeichnet, um Transparenz zu gewährleisten."}],"\n",["$","p","p-2",{"children":"Durch die Verwendung meiner Affiliate-Links und -Codes unterstützt ihr meinen Content (Videos, Shorts, Reels, Blog), ohne zusätzliche Kosten für euch."}],"\n",["$","p","p-3",{"children":"Vielen Dank für eure Unterstützung! 💕"}]]}],["$","hr",null,{"className":"border-[rgb(228,228,231)]"}]]}],["$","div",null,{"className":"text-sm text-[rgb(250,250,250)] break-words mt-8 md:mt-12 mb-4 sm:mb-2 flex flex-row items-center justify-between","children":[["$","p",null,{"children":["Copyright ",2025," ","Antje Kröner"," - Alle Rechte vorbehalten | ",["$","$L7",null,{"href":"https://www.steitz.online","className":"hover:text-sky-300","target":"_blank","children":"Webdesign by Florian Steitz"}]]}],["$","$L8",null,{}]]}]]}]}]]}],["$","$L9",null,{}]]}]}]]}],{"children":["videos",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","videos","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["page",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","videos","children","page","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["page","105","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","videos","children","page","children","$0:f:0:1:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$La",null,["$","$Lb",null,{"children":"$Lc"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","Z-PxbLsB-UjSdL1Dyn2Q7",{"children":[["$","$Ld",null,{"children":"$Le"}],["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+0:{"P":null,"b":"7kGTOw9J-rhGFCZYnBuvb","p":"","c":["","videos","page","105"],"i":false,"f":[[["",{"children":["videos",{"children":["page",{"children":[["page","105","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/84f6e185f98872e6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"de","children":["$","body",null,{"className":"min-h-screen bg-background font-sans antialiased m-auto dark:bg-[rgb(18,18,18)] __variable_f367f3","children":[["$","$L2",null,{"children":[["$","$L3",null,{}],["$","main",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],["$","$L6",null,{}]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-8 md:mt-16 lg:px-16 md:pt-16 bg-sky-800","children":["$","div",null,{"className":"container mx-auto flex flex-col justify-between pt-8 md:pt-0","children":[["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-3 xl:grid-cols-4 lg:gap-32 text-md lg:text-lg","children":[["$","div",null,{"id":"affiliate","className":"text-[rgb(250,250,250)] xl:col-span-2 pb-12","children":[["$","h2",null,{"className":"font-sans font-bold text-2xl md:text-3xl pb-6","children":"Affiliate-Links / -Codes"}],["$","p",null,{"className":"pb-4","children":[["$","span",null,{"children":"Links und Codes, über die ihr bei Abos oder Bestellungen sparen könnt. Mehr Informationen hierzu findet ihr auf meiner "}],["$","$L7",null,{"href":"/gutscheine","className":"font-bold hover:text-sky-300 underline","children":"Gutscheinseite"}],"."]}],["$","ul",null,{"children":[["$","li","ANTJESBEAUTY20",{"className":"pb-4","children":[["$","$L7",null,{"href":"/gutschein/wild","className":"underline font-bold hover:text-sky-300","children":"Wild"}],"*",["$","p",null,{"children":"Mit meinem Code ANTJESBEAUTY20 spart ihr 20% auf eure Bestellung."}]]}],["$","li","LFDEANTJE",{"className":"pb-4","children":[["$","$L7",null,{"href":"/gutschein/lookfantastic","className":"underline font-bold hover:text-sky-300","children":"LOOKFANTASTIC"}],"*",["$","p",null,{"children":"Mit meinem Code LFDEANTJE spart ihr bis zu 20% auf eure Bestellung."}]]}],["$","li","ANTWERELD22",{"className":"pb-4","children":[["$","$L7",null,{"href":"/gutschein/yesstyle","className":"underline font-bold hover:text-sky-300","children":"YESSTYLE"}],"*",["$","p",null,{"children":"Mit meinem Code ANTWERELD22 könnt ihr bei euren Bestellungen sparen."}]]}],["$","li","0417547812",{"className":"pb-4","children":[["$","$L7",null,{"href":"/gutschein/larise","className":"underline font-bold hover:text-sky-300","children":"L'ARISÉ"}],"*",["$","p",null,{"children":"Mit meinem Code 0417547812 erhalten wir beide einen Gutschein im Wert von 10€, wenn ihr ihn bei eurer Bestellung eingebt."}]]}],["$","li","ANTJE-IMDQB",{"className":"pb-4","children":[["$","$L7",null,{"href":"/gutschein/ava-and-may","className":"underline font-bold hover:text-sky-300","children":"ava & may"}],"*",["$","p",null,{"children":"Mit meinem Code ANTJE-IMDQB erhalten Neukunden einen 40%-Rabattcode."}]]}]]}]]}],["$","div",null,{"className":"text-[rgb(250,250,250)] pb-16","children":[["$","h2",null,{"className":"font-sans font-bold text-2xl md:text-3xl pb-6","children":"Navigation"}],["$","ul",null,{"children":[["$","li",null,{"className":"pb-4 font-bold","children":["$","$L7",null,{"href":"/","className":"hover:text-sky-300","children":"Home"}]}],["$","li",null,{"className":"pb-4 font-bold","children":["$","$L7",null,{"href":"/videos","className":"hover:text-sky-300","children":"Videos"}]}],["$","li",null,{"className":"pb-4 font-bold","children":["$","$L7",null,{"href":"/blog","className":"hover:text-sky-300","children":"Blog"}]}],["$","li",null,{"className":"pb-4 font-bold","children":["$","$L7",null,{"href":"/ueber-mich","className":"hover:text-sky-300","children":"Über mich"}]}],["$","li",null,{"className":"font-bold","children":["$","$L7",null,{"href":"/impressum","className":"hover:text-sky-300","children":"Impressum"}]}]]}],["$","h2",null,{"className":"font-sans font-bold text-2xl md:text-3xl pb-6 pt-16","children":"Datenschutz"}],["$","ul",null,{"children":[["$","li",null,{"className":"pb-4 font-bold","children":["$","$L7",null,{"href":"/datenschutzerklaerung","className":"hover:text-sky-300","children":"Datenschutzerklärung"}]}],["$","li",null,{"className":"pb-4 font-bold","children":["$","$L7",null,{"href":"/datenschutzeinstellungen","className":"hover:text-sky-300","children":"Datenschutzeinstellungen"}]}]]}]]}],["$","div",null,{"className":"text-[rgb(250,250,250)] pb-16","children":[["$","h2",null,{"className":"font-sans font-bold text-2xl md:text-3xl pb-6","children":"Kontakt"}],["$","$L7",null,{"href":"mailto:antjeswereld@gmail.com","className":"font-bold hover:text-sky-300","children":"antjeswereld@gmail.com"}]]}]]}],["$","div",null,{"children":[["$","hr",null,{"className":"border-[rgb(228,228,231)]"}],["$","section",null,{"className":"py-6 text-[rgb(250,250,250)] break-words prose text-md lg:text-lg w-full max-w-full","children":[["$","p","p-0",{"children":"Die oben aufgeführten Affiliate-Links und -Codes dienen dazu, euch eine einfache Orientierung und ein schnelles Finden der Produkte zu ermöglichen.\nBei erfolgreicher Nutzung dieser Links oder Codes erhalte ich eine Provision. 😊"}],"\n",["$","p","p-1",{"children":"Es steht euch selbstverständlich frei, wo ihr die Produkte kaufen möchtet. 😊 Affiliate-Links sind durch ein Sternchen (*) am Ende des Links gekennzeichnet, um Transparenz zu gewährleisten."}],"\n",["$","p","p-2",{"children":"Durch die Verwendung meiner Affiliate-Links und -Codes unterstützt ihr meinen Content (Videos, Shorts, Reels, Blog), ohne zusätzliche Kosten für euch."}],"\n",["$","p","p-3",{"children":"Vielen Dank für eure Unterstützung! 💕"}]]}],["$","hr",null,{"className":"border-[rgb(228,228,231)]"}]]}],["$","div",null,{"className":"text-sm text-[rgb(250,250,250)] break-words mt-8 md:mt-12 mb-4 sm:mb-2 flex flex-row items-center justify-between","children":[["$","p",null,{"children":["Copyright ",2025," ","Antje Kröner"," - Alle Rechte vorbehalten | ",["$","$L7",null,{"href":"https://www.steitz.online","className":"hover:text-sky-300","target":"_blank","children":"Webdesign by Florian Steitz"}]]}],["$","$L8",null,{}]]}]]}]}]]}],["$","$L9",null,{}]]}]}]]}],{"children":["videos",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","videos","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["page",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","videos","children","page","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["page","105","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","videos","children","page","children","$0:f:0:1:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$La",null,["$","$Lb",null,{"children":"$Lc"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","lgxe11IpBTMXKK-CVzBZo",{"children":[["$","$Ld",null,{"children":"$Le"}],["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
 12:I[7970,["173","static/chunks/173-91faa58eb7cffa71.js","970","static/chunks/970-ac9f7f8d4e095485.js","801","static/chunks/app/videos/page/%5Bpage%5D/page-421cfdbfd1ddb998.js"],"Image"]
-13:Te46,Überraschungsbox Premium von TrendRaider - Dezember 2020 - Antje's Wereld
+13:T110a,300 Abonnenten Verlosung - Vielen Dank - Dezember 2020 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video möchte ich mich bei euch bedanken. Vielen Dank, dass ihr mir die treue haltet und dafür habe ich auch ein kleines Dankeschön für euch.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #Verlosung #300
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+Angaben zur Verlosung:
+1. Sei Abonnent von meinem Kanal (das Abo muss sichtbar für mich sein)✅
+2. Gib diesem Video bei Gefallen einen Daumen nach oben ✅
+3. Schreibe mir einen lieben Kommentar unter dieses Video mit das Du teilnehmen möchtest und #300 ein✅
+4. Die Verlosung ist ab 16 Jahren oder mit Einverständniserklärung der Eltern 
+5. Die Verlosung endet am 20.12.2020 um 23:00 Uhr 
+6. Die Gewinner werden per Instagram benachrichtigt oder E-Mail und muss sich innerhalb einer Woche nach Verlosungsende bei mir per Mail oder Instagram melden 
+7. Der Rechtsweg ist ausgeschlossen 
+8. Jeder kann 1x teilnehmen 
+9. Die Verlosung gilt für Deutschland
+
+Hier ein Link zu den Richtlinien von Youtube: https://www.youtube.com/intl/de/yt/ab... 
+
+Wettbewerbsrichtlinien von YouTube / Bitte unbedingt lesen!
+https://support.google.com/youtube/an...
+
+
+Youtube steht in keinem Zusammenhang mit dem Gewinnspiel.
+Datenschutzhinweis: Es werden keine Daten gespeichert! Die Adresse &amp; Name des Gewinners werden lediglich für den Versand genutzt und danach sofort gelöscht
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://www.bygoodiebox.de/antjekroner *
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.14:T1274,Unboxing My Little Box x MAC - Dezember 2020 - Antje's Wereld
+
+Hallo Zusammen,
+
+heute zeige ich das Unboxing der My Little Box x MAC.
+
+Diese gibt es im Monats-, und Jahresabo. Die Box im Monatsabo kostet 17,50€ und im Jahresabo 195€ (Einmalzahlung, 12 Boxen zum Preis von 11).
+
+Die Box kannst du dir über folgenden Link bestellen:
+
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #Verlosung #mylittlebox
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+
+Angaben zur Verlosung:
+1. Sei Abonnent von meinem Kanal (das Abo muss sichtbar für mich sein)✅
+2. Gib diesem Video bei Gefallen einen Daumen nach oben ✅
+3. Schreibe mir einen lieben Kommentar unter dieses Video mit das Du teilnehmen möchtest und #mylittlebox ein✅
+4. Die Verlosung ist ab 16 Jahren oder mit Einverständniserklärung der Eltern 
+5. Die Verlosung endet am 19.12.2020 um 23:00 Uhr 
+6. Die Gewinner werden per Instagram benachrichtigt oder E-Mail und muss sich innerhalb einer Woche nach Verlosungsende bei mir per Mail oder Instagram melden 
+7. Der Rechtsweg ist ausgeschlossen 
+8. Jeder kann 1x teilnehmen 
+9. Die Verlosung gilt für Deutschland
+
+Hier ein Link zu den Richtlinien von Youtube: https://www.youtube.com/intl/de/yt/ab... 
+
+Wettbewerbsrichtlinien von YouTube / Bitte unbedingt lesen!
+https://support.google.com/youtube/an...
+
+
+Youtube steht in keinem Zusammenhang mit dem Gewinnspiel.
+Datenschutzhinweis: Es werden keine Daten gespeichert! Die Adresse &amp; Name des Gewinners werden lediglich für den Versand genutzt und danach sofort gelöscht
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+ava &amp; may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://www.bygoodiebox.de/antjekroner *
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.15:Tc97,Unboxing Taobox Happy Christmas von Taoasis - So duftet Weihnachten - Dezember 2020 - Antje's Wereld
+
+Hallo Zusammen,
+
+heute zeige ich euch das Unboxing der Happy Christmas Taobox.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #Unboxing #taobox
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://www.bygoodiebox.de/antjekroner *
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.16:Te86,Unboxing Glossybox Christmas Edition - Dezember 2020 - Antje's Wereld
+
+Hallo Zusammen,
+
+heute zeige ich euch das Unboxing der Christmas Edition von der Glossybox.
+
+Außerdem teste ich eine neue Kamera und Mikro. 
+
+Die Glossybox ist eine Abobox. Diese gibt es als Monatsabo (je Box 15€), 3 Monats- (pro Quartal 43,50€ Einmalzahlung), 6 Monats- (pro Halbjahr 81,00€ Einmalzahlung) und 12 Monatsabo (12,50€ - dieses kann jetzt auch monatlich bezahlt werden).
+
+Diese könnt ihr hier bestellen:
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #Unboxing #Glossybox
+
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://www.bygoodiebox.de/antjekroner *
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.17:Te46,Überraschungsbox Premium von TrendRaider - Dezember 2020 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -103,7 +487,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte geschenkt bekommen.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.14:Tb34,Überraschungspaket von nicole_nina_wien -  Bin total überwältigt - Dezember 2020 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.18:Tb34,Überraschungspaket von nicole_nina_wien -  Bin total überwältigt - Dezember 2020 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -174,7 +558,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte geschenkt bekommen.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.15:Tf27,Unboxing Blissim ex Blissim IT'S A CHRISTMAS STORY mit Verlosung - Dezember 2020 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.19:Tf27,Unboxing Blissim ex Blissim IT'S A CHRISTMAS STORY mit Verlosung - Dezember 2020 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -266,7 +650,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Box selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.16:Ted0,Kiko Milano Wonder Woman 2020 mit Verlosung - Dezember 2020 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1a:Ted0,Kiko Milano Wonder Woman 2020 mit Verlosung - Dezember 2020 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -353,7 +737,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.17:Ta54,Purish &amp; Douglas Haul - Dominique Cosmetics, Lethal Cosmetcs etc. - November 2020 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1b:Ta54,Purish &amp; Douglas Haul - Dominique Cosmetics, Lethal Cosmetcs etc. - November 2020 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -417,7 +801,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.18:Te86,Asam Beauty Haul mit Verlosung - Orange, Mint, ICE - November 2020 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1c:Te86,Asam Beauty Haul mit Verlosung - Orange, Mint, ICE - November 2020 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -505,7 +889,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.19:Ta41,Unboxing Ava &amp; May Adventskalender - November 2020 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1d:Ta41,Unboxing Ava &amp; May Adventskalender - November 2020 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -570,7 +954,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe den Adventskalender selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1a:Te76,dm + Rossman Haul mit Verlosung - Make-up, Deko, Pflegeprodukte - November 2020 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1e:Te76,dm + Rossman Haul mit Verlosung - Make-up, Deko, Pflegeprodukte - November 2020 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -656,7 +1040,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1b:Tab6,Unboxing Purelei Adventskalender - Mahina Club - Silber - November 2020 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1f:Tab6,Unboxing Purelei Adventskalender - Mahina Club - Silber - November 2020 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -721,7 +1105,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe den Adventskalender selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1c:Tadd,Unboxing DocMorris Für dich Box - Winteredition - November 2020 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.20:Tadd,Unboxing DocMorris Für dich Box - Winteredition - November 2020 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -786,7 +1170,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Box selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1d:Tbf4,Unboxing Glossybox Make-up and Magic - November 2020 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.21:Tbf4,Unboxing Glossybox Make-up and Magic - November 2020 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -860,7 +1244,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Box selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1e:Ta6f,Meine aufgebrauchten Produkte Teil2 - November 2020 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.22:Ta6f,Meine aufgebrauchten Produkte Teil2 - November 2020 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -925,7 +1309,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1f:Tc55,Unboxing TrendRaider Box - Find your Balance - November 2020 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.23:Tc55,Unboxing TrendRaider Box - Find your Balance - November 2020 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -1003,7 +1387,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Box selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.20:Tac5,Unboxing Eurapon for you Box - November 2020 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.24:Tac5,Unboxing Eurapon for you Box - November 2020 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -1071,300 +1455,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Box selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.21:Tb10,Unboxing Goodiebox You got this - November 2020 - Antje's Wereld
-
-Hallo Zusammen,
-
-heute zeige ich das Unboxing der Goodiebox für den Oktober. Diese kostet 19,95€ im Abo.
-
-Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst deine erste Box 50% günstiger:
-
-https://www.bygoodiebox.de/antjekroner *
-
-Ich wünsche euch jetzt viel Spaß beim Video.
-
-Eure Antje
-
-#antjeswereld #Unboxing #Goodiebox
-
-Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
-
-----------------------------------------------------------------------------------------------------------------
-Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
-Bloomon:
-https://www.bloomon.de/?referral=antjekrone 
-
-Ihr bekommt eine Vase und ich ein Bouquet.
-
-Purelei:
-http://purelei.refr.cc/antjekroner
-
-Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
-
-My Little Box:
-https://www.mylittlebox.net/
-
-Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
-
-Lookfantastic:
-10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
-
-https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
-
-Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
-
-Pink Box:
-Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
-
-Goodiebox:
-Du bekommst die erste Box 50% günstiger.
-
-https://www.bygoodiebox.de/antjekroner *
-
-Glossybox:
-https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
-
-Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
-
-Birchbox:
-https://birchbox.fr/r/Antje-53833 *
-
-Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
-
-----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
-
-
-Ich markiere das Video als DAUERWERBESENDUNG,
-da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
-
-Ich habe die Box selbst gekauft.
-
------------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.22:Tbbe,Unboxing my little box x clinique - Thé ou Café? - November 2020 - Antje's Wereld
-
-Hallo Zusammen,
-
-heute zeige ich das Unboxing der My Little Box.
-
-Diese gibt es im Monats-, und Jahresabo. Die Box im Monatsabo kostet 17,50€ und im Jahresabo 195€ (Einmalzahlung, 12 Boxen zum Preis von 11).
-
-Die Box kannst du dir über folgenden Link bestellen:
-
-https://www.mylittlebox.net/
-
-Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
-
-Ich wünsche euch jetzt viel Spaß beim Video.
-
-Eure Antje
-
-#Antjeswereld #Unboxing #mylittlebox
-
-Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
-
-----------------------------------------------------------------------------------------------------------------
-Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
-Bloomon:
-https://www.bloomon.de/?referral=antjekrone 
-
-Ihr bekommt eine Vase und ich ein Bouquet.
-
-Purelei:
-http://purelei.refr.cc/antjekroner
-
-Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
-
-My Little Box:
-https://www.mylittlebox.net/
-
-Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
-
-Lookfantastic:
-10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
-
-https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
-
-Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
-
-Pink Box:
-Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
-
-Goodiebox:
-Du bekommst die erste Box 50% günstiger.
-
-https://www.bygoodiebox.de/antjekroner *
-
-Glossybox:
-https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
-
-Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
-
-Birchbox:
-https://birchbox.fr/r/Antje-53833 *
-
-Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
-
-----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
-
-
-Ich markiere das Video als DAUERWERBESENDUNG,
-da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
-
-Ich habe die Box selbst gekauft.
-
------------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.23:Te96,Unboxing Crash Cosmetics &amp; Friends Adventskalender - November 2020 - Antje's Wereld
-
-Hallo Zusammen,
-
-im heutigen Video zeige ich euch das Unboxing des Adventskalenders von Crash Cosmetics. Dieser ist leider ausverkauft.
-
-Ich wünsche euch jetzt viel Spaß beim Video.
-
-Eure Antje
-
-#Antjeswereld #Adventskalender #CrashCosmetics
-
-Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
-
-Angaben zur Verlosung:
-1. Sei Abonnent von meinem Kanal (das Abo muss sichtbar für mich sein)✅
-2. Gib diesem Video bei Gefallen einen Daumen nach oben ✅
-3. Schreibe mir einen lieben Kommentar unter dieses Video mit das Du teilnehmen möchtest und #Louisa ein✅
-4. Die Verlosung ist ab 18 Jahren
-5. Die Verlosung endet am 24.11.2020 um 23:00 Uhr 
-6. Die Gewinner werden per Instagram benachrichtigt oder E-Mail und muss sich innerhalb einer Woche nach Verlosungsende bei mir per Mail oder Instagram melden 
-7. Der Rechtsweg ist ausgeschlossen 
-8. Jeder kann 1x teilnehmen 
-9. Die Verlosung gilt für Deutschland
-
-Hier ein Link zu den Richtlinien von Youtube: https://www.youtube.com/intl/de/yt/ab... 
-
-Wettbewerbsrichtlinien von YouTube / Bitte unbedingt lesen!
-https://support.google.com/youtube/an...
-
-
-Youtube steht in keinem Zusammenhang mit dem Gewinnspiel.
-Datenschutzhinweis: Es werden keine Daten gespeichert! Die Adresse &amp; Name des Gewinners werden lediglich für den Versand genutzt und danach sofort gelöscht
-
-----------------------------------------------------------------------------------------------------------------
-Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
-Bloomon:
-https://www.bloomon.de/?referral=antjekrone 
-
-Ihr bekommt eine Vase und ich ein Bouquet.
-
-Purelei:
-http://purelei.refr.cc/antjekroner
-
-Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
-
-My Little Box:
-https://www.mylittlebox.net/
-
-Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
-
-Lookfantastic:
-10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
-
-https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
-
-Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
-
-Pink Box:
-Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
-
-Goodiebox:
-Du bekommst die erste Box 50% günstiger.
-
-https://www.bygoodiebox.de/antjekroner *
-
-Glossybox:
-https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
-
-Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
-
-Birchbox:
-https://birchbox.fr/r/Antje-53833 *
-
-Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
-
-----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
-
-
-Ich markiere das Video als DAUERWERBESENDUNG,
-da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
-
-Ich habe den Adventskalender selbst gekauft.
-
------------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.24:Ta52,Unboxing Herbst Sale Glossybox Teil 2 - November 2020 - Antje's Wereld
-
-Hallo Zusammen,
-
-im heutigen Video zeige ich euch mein letztes Glossybox Bundles, das ich im Sale gekauft habe. 
-
-Ich wünsche euch jetzt viel Spaß beim Video.
-
-Eure Antje
-
-Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
-
-----------------------------------------------------------------------------------------------------------------
-Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
-Bloomon:
-https://www.bloomon.de/?referral=antjekrone 
-
-Ihr bekommt eine Vase und ich ein Bouquet.
-
-Purelei:
-http://purelei.refr.cc/antjekroner
-
-Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
-
-My Little Box:
-https://www.mylittlebox.net/
-
-Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
-
-Lookfantastic:
-10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
-
-https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
-
-Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
-
-Pink Box:
-Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
-
-Goodiebox:
-Du bekommst die erste Box 50% günstiger.
-
-https://www.bygoodiebox.de/antjekroner *
-
-Glossybox:
-https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
-
-Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
-
-Birchbox:
-https://birchbox.fr/r/Antje-53833 *
-
-Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
-
-----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
-
-
-Ich markiere das Video als DAUERWERBESENDUNG,
-da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
-
-Ich habe die Produkte selbst gekauft.
-
------------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.
-
-
-#Antje'sWereld #Sale #Glossyboxa:["$","section",null,{"children":[["$","div",null,{"className":"mb-6 md:mb-12 lg:mb-20 mx-auto text-center bg-sky-800 w-full p-6 md:p-10 text-2xl md:text-4xl lg:text-5xl font-bold shadow-md shadow-gray-400 dark:shadow-gray-600","children":["$","h1",null,{"className":"text-[rgb(250,250,250)]","children":"Bücher & Beauty: Meine YouTube-Videos und Shorts - Seite 105"}]}],["$","div",null,{"className":"container mx-auto px-2 sm:px-5","children":[["$","div",null,{"className":"prose lg:prose-xl dark:prose-invert blog-content max-w-full px-3 md:px-16 2xl:px-0","children":[["$","h3","h3-0",{"children":"Buchrezensionen & Beauty-Tipps"}],"\n",["$","p","p-0",{"children":"Hier auf Seite 105 findet ihr weitere meiner Videos und Shorts von meinem YouTube-Kanal.\nAbonniert meinen YouTube-Kanal, um keine neuen Videos oder Shorts zu verpassen!"}]]}],["$","div",null,{"className":"text-center","children":["$","button",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] transition-transform transform hover:scale-105 p-5 sm:p-2 h-20 w-88 sm:w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 text-xl sm:text-2xl font-bold mt-10 bg-sky-800 text-[rgb(250,250,250)]","ref":"$undefined","children":["$","$L7",null,{"href":"https://www.youtube.com/@antjeswereld","target":"_blank","className":"w-full h-full flex flex-row items-center justify-center hover:text-[rgb(250,250,250)]","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 576 512","className":"mr-5 !w-16 !h-16 block","children":["$undefined",[["$","path","0",{"d":"M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]," Zum YouTube-Kanal"]}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-16 2xl:gap-28 lg:grid-cols-2 xl:grid-cols-3 md:mt-24 mt-8 mb-6 justify-items-center","children":[["$","div","93z594SwVFw",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=93z594SwVFw","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/93z594SwVFw/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Überraschungsbox Premium von TrendRaider - Dezember 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=93z594SwVFw","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Überraschungsbox Premium von TrendRaider - Dezember 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"07. Dezember 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$13"}}]]}]]}],["$","div","09iOEgfuOLU",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=09iOEgfuOLU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/09iOEgfuOLU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Überraschungspaket von nicole_nina_wien -  Bin total überwältigt - Dezember 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=09iOEgfuOLU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Überraschungspaket von nicole_nina_wien -  Bin total überwältigt - Dezember 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"05. Dezember 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$14"}}]]}]]}],["$","div","VNr6B3DTgXc",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=VNr6B3DTgXc","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/VNr6B3DTgXc/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Blissim ex Blissim IT'S A CHRISTMAS STORY mit Verlosung - Dezember 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=VNr6B3DTgXc","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Blissim ex Blissim IT'S A CHRISTMAS STORY mit Verlosung - Dezember 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"04. Dezember 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$15"}}]]}]]}],["$","div","eAbqqcUhU-o",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=eAbqqcUhU-o","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/eAbqqcUhU-o/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Kiko Milano Wonder Woman 2020 mit Verlosung - Dezember 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=eAbqqcUhU-o","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Kiko Milano Wonder Woman 2020 mit Verlosung - Dezember 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"02. Dezember 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$16"}}]]}]]}],["$","div","xoy2AkEU9eE",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=xoy2AkEU9eE","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/xoy2AkEU9eE/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Purish & Douglas Haul - Dominique Cosmetics, Lethal Cosmetcs etc. - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=xoy2AkEU9eE","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Purish &amp; Douglas Haul - Dominique Cosmetics, Lethal Cosmetcs etc. - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"30. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$17"}}]]}]]}],["$","div","1yPr1JXBrdM",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=1yPr1JXBrdM","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/1yPr1JXBrdM/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Asam Beauty Haul mit Verlosung - Orange, Mint, ICE - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=1yPr1JXBrdM","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Asam Beauty Haul mit Verlosung - Orange, Mint, ICE - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"27. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$18"}}]]}]]}],["$","div","_1eN4hPzU44",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=_1eN4hPzU44","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/_1eN4hPzU44/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Ava & May Adventskalender - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=_1eN4hPzU44","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Ava &amp; May Adventskalender - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"25. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$19"}}]]}]]}],["$","div","O7yKzkyVOSM",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=O7yKzkyVOSM","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/O7yKzkyVOSM/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel dm + Rossman Haul mit Verlosung - Make-up, Deko, Pflegeprodukte - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=O7yKzkyVOSM","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"dm + Rossman Haul mit Verlosung - Make-up, Deko, Pflegeprodukte - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"23. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1a"}}]]}]]}],["$","div","lmbRSzV97b8",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=lmbRSzV97b8","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/lmbRSzV97b8/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Purelei Adventskalender - Mahina Club - Silber - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=lmbRSzV97b8","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Purelei Adventskalender - Mahina Club - Silber - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"22. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1b"}}]]}]]}],["$","div","SfKk_8bEuQM",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=SfKk_8bEuQM","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/SfKk_8bEuQM/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing DocMorris Für dich Box - Winteredition - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=SfKk_8bEuQM","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing DocMorris Für dich Box - Winteredition - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"21. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1c"}}]]}]]}],["$","div","OzStZeq2azM",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=OzStZeq2azM","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/OzStZeq2azM/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Glossybox Make-up and Magic - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=OzStZeq2azM","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Glossybox Make-up and Magic - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"20. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1d"}}]]}]]}],["$","div","fS3BWHQCUnM",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=fS3BWHQCUnM","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/fS3BWHQCUnM/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Meine aufgebrauchten Produkte Teil2 - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=fS3BWHQCUnM","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Meine aufgebrauchten Produkte Teil2 - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"18. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1e"}}]]}]]}],["$","div","txmZi4Sx_3s",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=txmZi4Sx_3s","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/txmZi4Sx_3s/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing TrendRaider Box - Find your Balance - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=txmZi4Sx_3s","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing TrendRaider Box - Find your Balance - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"16. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1f"}}]]}]]}],["$","div","ob2GWgt0jrk",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=ob2GWgt0jrk","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/ob2GWgt0jrk/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Eurapon for you Box - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=ob2GWgt0jrk","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Eurapon for you Box - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"14. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$20"}}]]}]]}],["$","div","kNUpGiwFySQ",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=kNUpGiwFySQ","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/kNUpGiwFySQ/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Goodiebox You got this - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=kNUpGiwFySQ","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Goodiebox You got this - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"13. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$21"}}]]}]]}],["$","div","jxoh0-Mus7k",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=jxoh0-Mus7k","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/jxoh0-Mus7k/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing my little box x clinique - Thé ou Café? - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=jxoh0-Mus7k","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing my little box x clinique - Thé ou Café? - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"12. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$22"}}]]}]]}],["$","div","splnVx8F0RU",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=splnVx8F0RU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/splnVx8F0RU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Crash Cosmetics & Friends Adventskalender mit Verlosung - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=splnVx8F0RU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Crash Cosmetics &amp; Friends Adventskalender mit Verlosung - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"11. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$23"}}]]}]]}],["$","div","rb8PJEfyPTI",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=rb8PJEfyPTI","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/rb8PJEfyPTI/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Herbst Sale Glossybox Teil 2 - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=rb8PJEfyPTI","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Herbst Sale Glossybox Teil 2 - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"09. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$24"}}]]}]]}]]}],["$","p",null,{"className":"tracking-tighter text-muted-foreground text-center text-sm md:mb-20 mb-8","children":["Zuletzt aktualisiert am ","01. Dezember 2025, 17:50"," Uhr"]}],["$","nav",null,{"role":"navigation","aria-label":"pagination","className":"mx-auto flex w-full justify-center","children":["$","ul",null,{"ref":"$undefined","className":"flex flex-row items-center gap-1","children":[["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 px-4 py-2 gap-1 pl-2.5","aria-label":"Go to previous page","href":"/videos/page/104","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-4 w-4","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],["$","span",null,{"children":"Zurück"}]]}]}],[["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/1","children":"1"}]}],["$","span",null,{"aria-hidden":true,"className":"flex h-9 w-9 items-center justify-center","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-ellipsis h-4 w-4","children":[["$","circle","41hilf",{"cx":"12","cy":"12","r":"1"}],["$","circle","1wjl8i",{"cx":"19","cy":"12","r":"1"}],["$","circle","1pcz8c",{"cx":"5","cy":"12","r":"1"}],"$undefined"]}],["$","span",null,{"className":"sr-only","children":"Weitere Seiten"}]]}]],[["$","li","103",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/103","children":103}]}],["$","li","104",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/104","children":104}]}],["$","li","105",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"page","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input bg-background transition-colors hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/105","children":105}]}],["$","li","106",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/106","children":106}]}],["$","li","107",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/107","children":107}]}]],[["$","span",null,{"aria-hidden":true,"className":"flex h-9 w-9 items-center justify-center","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-ellipsis h-4 w-4","children":[["$","circle","41hilf",{"cx":"12","cy":"12","r":"1"}],["$","circle","1wjl8i",{"cx":"19","cy":"12","r":"1"}],["$","circle","1pcz8c",{"cx":"5","cy":"12","r":"1"}],"$undefined"]}],["$","span",null,{"className":"sr-only","children":"Weitere Seiten"}]]}],["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/113","children":113}]}]],["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 px-4 py-2 gap-1 pr-2.5","aria-label":"Go to next page","href":"/videos/page/106","children":[["$","span",null,{"children":"Weiter"}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right h-4 w-4","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]]}]}]]}]}]]}]]}]
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.a:["$","section",null,{"children":[["$","div",null,{"className":"mb-6 md:mb-12 lg:mb-20 mx-auto text-center bg-sky-800 w-full p-6 md:p-10 text-2xl md:text-4xl lg:text-5xl font-bold shadow-md shadow-gray-400 dark:shadow-gray-600","children":["$","h1",null,{"className":"text-[rgb(250,250,250)]","children":"Bücher & Beauty: Meine YouTube-Videos und Shorts - Seite 105"}]}],["$","div",null,{"className":"container mx-auto px-2 sm:px-5","children":[["$","div",null,{"className":"prose lg:prose-xl dark:prose-invert blog-content max-w-full px-3 md:px-16 2xl:px-0","children":[["$","h3","h3-0",{"children":"Buchrezensionen & Beauty-Tipps"}],"\n",["$","p","p-0",{"children":"Hier auf Seite 105 findet ihr weitere meiner Videos und Shorts von meinem YouTube-Kanal.\nAbonniert meinen YouTube-Kanal, um keine neuen Videos oder Shorts zu verpassen!"}]]}],["$","div",null,{"className":"text-center","children":["$","button",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] transition-transform transform hover:scale-105 p-5 sm:p-2 h-20 w-88 sm:w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 text-xl sm:text-2xl font-bold mt-10 bg-sky-800 text-[rgb(250,250,250)]","ref":"$undefined","children":["$","$L7",null,{"href":"https://www.youtube.com/@antjeswereld","target":"_blank","className":"w-full h-full flex flex-row items-center justify-center hover:text-[rgb(250,250,250)]","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 576 512","className":"mr-5 !w-16 !h-16 block","children":["$undefined",[["$","path","0",{"d":"M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]," Zum YouTube-Kanal"]}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-16 2xl:gap-28 lg:grid-cols-2 xl:grid-cols-3 md:mt-24 mt-8 mb-6 justify-items-center","children":[["$","div","jrAT7uzdYuw",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=jrAT7uzdYuw","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/jrAT7uzdYuw/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 300 Abonnenten Verlosung - Vielen Dank - Dezember 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=jrAT7uzdYuw","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"300 Abonnenten Verlosung - Vielen Dank - Dezember 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"13. Dezember 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$13"}}]]}]]}],["$","div","Q1ff-9Oy2qw",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=Q1ff-9Oy2qw","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/Q1ff-9Oy2qw/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing My Little Box x MAC - Dezember 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=Q1ff-9Oy2qw","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing My Little Box x MAC - Dezember 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"12. Dezember 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$14"}}]]}]]}],["$","div","qiCX2ueKAs8",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=qiCX2ueKAs8","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/qiCX2ueKAs8/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Taobox Happy Christmas von Taoasis - So duftet Weihnachten - Dezember 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=qiCX2ueKAs8","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Taobox Happy Christmas von Taoasis - So duftet Weihnachten - Dezember 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"11. Dezember 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$15"}}]]}]]}],["$","div","2i5Kd0nYHNo",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=2i5Kd0nYHNo","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/2i5Kd0nYHNo/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Glossybox Christmas Edition - Dezember 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=2i5Kd0nYHNo","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Glossybox Christmas Edition - Dezember 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"09. Dezember 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$16"}}]]}]]}],["$","div","93z594SwVFw",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=93z594SwVFw","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/93z594SwVFw/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Überraschungsbox Premium von TrendRaider - Dezember 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=93z594SwVFw","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Überraschungsbox Premium von TrendRaider - Dezember 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"07. Dezember 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$17"}}]]}]]}],["$","div","09iOEgfuOLU",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=09iOEgfuOLU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/09iOEgfuOLU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Überraschungspaket von nicole_nina_wien -  Bin total überwältigt - Dezember 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=09iOEgfuOLU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Überraschungspaket von nicole_nina_wien -  Bin total überwältigt - Dezember 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"05. Dezember 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$18"}}]]}]]}],["$","div","VNr6B3DTgXc",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=VNr6B3DTgXc","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/VNr6B3DTgXc/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Blissim ex Blissim IT'S A CHRISTMAS STORY mit Verlosung - Dezember 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=VNr6B3DTgXc","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Blissim ex Blissim IT'S A CHRISTMAS STORY mit Verlosung - Dezember 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"04. Dezember 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$19"}}]]}]]}],["$","div","eAbqqcUhU-o",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=eAbqqcUhU-o","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/eAbqqcUhU-o/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Kiko Milano Wonder Woman 2020 mit Verlosung - Dezember 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=eAbqqcUhU-o","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Kiko Milano Wonder Woman 2020 mit Verlosung - Dezember 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"02. Dezember 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1a"}}]]}]]}],["$","div","xoy2AkEU9eE",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=xoy2AkEU9eE","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/xoy2AkEU9eE/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Purish & Douglas Haul - Dominique Cosmetics, Lethal Cosmetcs etc. - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=xoy2AkEU9eE","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Purish &amp; Douglas Haul - Dominique Cosmetics, Lethal Cosmetcs etc. - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"30. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1b"}}]]}]]}],["$","div","1yPr1JXBrdM",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=1yPr1JXBrdM","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/1yPr1JXBrdM/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Asam Beauty Haul mit Verlosung - Orange, Mint, ICE - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=1yPr1JXBrdM","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Asam Beauty Haul mit Verlosung - Orange, Mint, ICE - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"27. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1c"}}]]}]]}],["$","div","_1eN4hPzU44",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=_1eN4hPzU44","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/_1eN4hPzU44/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Ava & May Adventskalender - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=_1eN4hPzU44","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Ava &amp; May Adventskalender - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"25. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1d"}}]]}]]}],["$","div","O7yKzkyVOSM",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=O7yKzkyVOSM","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/O7yKzkyVOSM/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel dm + Rossman Haul mit Verlosung - Make-up, Deko, Pflegeprodukte - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=O7yKzkyVOSM","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"dm + Rossman Haul mit Verlosung - Make-up, Deko, Pflegeprodukte - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"23. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1e"}}]]}]]}],["$","div","lmbRSzV97b8",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=lmbRSzV97b8","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/lmbRSzV97b8/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Purelei Adventskalender - Mahina Club - Silber - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=lmbRSzV97b8","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Purelei Adventskalender - Mahina Club - Silber - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"22. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1f"}}]]}]]}],["$","div","SfKk_8bEuQM",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=SfKk_8bEuQM","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/SfKk_8bEuQM/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing DocMorris Für dich Box - Winteredition - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=SfKk_8bEuQM","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing DocMorris Für dich Box - Winteredition - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"21. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$20"}}]]}]]}],["$","div","OzStZeq2azM",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=OzStZeq2azM","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/OzStZeq2azM/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Glossybox Make-up and Magic - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=OzStZeq2azM","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Glossybox Make-up and Magic - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"20. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$21"}}]]}]]}],["$","div","fS3BWHQCUnM",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=fS3BWHQCUnM","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/fS3BWHQCUnM/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Meine aufgebrauchten Produkte Teil2 - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=fS3BWHQCUnM","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Meine aufgebrauchten Produkte Teil2 - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"18. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$22"}}]]}]]}],["$","div","txmZi4Sx_3s",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=txmZi4Sx_3s","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/txmZi4Sx_3s/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing TrendRaider Box - Find your Balance - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=txmZi4Sx_3s","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing TrendRaider Box - Find your Balance - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"16. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$23"}}]]}]]}],["$","div","ob2GWgt0jrk",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=ob2GWgt0jrk","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/ob2GWgt0jrk/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Eurapon for you Box - November 2020 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=ob2GWgt0jrk","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Eurapon for you Box - November 2020 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"14. November 2020"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$24"}}]]}]]}]]}],["$","p",null,{"className":"tracking-tighter text-muted-foreground text-center text-sm md:mb-20 mb-8","children":["Zuletzt aktualisiert am ","02. Dezember 2025, 17:48"," Uhr"]}],["$","nav",null,{"role":"navigation","aria-label":"pagination","className":"mx-auto flex w-full justify-center","children":["$","ul",null,{"ref":"$undefined","className":"flex flex-row items-center gap-1","children":[["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 px-4 py-2 gap-1 pl-2.5","aria-label":"Go to previous page","href":"/videos/page/104","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-4 w-4","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],["$","span",null,{"children":"Zurück"}]]}]}],[["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/1","children":"1"}]}],["$","span",null,{"aria-hidden":true,"className":"flex h-9 w-9 items-center justify-center","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-ellipsis h-4 w-4","children":[["$","circle","41hilf",{"cx":"12","cy":"12","r":"1"}],["$","circle","1wjl8i",{"cx":"19","cy":"12","r":"1"}],["$","circle","1pcz8c",{"cx":"5","cy":"12","r":"1"}],"$undefined"]}],["$","span",null,{"className":"sr-only","children":"Weitere Seiten"}]]}]],[["$","li","103",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/103","children":103}]}],["$","li","104",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/104","children":104}]}],["$","li","105",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"page","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input bg-background transition-colors hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/105","children":105}]}],["$","li","106",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/106","children":106}]}],["$","li","107",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/107","children":107}]}]],[["$","span",null,{"aria-hidden":true,"className":"flex h-9 w-9 items-center justify-center","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-ellipsis h-4 w-4","children":[["$","circle","41hilf",{"cx":"12","cy":"12","r":"1"}],["$","circle","1wjl8i",{"cx":"19","cy":"12","r":"1"}],["$","circle","1pcz8c",{"cx":"5","cy":"12","r":"1"}],"$undefined"]}],["$","span",null,{"className":"sr-only","children":"Weitere Seiten"}]]}],["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/113","children":113}]}]],["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 px-4 py-2 gap-1 pr-2.5","aria-label":"Go to next page","href":"/videos/page/106","children":[["$","span",null,{"children":"Weiter"}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right h-4 w-4","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]]}]}]]}]}]]}]]}]
 10:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 e:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Videos & -Shorts zu Büchern, Beauty & Lifestyle - Seite 105"}],["$","meta","2",{"name":"description","content":"Entdecke inspirierende YouTube-Videos zu Büchern und Beauty! Lass dich von Rezensionen, Lesetipps, Buchboxen und Produktempfehlungen begeistern - Seite 105"}],["$","meta","3",{"name":"author","content":"Antje Kröner"}],["$","meta","4",{"name":"creator","content":"Antje Kröner"}],["$","meta","5",{"name":"publisher","content":"Florian Steitz"}],["$","link","6",{"rel":"canonical","href":"https://www.antjeswereld.de/videos/page/105"}],["$","meta","7",{"property":"og:title","content":"Videos & -Shorts zu Büchern, Beauty & Lifestyle - Seite 105"}],["$","meta","8",{"property":"og:description","content":"Entdecke inspirierende YouTube-Videos zu Büchern und Beauty! Lass dich von Rezensionen, Lesetipps, Buchboxen und Produktempfehlungen begeistern - Seite 105"}],["$","meta","9",{"property":"og:url","content":"https://www.antjeswereld.de/videos/page/105"}],["$","meta","10",{"property":"og:locale","content":"de_DE"}],["$","meta","11",{"property":"og:image","content":"https://www.antjeswereld.de/images/og/default.webp"}],["$","meta","12",{"property":"og:image:width","content":"1024"}],["$","meta","13",{"property":"og:image:height","content":"576"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Videos & -Shorts zu Büchern, Beauty & Lifestyle - Seite 105"}],["$","meta","17",{"name":"twitter:description","content":"Entdecke inspirierende YouTube-Videos zu Büchern und Beauty! Lass dich von Rezensionen, Lesetipps, Buchboxen und Produktempfehlungen begeistern - Seite 105"}],["$","meta","18",{"name":"twitter:image","content":"https://www.antjeswereld.de/images/og/default.webp"}],["$","meta","19",{"name":"twitter:image:width","content":"1024"}],["$","meta","20",{"name":"twitter:image:height","content":"576"}],["$","link","21",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
 c:null
