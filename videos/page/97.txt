@@ -13,9 +13,594 @@ f:I[6213,[],"ViewportBoundary"]
 11:I[4835,[],""]
 :HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/84f6e185f98872e6.css","style"]
-0:{"P":null,"b":"rqVYb_dBxcT3rIi7J7LsA","p":"","c":["","videos","page","97"],"i":false,"f":[[["",{"children":["videos",{"children":["page",{"children":[["page","97","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/84f6e185f98872e6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"de","children":["$","body",null,{"className":"min-h-screen bg-background font-sans antialiased m-auto dark:bg-[rgb(18,18,18)] __variable_f367f3","children":[["$","$L2",null,{"children":[["$","$L3",null,{}],["$","main",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],["$","$L6",null,{}]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-8 md:mt-16 lg:px-16 md:pt-16 bg-sky-800","children":["$","div",null,{"className":"container mx-auto flex flex-col justify-between pt-8 md:pt-0","children":[["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-3 xl:grid-cols-4 lg:gap-32 text-md lg:text-lg","children":[["$","div",null,{"id":"affiliate","className":"text-[rgb(250,250,250)] xl:col-span-2 pb-12","children":[["$","h2",null,{"className":"font-sans font-bold text-2xl md:text-3xl pb-6","children":"Affiliate-Links / -Codes"}],["$","p",null,{"className":"pb-4","children":[["$","span",null,{"children":"Links und Codes, über die ihr bei Abos oder Bestellungen sparen könnt. Mehr Informationen hierzu findet ihr auf meiner "}],["$","$L7",null,{"href":"/gutscheine","className":"font-bold hover:text-sky-300 underline","children":"Gutscheinseite"}],"."]}],["$","ul",null,{"children":[["$","li","ANTJESBEAUTY20",{"className":"pb-4","children":[["$","$L7",null,{"href":"/gutschein/wild","className":"underline font-bold hover:text-sky-300","children":"Wild"}],"*",["$","p",null,{"children":"Mit meinem Code ANTJESBEAUTY20 spart ihr 20% auf eure Bestellung."}]]}],["$","li","LFDEANTJE",{"className":"pb-4","children":[["$","$L7",null,{"href":"/gutschein/lookfantastic","className":"underline font-bold hover:text-sky-300","children":"LOOKFANTASTIC"}],"*",["$","p",null,{"children":"Mit meinem Code LFDEANTJE spart ihr bis zu 20% auf eure Bestellung."}]]}],["$","li","ANTWERELD22",{"className":"pb-4","children":[["$","$L7",null,{"href":"/gutschein/yesstyle","className":"underline font-bold hover:text-sky-300","children":"YESSTYLE"}],"*",["$","p",null,{"children":"Mit meinem Code ANTWERELD22 könnt ihr bei euren Bestellungen sparen."}]]}],["$","li","0417547812",{"className":"pb-4","children":[["$","$L7",null,{"href":"/gutschein/larise","className":"underline font-bold hover:text-sky-300","children":"L'ARISÉ"}],"*",["$","p",null,{"children":"Mit meinem Code 0417547812 erhalten wir beide einen Gutschein im Wert von 10€, wenn ihr ihn bei eurer Bestellung eingebt."}]]}],["$","li","ANTJE-IMDQB",{"className":"pb-4","children":[["$","$L7",null,{"href":"/gutschein/ava-and-may","className":"underline font-bold hover:text-sky-300","children":"ava & may"}],"*",["$","p",null,{"children":"Mit meinem Code ANTJE-IMDQB erhalten Neukunden einen 40%-Rabattcode."}]]}]]}]]}],["$","div",null,{"className":"text-[rgb(250,250,250)] pb-16","children":[["$","h2",null,{"className":"font-sans font-bold text-2xl md:text-3xl pb-6","children":"Navigation"}],["$","ul",null,{"children":[["$","li",null,{"className":"pb-4 font-bold","children":["$","$L7",null,{"href":"/","className":"hover:text-sky-300","children":"Home"}]}],["$","li",null,{"className":"pb-4 font-bold","children":["$","$L7",null,{"href":"/videos","className":"hover:text-sky-300","children":"Videos"}]}],["$","li",null,{"className":"pb-4 font-bold","children":["$","$L7",null,{"href":"/blog","className":"hover:text-sky-300","children":"Blog"}]}],["$","li",null,{"className":"pb-4 font-bold","children":["$","$L7",null,{"href":"/ueber-mich","className":"hover:text-sky-300","children":"Über mich"}]}],["$","li",null,{"className":"font-bold","children":["$","$L7",null,{"href":"/impressum","className":"hover:text-sky-300","children":"Impressum"}]}]]}],["$","h2",null,{"className":"font-sans font-bold text-2xl md:text-3xl pb-6 pt-16","children":"Datenschutz"}],["$","ul",null,{"children":[["$","li",null,{"className":"pb-4 font-bold","children":["$","$L7",null,{"href":"/datenschutzerklaerung","className":"hover:text-sky-300","children":"Datenschutzerklärung"}]}],["$","li",null,{"className":"pb-4 font-bold","children":["$","$L7",null,{"href":"/datenschutzeinstellungen","className":"hover:text-sky-300","children":"Datenschutzeinstellungen"}]}]]}]]}],["$","div",null,{"className":"text-[rgb(250,250,250)] pb-16","children":[["$","h2",null,{"className":"font-sans font-bold text-2xl md:text-3xl pb-6","children":"Kontakt"}],["$","$L7",null,{"href":"mailto:antjeswereld@gmail.com","className":"font-bold hover:text-sky-300","children":"antjeswereld@gmail.com"}]]}]]}],["$","div",null,{"children":[["$","hr",null,{"className":"border-[rgb(228,228,231)]"}],["$","section",null,{"className":"py-6 text-[rgb(250,250,250)] break-words prose text-md lg:text-lg w-full max-w-full","children":[["$","p","p-0",{"children":"Die oben aufgeführten Affiliate-Links und -Codes dienen dazu, euch eine einfache Orientierung und ein schnelles Finden der Produkte zu ermöglichen.\nBei erfolgreicher Nutzung dieser Links oder Codes erhalte ich eine Provision. 😊"}],"\n",["$","p","p-1",{"children":"Es steht euch selbstverständlich frei, wo ihr die Produkte kaufen möchtet. 😊 Affiliate-Links sind durch ein Sternchen (*) am Ende des Links gekennzeichnet, um Transparenz zu gewährleisten."}],"\n",["$","p","p-2",{"children":"Durch die Verwendung meiner Affiliate-Links und -Codes unterstützt ihr meinen Content (Videos, Shorts, Reels, Blog), ohne zusätzliche Kosten für euch."}],"\n",["$","p","p-3",{"children":"Vielen Dank für eure Unterstützung! 💕"}]]}],["$","hr",null,{"className":"border-[rgb(228,228,231)]"}]]}],["$","div",null,{"className":"text-sm text-[rgb(250,250,250)] break-words mt-8 md:mt-12 mb-4 sm:mb-2 flex flex-row items-center justify-between","children":[["$","p",null,{"children":["Copyright ",2025," ","Antje Kröner"," - Alle Rechte vorbehalten | ",["$","$L7",null,{"href":"https://www.steitz.online","className":"hover:text-sky-300","target":"_blank","children":"Webdesign by Florian Steitz"}]]}],["$","$L8",null,{}]]}]]}]}]]}],["$","$L9",null,{}]]}]}]]}],{"children":["videos",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","videos","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["page",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","videos","children","page","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["page","97","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","videos","children","page","children","$0:f:0:1:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$La",null,["$","$Lb",null,{"children":"$Lc"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","u4kiWcKyKE5Eu7Mtcc2bN",{"children":[["$","$Ld",null,{"children":"$Le"}],["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+0:{"P":null,"b":"6NavJM_Mxz8s4Upqm0GO7","p":"","c":["","videos","page","97"],"i":false,"f":[[["",{"children":["videos",{"children":["page",{"children":[["page","97","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/84f6e185f98872e6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"de","children":["$","body",null,{"className":"min-h-screen bg-background font-sans antialiased m-auto dark:bg-[rgb(18,18,18)] __variable_f367f3","children":[["$","$L2",null,{"children":[["$","$L3",null,{}],["$","main",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],["$","$L6",null,{}]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-8 md:mt-16 lg:px-16 md:pt-16 bg-sky-800","children":["$","div",null,{"className":"container mx-auto flex flex-col justify-between pt-8 md:pt-0","children":[["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-3 xl:grid-cols-4 lg:gap-32 text-md lg:text-lg","children":[["$","div",null,{"id":"affiliate","className":"text-[rgb(250,250,250)] xl:col-span-2 pb-12","children":[["$","h2",null,{"className":"font-sans font-bold text-2xl md:text-3xl pb-6","children":"Affiliate-Links / -Codes"}],["$","p",null,{"className":"pb-4","children":[["$","span",null,{"children":"Links und Codes, über die ihr bei Abos oder Bestellungen sparen könnt. Mehr Informationen hierzu findet ihr auf meiner "}],["$","$L7",null,{"href":"/gutscheine","className":"font-bold hover:text-sky-300 underline","children":"Gutscheinseite"}],"."]}],["$","ul",null,{"children":[["$","li","ANTJESBEAUTY20",{"className":"pb-4","children":[["$","$L7",null,{"href":"/gutschein/wild","className":"underline font-bold hover:text-sky-300","children":"Wild"}],"*",["$","p",null,{"children":"Mit meinem Code ANTJESBEAUTY20 spart ihr 20% auf eure Bestellung."}]]}],["$","li","LFDEANTJE",{"className":"pb-4","children":[["$","$L7",null,{"href":"/gutschein/lookfantastic","className":"underline font-bold hover:text-sky-300","children":"LOOKFANTASTIC"}],"*",["$","p",null,{"children":"Mit meinem Code LFDEANTJE spart ihr bis zu 20% auf eure Bestellung."}]]}],["$","li","ANTWERELD22",{"className":"pb-4","children":[["$","$L7",null,{"href":"/gutschein/yesstyle","className":"underline font-bold hover:text-sky-300","children":"YESSTYLE"}],"*",["$","p",null,{"children":"Mit meinem Code ANTWERELD22 könnt ihr bei euren Bestellungen sparen."}]]}],["$","li","0417547812",{"className":"pb-4","children":[["$","$L7",null,{"href":"/gutschein/larise","className":"underline font-bold hover:text-sky-300","children":"L'ARISÉ"}],"*",["$","p",null,{"children":"Mit meinem Code 0417547812 erhalten wir beide einen Gutschein im Wert von 10€, wenn ihr ihn bei eurer Bestellung eingebt."}]]}],["$","li","ANTJE-IMDQB",{"className":"pb-4","children":[["$","$L7",null,{"href":"/gutschein/ava-and-may","className":"underline font-bold hover:text-sky-300","children":"ava & may"}],"*",["$","p",null,{"children":"Mit meinem Code ANTJE-IMDQB erhalten Neukunden einen 40%-Rabattcode."}]]}]]}]]}],["$","div",null,{"className":"text-[rgb(250,250,250)] pb-16","children":[["$","h2",null,{"className":"font-sans font-bold text-2xl md:text-3xl pb-6","children":"Navigation"}],["$","ul",null,{"children":[["$","li",null,{"className":"pb-4 font-bold","children":["$","$L7",null,{"href":"/","className":"hover:text-sky-300","children":"Home"}]}],["$","li",null,{"className":"pb-4 font-bold","children":["$","$L7",null,{"href":"/videos","className":"hover:text-sky-300","children":"Videos"}]}],["$","li",null,{"className":"pb-4 font-bold","children":["$","$L7",null,{"href":"/blog","className":"hover:text-sky-300","children":"Blog"}]}],["$","li",null,{"className":"pb-4 font-bold","children":["$","$L7",null,{"href":"/ueber-mich","className":"hover:text-sky-300","children":"Über mich"}]}],["$","li",null,{"className":"font-bold","children":["$","$L7",null,{"href":"/impressum","className":"hover:text-sky-300","children":"Impressum"}]}]]}],["$","h2",null,{"className":"font-sans font-bold text-2xl md:text-3xl pb-6 pt-16","children":"Datenschutz"}],["$","ul",null,{"children":[["$","li",null,{"className":"pb-4 font-bold","children":["$","$L7",null,{"href":"/datenschutzerklaerung","className":"hover:text-sky-300","children":"Datenschutzerklärung"}]}],["$","li",null,{"className":"pb-4 font-bold","children":["$","$L7",null,{"href":"/datenschutzeinstellungen","className":"hover:text-sky-300","children":"Datenschutzeinstellungen"}]}]]}]]}],["$","div",null,{"className":"text-[rgb(250,250,250)] pb-16","children":[["$","h2",null,{"className":"font-sans font-bold text-2xl md:text-3xl pb-6","children":"Kontakt"}],["$","$L7",null,{"href":"mailto:antjeswereld@gmail.com","className":"font-bold hover:text-sky-300","children":"antjeswereld@gmail.com"}]]}]]}],["$","div",null,{"children":[["$","hr",null,{"className":"border-[rgb(228,228,231)]"}],["$","section",null,{"className":"py-6 text-[rgb(250,250,250)] break-words prose text-md lg:text-lg w-full max-w-full","children":[["$","p","p-0",{"children":"Die oben aufgeführten Affiliate-Links und -Codes dienen dazu, euch eine einfache Orientierung und ein schnelles Finden der Produkte zu ermöglichen.\nBei erfolgreicher Nutzung dieser Links oder Codes erhalte ich eine Provision. 😊"}],"\n",["$","p","p-1",{"children":"Es steht euch selbstverständlich frei, wo ihr die Produkte kaufen möchtet. 😊 Affiliate-Links sind durch ein Sternchen (*) am Ende des Links gekennzeichnet, um Transparenz zu gewährleisten."}],"\n",["$","p","p-2",{"children":"Durch die Verwendung meiner Affiliate-Links und -Codes unterstützt ihr meinen Content (Videos, Shorts, Reels, Blog), ohne zusätzliche Kosten für euch."}],"\n",["$","p","p-3",{"children":"Vielen Dank für eure Unterstützung! 💕"}]]}],["$","hr",null,{"className":"border-[rgb(228,228,231)]"}]]}],["$","div",null,{"className":"text-sm text-[rgb(250,250,250)] break-words mt-8 md:mt-12 mb-4 sm:mb-2 flex flex-row items-center justify-between","children":[["$","p",null,{"children":["Copyright ",2025," ","Antje Kröner"," - Alle Rechte vorbehalten | ",["$","$L7",null,{"href":"https://www.steitz.online","className":"hover:text-sky-300","target":"_blank","children":"Webdesign by Florian Steitz"}]]}],["$","$L8",null,{}]]}]]}]}]]}],["$","$L9",null,{}]]}]}]]}],{"children":["videos",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","videos","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["page",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","videos","children","page","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["page","97","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","videos","children","page","children","$0:f:0:1:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$La",null,["$","$Lb",null,{"children":"$Lc"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","11pES90udu9p_pCSSHS1b",{"children":[["$","$Ld",null,{"children":"$Le"}],["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
 12:I[7970,["173","static/chunks/173-91faa58eb7cffa71.js","970","static/chunks/970-ac9f7f8d4e095485.js","801","static/chunks/app/videos/page/%5Bpage%5D/page-421cfdbfd1ddb998.js"],"Image"]
-13:Tf39,Lookfantastic Adventskalender 2021 - Oktober 2021 - Antje's Wereld
+13:Tf1c,Haul vom ersten Treffen mit meinen Mädels 😉 - Oktober 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch meine Einkäufe vom ersten Treffen mit den Mädels. Wir waren zusammen in Trier einkaufen. Es war ein so schöner Tag und mittlerweile haben wir uns das zweite Mal getroffen. 
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #haul #tkmaxx
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Twicy:
+Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
+TW10Y
+
+ava &amp; may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.14:Tee0,🎅Asam Adventskalender 2021 🎅- Oktober 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch den Asam Adventskalender. Mit dem Code Oktober-MaximYT könnt ihr bis Ende Oktober 15% auf eure Bestellung sparen.
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #adventskalender #asambeauty
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Twicy:
+Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
+TW10Y
+
+ava &amp; may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.15:T10c1,Lookfantastic Box Treat Yourself - Oktober 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch das Unboxing der Lookfantastic Box für Oktober.
+
+Dies ist eine Beauty-Abobox aus England und es gibt diese im Monats-, 3-Monats-, 6 Monats- und Jahresabo. Das Monatsabo kostet 20€. Ab 3 Monate kostet die Box 18€, ab 6 Monate 17€ und im Jahresabo 15,50€.
+
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+Hier kannst du die Box bestellen:
+https://www.lookfantastic.de/beauty-box/lookfantastic-beauty-box-abonnement/12636601.html. 
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #lookfantastic #unboxing
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Twicy:
+Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
+TW10Y
+
+ava &amp; may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.16:Te7a,Meine Blush Sammlung 🤩 - Oktober 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch meine Sammlung an Blushes.
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #makeupsammlung #blush
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Twicy:
+Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
+TW10Y
+
+ava &amp; may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.17:T1338,Dankeschön für 600 Abonnenten + Verlosung - Oktober 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video möchte ich mich bei euch bedanken. Vielen, vielen Dank für eure Treue und die vielen lieben Kommentare. Ich freue mich so sehr darüber, dass wir die 600er Marke überschritten haben. Ich hoffe ihr habt auch so viel Spaß und Freude dabei, wie ich. Sollte es etwas geben, dass ich besser machen kann, dann schreibt mir das gerne in die Kommentare. 
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #600 #verlosung
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld oder antjeswereld_sale vorbei.
+
+Angaben zur Verlosung:
+1. Schreibe mir einen lieben Kommentar unter diesem Video mit #600, wenn du teilnehmen möchtest ✅
+2. Hinterlasse mir bitte eine E-Mailadresse oder deinen Instragramnamen, damit ich dich kontaktieren kann✅
+3. Die Verlosung ist ab 18 Jahren
+4. Die Verlosung endet am 24.10.2021 um 23:00 Uhr 
+5. Die Gewinner werden per Instagram benachrichtigt oder E-Mail und muss sich innerhalb einer Woche nach Verlosungsende bei mir per Mail oder Instagram melden 
+6. Der Rechtsweg ist ausgeschlossen 
+7. Jeder kann 1x teilnehmen 
+8. Die Verlosung gilt für Deutschland
+
+Hier ein Link zu den Richtlinien von Youtube: https://www.youtube.com/intl/de/yt/ab... 
+
+Wettbewerbsrichtlinien von YouTube / Bitte unbedingt lesen!
+https://support.google.com/youtube/an...
+
+Youtube steht in keinem Zusammenhang mit dem Gewinnspiel.
+
+Datenschutzhinweis: Es werden keine Daten gespeichert! Die Adresse &amp; Name des Gewinners werden lediglich für den Versand genutzt und danach sofort gelöscht
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+ava &amp; may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.18:Tdfb,Kleiner Einkauf bei Action - Oktober 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich euch meine kleinen Einkauf bei Action.
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #haul #action
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+ava &amp; may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.19:Tf39,Lookfantastic Adventskalender 2021 - Oktober 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -113,7 +698,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.14:Tef3,🍊 TAOASIS Adventskalender 🍋 - Oktober 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1a:Tef3,🍊 TAOASIS Adventskalender 🍋 - Oktober 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -210,7 +795,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.15:Tf6c,Unboxing Beautylove Box 🌲 Shaman Wood 🌲 - Oktober 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1b:Tf6c,Unboxing Beautylove Box 🌲 Shaman Wood 🌲 - Oktober 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -311,7 +896,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.16:Teb3,Artdeco Adventskalender Christmas Beauty Moments?? - Oktober 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1c:Teb3,Artdeco Adventskalender Christmas Beauty Moments?? - Oktober 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -405,7 +990,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.17:Tff1,Ava&amp;May Adventskalender - September 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1d:Tff1,Ava&amp;May Adventskalender - September 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -506,7 +1091,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.18:Te12,Aufgebraucht - 🗑ab in die Tonne🗑 - September 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1e:Te12,Aufgebraucht - 🗑ab in die Tonne🗑 - September 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -596,7 +1181,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.19:T1035,Unboxing TrendRaider 🌳Into the Forest🌲 - September 2021 - Antje's Wereld 
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1f:T1035,Unboxing TrendRaider 🌳Into the Forest🌲 - September 2021 - Antje's Wereld 
 
 Hallo Zusammen,
 
@@ -699,7 +1284,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1a:Te0f,Meine Favoriten aus dem August - September 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.20:Te0f,Meine Favoriten aus dem August - September 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -789,7 +1374,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1b:Te93,Essence 😍 Made with Love 😍 DIY Adventskalender - September 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.21:Te93,Essence 😍 Made with Love 😍 DIY Adventskalender - September 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -882,7 +1467,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1c:Tf35,💕Dalton Adventskalender 💕 Mein Highlight - September 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.22:Tf35,💕Dalton Adventskalender 💕 Mein Highlight - September 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -977,7 +1562,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1d:Ted6,Unboxing Blissim "Box" Back to beauty - September 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.23:Ted6,Unboxing Blissim "Box" Back to beauty - September 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -1073,7 +1658,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1e:Te82,Asam Magic Finish Adventskalender - Top oder Flop? - September 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.24:Te82,Asam Magic Finish Adventskalender - Top oder Flop? - September 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -1163,595 +1748,7 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.1f:Te0b,Essence Adventskalender 🎅 - September 2021 - Antje's Wereld
-
-Hallo Zusammen,
-
-im heutigen Video zeige ich euch den Adventskalender von Essence. 
-
-Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
-
-Ich wünsche euch jetzt viel Spaß beim Video.
-
-Eure Antje
-
-#antjeswereld #essence #adventskalender
-Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
-----------------------------------------------------------------------------------------------------------------
-Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
-
-Thiemann Onlineshop:
-https://thiemann.shop?affiliateCode=Antje10 *
-mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
-
-ava &amp; may:
-ANTJE-IMDQB
-
-40% Rabattcode für Neukunden
-
-l'arise:
-https://www.larise.com/de/?s=0417547812
-oder gibt meinen Code "0417547812" bei der Bestellung ein
-
-Wir erhalten beide einen Gutschein im Wert von € 10,-
-
-TrendRaider:
-Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
-
-https://trendraider.de/?raf=ref5770314 *
-
-10% Gutscheincode: ref5770314 *
-
-Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
-
-Bloomon:
-https://www.bloomon.de/?referral=antjekrone 
-
-Ihr bekommt eine Vase und ich ein Bouquet.
-
-Purelei:
-http://purelei.refr.cc/antjekroner
-
-Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
-
-My Little Box:
-https://www.mylittlebox.net/
-
-Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
-
-Lookfantastic:
-10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
-
-https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
-
-Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
-
-Pink Box:
-Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
-
-Goodiebox:
-Du bekommst die erste Box 50% günstiger.
-
-https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
-
-Glossybox:
-https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
-
-Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
-
-Birchbox:
-https://birchbox.fr/r/Antje-53833 *
-
-Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
-
-----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
-
-
-Ich markiere das Video als DAUERWERBESENDUNG,
-da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
-
-Ich habe die Produkte selbst gekauft.
-
------------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.20:T1381,Unboxing Instyle Box 🍂Fall Edition🍂 mit Verlosung - September 2021 - Antje's Wereld
-
-Hallo Zusammen,
-
-im heutigen Video zeige ich euch das Unboxing der Instyle Box Fall Edition. Dies ist eine Beauty-Abobox.
-Diese gibt es im Flexiblem Abo für 29,95€, im Halbjahresabo für 27€  pro Box (=54€) oder aber im Jahresabo für 25€ pro Box (=100€).
-
-Die Box kannst du dir über folgenden Link bestellen:
-
-https://www.box.instyle.de/control/productlist
-
-Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
-
-Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
-
-Ich wünsche euch jetzt viel Spaß beim Video.
-
-Eure Antje
-
-#antjeswereld #instylebox#verlosung
-Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
-
-Angaben zur Verlosung:
-1. Schreibe mir einen lieben Kommentar unter diesem Video mit #instylebox, wenn du teilnehmen möchtest ✅
-2. Hinterlasse mir bitte eine E-Mailadresse oder deinen Instragramnamen, damit ich dich kontaktieren kann✅
-3. Die Verlosung ist ab 18 Jahren
-4. Die Verlosung endet am 03.10.2021 um 23:00 Uhr 
-5. Die Gewinner werden per Instagram benachrichtigt oder E-Mail und muss sich innerhalb einer Woche nach Verlosungsende bei mir per Mail oder Instagram melden 
-6. Der Rechtsweg ist ausgeschlossen 
-7. Jeder kann 1x teilnehmen 
-8. Die Verlosung gilt für Deutschland
-
-Hier ein Link zu den Richtlinien von Youtube: https://www.youtube.com/intl/de/yt/ab... 
-
-Wettbewerbsrichtlinien von YouTube / Bitte unbedingt lesen!
-https://support.google.com/youtube/an...
-
-Youtube steht in keinem Zusammenhang mit dem Gewinnspiel.
-
-Datenschutzhinweis: Es werden keine Daten gespeichert! Die Adresse &amp; Name des Gewinners werden lediglich für den Versand genutzt und danach sofort gelöscht
-----------------------------------------------------------------------------------------------------------------
-Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
-
-Thiemann Onlineshop:
-https://thiemann.shop?affiliateCode=Antje10 *
-mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
-
-ava &amp; may:
-ANTJE-IMDQB
-
-40% Rabattcode für Neukunden
-
-l'arise:
-https://www.larise.com/de/?s=0417547812
-oder gibt meinen Code "0417547812" bei der Bestellung ein
-
-Wir erhalten beide einen Gutschein im Wert von € 10,-
-
-TrendRaider:
-Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
-
-https://trendraider.de/?raf=ref5770314 *
-
-10% Gutscheincode: ref5770314 *
-
-Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
-
-Bloomon:
-https://www.bloomon.de/?referral=antjekrone 
-
-Ihr bekommt eine Vase und ich ein Bouquet.
-
-Purelei:
-http://purelei.refr.cc/antjekroner
-
-Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
-
-My Little Box:
-https://www.mylittlebox.net/
-
-Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
-
-Lookfantastic:
-10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
-
-https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
-
-Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
-
-Pink Box:
-Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
-
-Goodiebox:
-Du bekommst die erste Box 50% günstiger.
-
-https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
-
-Glossybox:
-https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
-
-Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
-
-Birchbox:
-https://birchbox.fr/r/Antje-53833 *
-
-Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
-
-----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
-
-
-Ich markiere das Video als DAUERWERBESENDUNG,
-da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
-
-Ich habe die Produkte selbst gekauft.
-
------------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.21:Tf06,Unboxing Eulenschnitt Kleine Auszeit - Überraschungsbox - September 2021 - Antje's Wereld
-
-Hallo Zusammen,
-
-im heutigen Video zeige ich euch das Unboxing der Eulenschnitt Kleine Auszeit - Überraschungsbox.
-
-Hier könnt kommt ihr auf die Homepage:
-https://www.eulenschnitt.de/
-
-Hier findet ihr die Überraschungsboxen, wenn es welche gibt:
-https://www.eulenschnitt.de/collections/ueberraschungsboxen
-
-Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
-
-Ich wünsche euch jetzt viel Spaß beim Video.
-
-Eure Antje
-
-#antjeswereld #unboxing #eulenschnitt
-Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
-----------------------------------------------------------------------------------------------------------------
-Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
-
-Thiemann Onlineshop:
-https://thiemann.shop?affiliateCode=Antje10 *
-mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
-
-ava &amp; may:
-ANTJE-IMDQB
-
-40% Rabattcode für Neukunden
-
-l'arise:
-https://www.larise.com/de/?s=0417547812
-oder gibt meinen Code "0417547812" bei der Bestellung ein
-
-Wir erhalten beide einen Gutschein im Wert von € 10,-
-
-TrendRaider:
-Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
-
-https://trendraider.de/?raf=ref5770314 *
-
-10% Gutscheincode: ref5770314 *
-
-Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
-
-Bloomon:
-https://www.bloomon.de/?referral=antjekrone 
-
-Ihr bekommt eine Vase und ich ein Bouquet.
-
-Purelei:
-http://purelei.refr.cc/antjekroner
-
-Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
-
-My Little Box:
-https://www.mylittlebox.net/
-
-Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
-
-Lookfantastic:
-10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
-
-https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
-
-Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
-
-Pink Box:
-Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
-
-Goodiebox:
-Du bekommst die erste Box 50% günstiger.
-
-https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
-
-Glossybox:
-https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
-
-Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
-
-Birchbox:
-https://birchbox.fr/r/Antje-53833 *
-
-Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
-
-----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
-
-
-Ich markiere das Video als DAUERWERBESENDUNG,
-da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
-
-Ich habe die Produkte selbst gekauft.
-
------------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.22:Te9a,Meine aufgebrauchten Duftkerzen - September 2021 - Antje's Wereld
-
-Hallo Zusammen,
-
-im heutigen Video zeige ich euch meine aufgebrauchten Duftkerzen und ich zeige euch meine beiden neuen Bücher vom Peletier Verlag. Duftkerzen und ein gutes Buch passen für mich einfach perfekt zusammen.
-
-Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
-
-Ich wünsche euch jetzt viel Spaß beim Video.
-
-Eure Antje
-
-#antjeswereld #duftkerzen #peletierverlag
-Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
-----------------------------------------------------------------------------------------------------------------
-Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
-
-Thiemann Onlineshop:
-https://thiemann.shop?affiliateCode=Antje10 *
-mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
-
-ava &amp; may:
-ANTJE-IMDQB
-
-40% Rabattcode für Neukunden
-
-l'arise:
-https://www.larise.com/de/?s=0417547812
-oder gibt meinen Code "0417547812" bei der Bestellung ein
-
-Wir erhalten beide einen Gutschein im Wert von € 10,-
-
-TrendRaider:
-Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
-
-https://trendraider.de/?raf=ref5770314 *
-
-10% Gutscheincode: ref5770314 *
-
-Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
-
-Bloomon:
-https://www.bloomon.de/?referral=antjekrone 
-
-Ihr bekommt eine Vase und ich ein Bouquet.
-
-Purelei:
-http://purelei.refr.cc/antjekroner
-
-Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
-
-My Little Box:
-https://www.mylittlebox.net/
-
-Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
-
-Lookfantastic:
-10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
-
-https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
-
-Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
-
-Pink Box:
-Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
-
-Goodiebox:
-Du bekommst die erste Box 50% günstiger.
-
-https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
-
-Glossybox:
-https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
-
-Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
-
-Birchbox:
-https://birchbox.fr/r/Antje-53833 *
-
-Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
-
-----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
-
-
-Ich markiere das Video als DAUERWERBESENDUNG,
-da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
-
-Ich habe die Produkte selbst gekauft.
-
------------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.23:Tfab,MyLittleBox x Estée Lauder Chasing Sunsets - September 2021 - Antje's Wereld
-
-Hallo Zusammen,
-
-im heutigen Video zeige ich euch die September Box von Mylittlebox.
-
-Diese gibt es im Monats-, und Jahresabo. Die Box im Monatsabo kostet 17,50€ und im Jahresabo 195€ (Einmalzahlung, 12 Boxen zum Preis von 11).
-
-Die Box kannst du dir über folgenden Link bestellen:
-
-https://www.mylittlebox.net/
-
-Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
-
-Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
-
-Ich wünsche euch jetzt viel Spaß beim Video.
-
-Eure Antje
-
-#antjeswereld #mylittlebox #esteelauder
-Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
-----------------------------------------------------------------------------------------------------------------
-Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
-
-Thiemann Onlineshop:
-https://thiemann.shop?affiliateCode=Antje10 *
-mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
-
-ava &amp; may:
-ANTJE-IMDQB
-
-40% Rabattcode für Neukunden
-
-l'arise:
-https://www.larise.com/de/?s=0417547812
-oder gibt meinen Code "0417547812" bei der Bestellung ein
-
-Wir erhalten beide einen Gutschein im Wert von € 10,-
-
-TrendRaider:
-Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
-
-https://trendraider.de/?raf=ref5770314 *
-
-10% Gutscheincode: ref5770314 *
-
-Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
-
-Bloomon:
-https://www.bloomon.de/?referral=antjekrone 
-
-Ihr bekommt eine Vase und ich ein Bouquet.
-
-Purelei:
-http://purelei.refr.cc/antjekroner
-
-Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
-
-My Little Box:
-https://www.mylittlebox.net/
-
-Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
-
-Lookfantastic:
-10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
-
-https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
-
-Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
-
-Pink Box:
-Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
-
-Goodiebox:
-Du bekommst die erste Box 50% günstiger.
-
-https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
-
-Glossybox:
-https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
-
-Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
-
-Birchbox:
-https://birchbox.fr/r/Antje-53833 *
-
-Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
-
-----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
-
-
-Ich markiere das Video als DAUERWERBESENDUNG,
-da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
-
-Ich habe die Produkte selbst gekauft.
-
------------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.24:Tfd4,Glossybox Pure Relaxation - September 2021 - Antje's Wereld
-
-Hallo Zusammen,
-
-im heutigen Video zeige ich euch die Glossybox für den Monat September.
-
-Die Glossybox ist eine Abobox. Diese gibt es als Monatsabo (je Box 15€), 3 Monats- (pro Quartal 43,50€ Einmalzahlung), 6 Monats- (pro Halbjahr 81,00€ Einmalzahlung) und 12 Monatsabo (12,50€ - dieses kann jetzt auch monatlich bezahlt werden).
-
-Diese könnt ihr hier bestellen:
-
-Glossybox:
-https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
-
-Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
-Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
-
-Ich wünsche euch jetzt viel Spaß beim Video.
-
-Eure Antje
-
-#antjeswereld #unboxing #glossybox
-Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
-----------------------------------------------------------------------------------------------------------------
-Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
-
-Thiemann Onlineshop:
-https://thiemann.shop?affiliateCode=Antje10 *
-mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
-
-ava &amp; may:
-ANTJE-IMDQB
-
-40% Rabattcode für Neukunden
-
-l'arise:
-https://www.larise.com/de/?s=0417547812
-oder gibt meinen Code "0417547812" bei der Bestellung ein
-
-Wir erhalten beide einen Gutschein im Wert von € 10,-
-
-TrendRaider:
-Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
-
-https://trendraider.de/?raf=ref5770314 *
-
-10% Gutscheincode: ref5770314 *
-
-Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
-
-Bloomon:
-https://www.bloomon.de/?referral=antjekrone 
-
-Ihr bekommt eine Vase und ich ein Bouquet.
-
-Purelei:
-http://purelei.refr.cc/antjekroner
-
-Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
-
-My Little Box:
-https://www.mylittlebox.net/
-
-Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
-
-Lookfantastic:
-10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
-
-https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
-
-Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
-
-Pink Box:
-Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
-
-Goodiebox:
-Du bekommst die erste Box 50% günstiger.
-
-https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
-
-Glossybox:
-https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
-
-Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
-
-Birchbox:
-https://birchbox.fr/r/Antje-53833 *
-
-Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
-
-----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
-
-
-Ich markiere das Video als DAUERWERBESENDUNG,
-da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
-
-Ich habe die Produkte selbst gekauft.
-
------------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.a:["$","section",null,{"children":[["$","div",null,{"className":"mb-6 md:mb-12 lg:mb-20 mx-auto text-center bg-sky-800 w-full p-6 md:p-10 text-2xl md:text-4xl lg:text-5xl font-bold shadow-md shadow-gray-400 dark:shadow-gray-600","children":["$","h1",null,{"className":"text-[rgb(250,250,250)]","children":"Bücher & Beauty: Meine YouTube-Videos und Shorts - Seite 97"}]}],["$","div",null,{"className":"container mx-auto px-2 sm:px-5","children":[["$","div",null,{"className":"prose lg:prose-xl dark:prose-invert blog-content max-w-full px-3 md:px-16 2xl:px-0","children":[["$","h3","h3-0",{"children":"Buchrezensionen & Beauty-Tipps"}],"\n",["$","p","p-0",{"children":"Hier auf Seite 97 findet ihr weitere meiner Videos und Shorts von meinem YouTube-Kanal.\nAbonniert meinen YouTube-Kanal, um keine neuen Videos oder Shorts zu verpassen!"}]]}],["$","div",null,{"className":"text-center","children":["$","button",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] transition-transform transform hover:scale-105 p-5 sm:p-2 h-20 w-88 sm:w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 text-xl sm:text-2xl font-bold mt-10 bg-sky-800 text-[rgb(250,250,250)]","ref":"$undefined","children":["$","$L7",null,{"href":"https://www.youtube.com/@antjeswereld","target":"_blank","className":"w-full h-full flex flex-row items-center justify-center hover:text-[rgb(250,250,250)]","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 576 512","className":"mr-5 !w-16 !h-16 block","children":["$undefined",[["$","path","0",{"d":"M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]," Zum YouTube-Kanal"]}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-16 2xl:gap-28 lg:grid-cols-2 xl:grid-cols-3 md:mt-24 mt-8 mb-6 justify-items-center","children":[["$","div","Z8saMLhAV0E",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=Z8saMLhAV0E","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/Z8saMLhAV0E/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Lookfantastic Adventskalender 2021 - Oktober 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=Z8saMLhAV0E","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Lookfantastic Adventskalender 2021 - Oktober 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"08. Oktober 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$13"}}]]}]]}],["$","div","nxXr2tAqiXc",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=nxXr2tAqiXc","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/nxXr2tAqiXc/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 🍊 TAOASIS Adventskalender 2021🍋 - Oktober 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=nxXr2tAqiXc","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"🍊 TAOASIS Adventskalender 2021🍋 - Oktober 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"06. Oktober 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$14"}}]]}]]}],["$","div","i5FxFz572cE",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=i5FxFz572cE","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/i5FxFz572cE/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Beautylove Box 🌲 Shaman Wood 🌲 - Oktober 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=i5FxFz572cE","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Beautylove Box 🌲 Shaman Wood 🌲 - Oktober 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"04. Oktober 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$15"}}]]}]]}],["$","div","tKLZZSmYc3k",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=tKLZZSmYc3k","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/tKLZZSmYc3k/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Artdeco Adventskalender 2021 Christmas Beauty Moments?? - Oktober 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=tKLZZSmYc3k","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Artdeco Adventskalender 2021 Christmas Beauty Moments?? - Oktober 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"01. Oktober 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$16"}}]]}]]}],["$","div","ue6xo74UGKU",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=ue6xo74UGKU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/ue6xo74UGKU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Ava&May Adventskalender 2021 - September 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=ue6xo74UGKU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Ava&amp;May Adventskalender 2021 - September 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"30. September 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$17"}}]]}]]}],["$","div","b3zyMGhiD4c",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=b3zyMGhiD4c","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/b3zyMGhiD4c/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Aufgebraucht - 🗑ab in die Tonne🗑 - September 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=b3zyMGhiD4c","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Aufgebraucht - 🗑ab in die Tonne🗑 - September 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"29. September 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$18"}}]]}]]}],["$","div","B0mWuW7iNw8",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=B0mWuW7iNw8","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/B0mWuW7iNw8/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing TrendRaider 🌳Into the Forest🌲 - September 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=B0mWuW7iNw8","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing TrendRaider 🌳Into the Forest🌲 - September 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"27. September 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$19"}}]]}]]}],["$","div","z_tjF5abGkg",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=z_tjF5abGkg","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/z_tjF5abGkg/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Meine Favoriten aus dem August - September 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=z_tjF5abGkg","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Meine Favoriten aus dem August - September 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"26. September 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1a"}}]]}]]}],["$","div","X9Mgx91YnNw",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=X9Mgx91YnNw","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/X9Mgx91YnNw/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Essence 😍 Made with Love 😍 DIY Adventskalender 2021 - September 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=X9Mgx91YnNw","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Essence 😍 Made with Love 😍 DIY Adventskalender 2021 - September 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"24. September 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1b"}}]]}]]}],["$","div","tItavbp5X2Y",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=tItavbp5X2Y","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/tItavbp5X2Y/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 💕Dalton Adventskalender 2021 💕 Mein Highlight - September 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=tItavbp5X2Y","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"💕Dalton Adventskalender 2021 💕 Mein Highlight - September 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"23. September 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1c"}}]]}]]}],["$","div","Pqe9HnbfdQA",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=Pqe9HnbfdQA","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/Pqe9HnbfdQA/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Blissim \"Box\" Back to beauty - September 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=Pqe9HnbfdQA","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Blissim \"Box\" Back to beauty - September 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"22. September 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1d"}}]]}]]}],["$","div","ldEENSDOuMw",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=ldEENSDOuMw","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/ldEENSDOuMw/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Asam Magic Finish Adventskalender 2021 - Top oder Flop? - September 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=ldEENSDOuMw","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Asam Magic Finish Adventskalender 2021 - Top oder Flop? - September 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"21. September 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1e"}}]]}]]}],["$","div","9KuqoBjwXoI",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=9KuqoBjwXoI","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/9KuqoBjwXoI/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Essence Adventskalender 2021 🎅 - September 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=9KuqoBjwXoI","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Essence Adventskalender 2021 🎅 - September 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"20. September 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1f"}}]]}]]}],["$","div","4FmhX25KgVc",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=4FmhX25KgVc","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/4FmhX25KgVc/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Instyle Box 🍂Fall Edition🍂 mit Verlosung - September 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=4FmhX25KgVc","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Instyle Box 🍂Fall Edition🍂 mit Verlosung - September 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"19. September 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$20"}}]]}]]}],["$","div","RHX3fsC1_HU",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=RHX3fsC1_HU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/RHX3fsC1_HU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Eulenschnitt Kleine Auszeit - Überraschungsbox - September 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=RHX3fsC1_HU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Eulenschnitt Kleine Auszeit - Überraschungsbox - September 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"17. September 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$21"}}]]}]]}],["$","div","ub6fd2cqh34",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=ub6fd2cqh34","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/ub6fd2cqh34/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Meine aufgebrauchten Duftkerzen - September 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=ub6fd2cqh34","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Meine aufgebrauchten Duftkerzen - September 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"15. September 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$22"}}]]}]]}],["$","div","RKz8JcIlduQ",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=RKz8JcIlduQ","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/RKz8JcIlduQ/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel MyLittleBox x Estée Lauder Chasing Sunsets - September 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=RKz8JcIlduQ","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"MyLittleBox x Estée Lauder Chasing Sunsets - September 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"13. September 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$23"}}]]}]]}],["$","div","mgFKKqZfhVs",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=mgFKKqZfhVs","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/mgFKKqZfhVs/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Glossybox Pure Relaxation - September 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=mgFKKqZfhVs","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Glossybox Pure Relaxation - September 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"12. September 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$24"}}]]}]]}]]}],["$","p",null,{"className":"tracking-tighter text-muted-foreground text-center text-sm md:mb-20 mb-8","children":["Zuletzt aktualisiert am ","13. Dezember 2025, 17:41"," Uhr"]}],["$","nav",null,{"role":"navigation","aria-label":"pagination","className":"mx-auto flex w-full justify-center","children":["$","ul",null,{"ref":"$undefined","className":"flex flex-row items-center gap-1","children":[["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 px-4 py-2 gap-1 pl-2.5","aria-label":"Go to previous page","href":"/videos/page/96","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-4 w-4","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],["$","span",null,{"children":"Zurück"}]]}]}],[["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/1","children":"1"}]}],["$","span",null,{"aria-hidden":true,"className":"flex h-9 w-9 items-center justify-center","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-ellipsis h-4 w-4","children":[["$","circle","41hilf",{"cx":"12","cy":"12","r":"1"}],["$","circle","1wjl8i",{"cx":"19","cy":"12","r":"1"}],["$","circle","1pcz8c",{"cx":"5","cy":"12","r":"1"}],"$undefined"]}],["$","span",null,{"className":"sr-only","children":"Weitere Seiten"}]]}]],[["$","li","95",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/95","children":95}]}],["$","li","96",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/96","children":96}]}],["$","li","97",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"page","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input bg-background transition-colors hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/97","children":97}]}],["$","li","98",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/98","children":98}]}],["$","li","99",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/99","children":99}]}]],[["$","span",null,{"aria-hidden":true,"className":"flex h-9 w-9 items-center justify-center","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-ellipsis h-4 w-4","children":[["$","circle","41hilf",{"cx":"12","cy":"12","r":"1"}],["$","circle","1wjl8i",{"cx":"19","cy":"12","r":"1"}],["$","circle","1pcz8c",{"cx":"5","cy":"12","r":"1"}],"$undefined"]}],["$","span",null,{"className":"sr-only","children":"Weitere Seiten"}]]}],["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/115","children":115}]}]],["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 px-4 py-2 gap-1 pr-2.5","aria-label":"Go to next page","href":"/videos/page/98","children":[["$","span",null,{"children":"Weiter"}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right h-4 w-4","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]]}]}]]}]}]]}]]}]
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.a:["$","section",null,{"children":[["$","div",null,{"className":"mb-6 md:mb-12 lg:mb-20 mx-auto text-center bg-sky-800 w-full p-6 md:p-10 text-2xl md:text-4xl lg:text-5xl font-bold shadow-md shadow-gray-400 dark:shadow-gray-600","children":["$","h1",null,{"className":"text-[rgb(250,250,250)]","children":"Bücher & Beauty: Meine YouTube-Videos und Shorts - Seite 97"}]}],["$","div",null,{"className":"container mx-auto px-2 sm:px-5","children":[["$","div",null,{"className":"prose lg:prose-xl dark:prose-invert blog-content max-w-full px-3 md:px-16 2xl:px-0","children":[["$","h3","h3-0",{"children":"Buchrezensionen & Beauty-Tipps"}],"\n",["$","p","p-0",{"children":"Hier auf Seite 97 findet ihr weitere meiner Videos und Shorts von meinem YouTube-Kanal.\nAbonniert meinen YouTube-Kanal, um keine neuen Videos oder Shorts zu verpassen!"}]]}],["$","div",null,{"className":"text-center","children":["$","button",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] transition-transform transform hover:scale-105 p-5 sm:p-2 h-20 w-88 sm:w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 text-xl sm:text-2xl font-bold mt-10 bg-sky-800 text-[rgb(250,250,250)]","ref":"$undefined","children":["$","$L7",null,{"href":"https://www.youtube.com/@antjeswereld","target":"_blank","className":"w-full h-full flex flex-row items-center justify-center hover:text-[rgb(250,250,250)]","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 576 512","className":"mr-5 !w-16 !h-16 block","children":["$undefined",[["$","path","0",{"d":"M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]," Zum YouTube-Kanal"]}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-16 2xl:gap-28 lg:grid-cols-2 xl:grid-cols-3 md:mt-24 mt-8 mb-6 justify-items-center","children":[["$","div","fBvgHfl1HPU",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=fBvgHfl1HPU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/fBvgHfl1HPU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Haul vom ersten Treffen mit meinen Mädels 😉 - Oktober 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=fBvgHfl1HPU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Haul vom ersten Treffen mit meinen Mädels 😉 - Oktober 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"13. Oktober 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$13"}}]]}]]}],["$","div","I5F85f_EY58",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=I5F85f_EY58","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/I5F85f_EY58/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 🎅Asam Adventskalender 2021 🎅- Oktober 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=I5F85f_EY58","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"🎅Asam Adventskalender 2021 🎅- Oktober 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"13. Oktober 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$14"}}]]}]]}],["$","div","sv6PLENSz2Y",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=sv6PLENSz2Y","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/sv6PLENSz2Y/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Lookfantastic Box Treat Yourself - Oktober 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=sv6PLENSz2Y","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Lookfantastic Box Treat Yourself - Oktober 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"12. Oktober 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$15"}}]]}]]}],["$","div","kUha3Xl-_eM",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=kUha3Xl-_eM","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/kUha3Xl-_eM/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Meine Blush Sammlung 🤩 - Oktober 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=kUha3Xl-_eM","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Meine Blush Sammlung 🤩 - Oktober 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"11. Oktober 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$16"}}]]}]]}],["$","div","_miI2v_-J3s",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=_miI2v_-J3s","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/_miI2v_-J3s/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Dankeschön für 600 Abonnenten + Verlosung - Oktober 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=_miI2v_-J3s","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Dankeschön für 600 Abonnenten + Verlosung - Oktober 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"10. Oktober 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$17"}}]]}]]}],["$","div","5GUzBmZsOdg",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=5GUzBmZsOdg","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/5GUzBmZsOdg/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Kleiner Einkauf bei Action - Oktober 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=5GUzBmZsOdg","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Kleiner Einkauf bei Action - Oktober 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"09. Oktober 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$18"}}]]}]]}],["$","div","Z8saMLhAV0E",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=Z8saMLhAV0E","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/Z8saMLhAV0E/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Lookfantastic Adventskalender 2021 - Oktober 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=Z8saMLhAV0E","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Lookfantastic Adventskalender 2021 - Oktober 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"08. Oktober 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$19"}}]]}]]}],["$","div","nxXr2tAqiXc",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=nxXr2tAqiXc","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/nxXr2tAqiXc/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 🍊 TAOASIS Adventskalender 2021🍋 - Oktober 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=nxXr2tAqiXc","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"🍊 TAOASIS Adventskalender 2021🍋 - Oktober 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"06. Oktober 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1a"}}]]}]]}],["$","div","i5FxFz572cE",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=i5FxFz572cE","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/i5FxFz572cE/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Beautylove Box 🌲 Shaman Wood 🌲 - Oktober 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=i5FxFz572cE","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Beautylove Box 🌲 Shaman Wood 🌲 - Oktober 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"04. Oktober 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1b"}}]]}]]}],["$","div","tKLZZSmYc3k",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=tKLZZSmYc3k","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/tKLZZSmYc3k/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Artdeco Adventskalender 2021 Christmas Beauty Moments?? - Oktober 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=tKLZZSmYc3k","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Artdeco Adventskalender 2021 Christmas Beauty Moments?? - Oktober 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"01. Oktober 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1c"}}]]}]]}],["$","div","ue6xo74UGKU",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=ue6xo74UGKU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/ue6xo74UGKU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Ava&May Adventskalender 2021 - September 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=ue6xo74UGKU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Ava&amp;May Adventskalender 2021 - September 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"30. September 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1d"}}]]}]]}],["$","div","b3zyMGhiD4c",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=b3zyMGhiD4c","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/b3zyMGhiD4c/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Aufgebraucht - 🗑ab in die Tonne🗑 - September 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=b3zyMGhiD4c","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Aufgebraucht - 🗑ab in die Tonne🗑 - September 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"29. September 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1e"}}]]}]]}],["$","div","B0mWuW7iNw8",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=B0mWuW7iNw8","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/B0mWuW7iNw8/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing TrendRaider 🌳Into the Forest🌲 - September 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=B0mWuW7iNw8","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing TrendRaider 🌳Into the Forest🌲 - September 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"27. September 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1f"}}]]}]]}],["$","div","z_tjF5abGkg",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=z_tjF5abGkg","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/z_tjF5abGkg/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Meine Favoriten aus dem August - September 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=z_tjF5abGkg","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Meine Favoriten aus dem August - September 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"26. September 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$20"}}]]}]]}],["$","div","X9Mgx91YnNw",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=X9Mgx91YnNw","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/X9Mgx91YnNw/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Essence 😍 Made with Love 😍 DIY Adventskalender 2021 - September 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=X9Mgx91YnNw","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Essence 😍 Made with Love 😍 DIY Adventskalender 2021 - September 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"24. September 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$21"}}]]}]]}],["$","div","tItavbp5X2Y",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=tItavbp5X2Y","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/tItavbp5X2Y/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 💕Dalton Adventskalender 2021 💕 Mein Highlight - September 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=tItavbp5X2Y","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"💕Dalton Adventskalender 2021 💕 Mein Highlight - September 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"23. September 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$22"}}]]}]]}],["$","div","Pqe9HnbfdQA",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=Pqe9HnbfdQA","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/Pqe9HnbfdQA/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Blissim \"Box\" Back to beauty - September 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=Pqe9HnbfdQA","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Blissim \"Box\" Back to beauty - September 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"22. September 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$23"}}]]}]]}],["$","div","ldEENSDOuMw",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L7",null,{"href":"https://www.youtube.com/watch?v=ldEENSDOuMw","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L12",null,{"src":"https://i.ytimg.com/vi/ldEENSDOuMw/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Asam Magic Finish Adventskalender 2021 - Top oder Flop? - September 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L7",null,{"href":"https://www.youtube.com/watch?v=ldEENSDOuMw","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Asam Magic Finish Adventskalender 2021 - Top oder Flop? - September 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"21. September 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$24"}}]]}]]}]]}],["$","p",null,{"className":"tracking-tighter text-muted-foreground text-center text-sm md:mb-20 mb-8","children":["Zuletzt aktualisiert am ","14. Dezember 2025, 17:42"," Uhr"]}],["$","nav",null,{"role":"navigation","aria-label":"pagination","className":"mx-auto flex w-full justify-center","children":["$","ul",null,{"ref":"$undefined","className":"flex flex-row items-center gap-1","children":[["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 px-4 py-2 gap-1 pl-2.5","aria-label":"Go to previous page","href":"/videos/page/96","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-4 w-4","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],["$","span",null,{"children":"Zurück"}]]}]}],[["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/1","children":"1"}]}],["$","span",null,{"aria-hidden":true,"className":"flex h-9 w-9 items-center justify-center","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-ellipsis h-4 w-4","children":[["$","circle","41hilf",{"cx":"12","cy":"12","r":"1"}],["$","circle","1wjl8i",{"cx":"19","cy":"12","r":"1"}],["$","circle","1pcz8c",{"cx":"5","cy":"12","r":"1"}],"$undefined"]}],["$","span",null,{"className":"sr-only","children":"Weitere Seiten"}]]}]],[["$","li","95",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/95","children":95}]}],["$","li","96",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/96","children":96}]}],["$","li","97",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"page","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input bg-background transition-colors hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/97","children":97}]}],["$","li","98",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/98","children":98}]}],["$","li","99",{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/99","children":99}]}]],[["$","span",null,{"aria-hidden":true,"className":"flex h-9 w-9 items-center justify-center","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-ellipsis h-4 w-4","children":[["$","circle","41hilf",{"cx":"12","cy":"12","r":"1"}],["$","circle","1wjl8i",{"cx":"19","cy":"12","r":"1"}],["$","circle","1pcz8c",{"cx":"5","cy":"12","r":"1"}],"$undefined"]}],["$","span",null,{"className":"sr-only","children":"Weitere Seiten"}]]}],["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/115","children":115}]}]],["$","li",null,{"ref":"$undefined","className":"","children":["$","a",null,{"aria-current":"$undefined","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 px-4 py-2 gap-1 pr-2.5","aria-label":"Go to next page","href":"/videos/page/98","children":[["$","span",null,{"children":"Weiter"}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right h-4 w-4","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]]}]}]]}]}]]}]]}]
 10:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 e:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Videos & -Shorts zu Büchern, Beauty & Lifestyle - Seite 97"}],["$","meta","2",{"name":"description","content":"Entdecke inspirierende YouTube-Videos zu Büchern und Beauty! Lass dich von Rezensionen, Lesetipps, Buchboxen und Produktempfehlungen begeistern - Seite 97"}],["$","meta","3",{"name":"author","content":"Antje Kröner"}],["$","meta","4",{"name":"creator","content":"Antje Kröner"}],["$","meta","5",{"name":"publisher","content":"Florian Steitz"}],["$","link","6",{"rel":"canonical","href":"https://www.antjeswereld.de/videos/page/97"}],["$","meta","7",{"property":"og:title","content":"Videos & -Shorts zu Büchern, Beauty & Lifestyle - Seite 97"}],["$","meta","8",{"property":"og:description","content":"Entdecke inspirierende YouTube-Videos zu Büchern und Beauty! Lass dich von Rezensionen, Lesetipps, Buchboxen und Produktempfehlungen begeistern - Seite 97"}],["$","meta","9",{"property":"og:url","content":"https://www.antjeswereld.de/videos/page/97"}],["$","meta","10",{"property":"og:locale","content":"de_DE"}],["$","meta","11",{"property":"og:image","content":"https://www.antjeswereld.de/images/og/default.webp"}],["$","meta","12",{"property":"og:image:width","content":"1024"}],["$","meta","13",{"property":"og:image:height","content":"576"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Videos & -Shorts zu Büchern, Beauty & Lifestyle - Seite 97"}],["$","meta","17",{"name":"twitter:description","content":"Entdecke inspirierende YouTube-Videos zu Büchern und Beauty! Lass dich von Rezensionen, Lesetipps, Buchboxen und Produktempfehlungen begeistern - Seite 97"}],["$","meta","18",{"name":"twitter:image","content":"https://www.antjeswereld.de/images/og/default.webp"}],["$","meta","19",{"name":"twitter:image:width","content":"1024"}],["$","meta","20",{"name":"twitter:image:height","content":"576"}],["$","link","21",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
 c:null
