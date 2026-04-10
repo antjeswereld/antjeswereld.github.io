@@ -3,9 +3,199 @@
 3:I[5500,["/_next/static/chunks/78c0d2861d5d3362.js","/_next/static/chunks/1f888931e4e688fd.js","/_next/static/chunks/246494a74b23aaae.js"],"Image"]
 30:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 31:"$Sreact.suspense"
-0:{"buildId":"grH7VN9JvpLCJUdLbx8zz","rsc":["$","$1","c",{"children":[["$","section",null,{"children":[["$","div",null,{"className":"mb-6 md:mb-12 lg:mb-20 mx-auto text-center bg-sky-800 w-full p-6 md:p-10 text-2xl md:text-4xl lg:text-5xl font-bold shadow-md shadow-gray-400 dark:shadow-gray-600","children":["$","h1",null,{"className":"text-[rgb(250,250,250)]","children":"Bücher & Beauty: Meine YouTube-Videos und Shorts - Seite 110"}]}],["$","div",null,{"className":"container mx-auto px-2 sm:px-5","children":[["$","div",null,{"className":"prose lg:prose-xl dark:prose-invert blog-content max-w-full px-3 md:px-16 2xl:px-0","children":[["$","h3","h3-0",{"children":"Buchrezensionen & Beauty-Tipps"}],"\n",["$","p","p-0",{"children":"Hier auf Seite 110 findet ihr weitere meiner Videos und Shorts von meinem YouTube-Kanal.\nAbonniert meinen YouTube-Kanal, um keine neuen Videos oder Shorts zu verpassen!"}]]}],["$","div",null,{"className":"text-center","children":["$","button",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] transition-transform transform hover:scale-105 p-5 sm:p-2 h-20 w-88 sm:w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 text-xl sm:text-2xl font-bold mt-10 bg-sky-800 text-[rgb(250,250,250)]","children":["$","$L2",null,{"href":"https://www.youtube.com/@antjeswereld","target":"_blank","className":"w-full h-full flex flex-row items-center justify-center hover:text-[rgb(250,250,250)]","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 576 512","className":"mr-5 !w-16 !h-16 block","children":["$undefined",[["$","path","0",{"d":"M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]," Zum YouTube-Kanal"]}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-16 2xl:gap-28 lg:grid-cols-2 xl:grid-cols-3 md:mt-24 mt-8 mb-6 justify-items-center","children":[["$","div","b_3udMpaIOE",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=b_3udMpaIOE","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/b_3udMpaIOE/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Fairy Box mit First Impression Wild Animals 🦓 - Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=b_3udMpaIOE","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Fairy Box mit First Impression Wild Animals 🦓 - Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],"$L4","$L5"]}]]}],"$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16"]}],"$L17","$L18"]}]]}],null,"$L19"]}],"loading":null,"isPartial":false}
-4:["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"07. Juli 2021"}]
-1a:Tf5e,Unboxing Fairy Box mit First Impression Wild Animals 🦓 - Juli 2021 - Antje's Wereld
+0:{"buildId":"idWCj8wUgIJXKrBttx5QZ","rsc":["$","$1","c",{"children":[["$","section",null,{"children":[["$","div",null,{"className":"mb-6 md:mb-12 lg:mb-20 mx-auto text-center bg-sky-800 w-full p-6 md:p-10 text-2xl md:text-4xl lg:text-5xl font-bold shadow-md shadow-gray-400 dark:shadow-gray-600","children":["$","h1",null,{"className":"text-[rgb(250,250,250)]","children":"Bücher & Beauty: Meine YouTube-Videos und Shorts - Seite 110"}]}],["$","div",null,{"className":"container mx-auto px-2 sm:px-5","children":[["$","div",null,{"className":"prose lg:prose-xl dark:prose-invert blog-content max-w-full px-3 md:px-16 2xl:px-0","children":[["$","h3","h3-0",{"children":"Buchrezensionen & Beauty-Tipps"}],"\n",["$","p","p-0",{"children":"Hier auf Seite 110 findet ihr weitere meiner Videos und Shorts von meinem YouTube-Kanal.\nAbonniert meinen YouTube-Kanal, um keine neuen Videos oder Shorts zu verpassen!"}]]}],["$","div",null,{"className":"text-center","children":["$","button",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] transition-transform transform hover:scale-105 p-5 sm:p-2 h-20 w-88 sm:w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 text-xl sm:text-2xl font-bold mt-10 bg-sky-800 text-[rgb(250,250,250)]","children":["$","$L2",null,{"href":"https://www.youtube.com/@antjeswereld","target":"_blank","className":"w-full h-full flex flex-row items-center justify-center hover:text-[rgb(250,250,250)]","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 576 512","className":"mr-5 !w-16 !h-16 block","children":["$undefined",[["$","path","0",{"d":"M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]," Zum YouTube-Kanal"]}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-16 2xl:gap-28 lg:grid-cols-2 xl:grid-cols-3 md:mt-24 mt-8 mb-6 justify-items-center","children":[["$","div","VmYCnLITIYg",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=VmYCnLITIYg","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/VmYCnLITIYg/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Glossybox Beauty Treasures - Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=VmYCnLITIYg","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Glossybox Beauty Treasures - Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],"$L4","$L5"]}]]}],"$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16"]}],"$L17","$L18"]}]]}],null,"$L19"]}],"loading":null,"isPartial":false}
+4:["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"11. Juli 2021"}]
+1a:Tec9,Unboxing Glossybox Beauty Treasures - Juli 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+im heutigen Video zeige ich die Glossybox für den Monat Juli.
+
+Die Glossybox ist eine Abobox. Diese gibt es als Monatsabo (je Box 15€), 3 Monats- (pro Quartal 43,50€ Einmalzahlung), 6 Monats- (pro Halbjahr 81,00€ Einmalzahlung) und 12 Monatsabo (12,50€ - dieses kann jetzt auch monatlich bezahlt werden).
+
+Diese könnt ihr hier bestellen:
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da, einen lieben Kommentar und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #unboxing #glossybox
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Twicy:
+Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
+TW10Y
+
+ava &amp; may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.5:["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1a"}}]
+1b:T1007,☀️Unboxing Instyle Box Sommer-Edition☀️ - Juli 2021 - Antje's Wereld
+
+Hallo Zusammen,
+
+m heutigen Video zeige ich euch ein Unboxing der Instyle Box Sommer Edition. Dies ist eine Beauty-Abobox.
+Diese gibt es im Flexiblem Abo für 29,95€, im Halbjahresabo für 27€  pro Box (=54€) oder aber im Jahresabo für 25€ pro Box (=100€).
+
+Die Box kannst du dir über folgenden Link bestellen:
+
+https://www.box.instyle.de/control/productlist
+
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #unboxing #instylebox
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+
+Thiemann Onlineshop:
+https://thiemann.shop?affiliateCode=Antje10 *
+mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
+
+Twicy:
+Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
+TW10Y
+
+ava &amp; may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+Bloomon:
+https://www.bloomon.de/?referral=antjekrone 
+
+Ihr bekommt eine Vase und ich ein Bouquet.
+
+Purelei:
+http://purelei.refr.cc/antjekroner
+
+Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Pink Box:
+Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
+
+Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
+
+Birchbox:
+https://birchbox.fr/r/Antje-53833 *
+
+Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
+
+----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.6:["$","div","F90Y5Zsp0Fg",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=F90Y5Zsp0Fg","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/F90Y5Zsp0Fg/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel ☀️Unboxing Instyle Box Sommer-Edition☀️ - Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=F90Y5Zsp0Fg","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"☀️Unboxing Instyle Box Sommer-Edition☀️ - Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"09. Juli 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1b"}}]]}]]}]
+1c:Tf5e,Unboxing Fairy Box mit First Impression Wild Animals 🦓 - Juli 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -104,8 +294,8 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.5:["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1a"}}]
-1b:T1314,🌞Eurapon for you Box Sommer-Edition🌞 mit Verlosung - Juli 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.7:["$","div","b_3udMpaIOE",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=b_3udMpaIOE","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/b_3udMpaIOE/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Fairy Box mit First Impression Wild Animals 🦓 - Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=b_3udMpaIOE","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Fairy Box mit First Impression Wild Animals 🦓 - Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"07. Juli 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1c"}}]]}]]}]
+1d:T1314,🌞Eurapon for you Box Sommer-Edition🌞 mit Verlosung - Juli 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -221,8 +411,8 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.6:["$","div","E-xY_uvbej8",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=E-xY_uvbej8","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/E-xY_uvbej8/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 🌞Eurapon for you Box Sommer-Edition🌞 mit Verlosung - Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=E-xY_uvbej8","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"🌞Eurapon for you Box Sommer-Edition🌞 mit Verlosung - Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"05. Juli 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1b"}}]]}]]}]
-1c:Te35,💚Tauschpaket mit der lieben Irene💚 - Juli 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.8:["$","div","E-xY_uvbej8",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=E-xY_uvbej8","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/E-xY_uvbej8/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 🌞Eurapon for you Box Sommer-Edition🌞 mit Verlosung - Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=E-xY_uvbej8","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"🌞Eurapon for you Box Sommer-Edition🌞 mit Verlosung - Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"05. Juli 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1d"}}]]}]]}]
+1e:Te35,💚Tauschpaket mit der lieben Irene💚 - Juli 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -317,8 +507,8 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.7:["$","div","qDKPwPZuGO0",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=qDKPwPZuGO0","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/qDKPwPZuGO0/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 💚Tauschpaket mit der lieben Irene💚 - Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=qDKPwPZuGO0","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"💚Tauschpaket mit der lieben Irene💚 - Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"04. Juli 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1c"}}]]}]]}]
-1d:Tf6a,Thiemann Shop &amp; Kiko Milano Haul - 🍊 es wird fruchtig 🍉- Juli 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.9:["$","div","qDKPwPZuGO0",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=qDKPwPZuGO0","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/qDKPwPZuGO0/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 💚Tauschpaket mit der lieben Irene💚 - Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=qDKPwPZuGO0","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"💚Tauschpaket mit der lieben Irene💚 - Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"04. Juli 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1e"}}]]}]]}]
+1f:Tf6a,Thiemann Shop &amp; Kiko Milano Haul - 🍊 es wird fruchtig 🍉- Juli 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -419,8 +609,8 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.8:["$","div","KkxWK_QOPgc",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=KkxWK_QOPgc","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/KkxWK_QOPgc/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Thiemann Shop & Kiko Milano Haul - 🍊 es wird fruchtig 🍉- Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=KkxWK_QOPgc","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Thiemann Shop &amp; Kiko Milano Haul - 🍊 es wird fruchtig 🍉- Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"02. Juli 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1d"}}]]}]]}]
-1e:T1308,😄Unboxing Miabox Happy-June-Edition mit Verlosung 😄- Juni 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.a:["$","div","KkxWK_QOPgc",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=KkxWK_QOPgc","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/KkxWK_QOPgc/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Thiemann Shop & Kiko Milano Haul - 🍊 es wird fruchtig 🍉- Juli 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=KkxWK_QOPgc","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Thiemann Shop &amp; Kiko Milano Haul - 🍊 es wird fruchtig 🍉- Juli 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"02. Juli 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1f"}}]]}]]}]
+20:T1308,😄Unboxing Miabox Happy-June-Edition mit Verlosung 😄- Juni 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -543,8 +733,8 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.9:["$","div","YzupODJcF18",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=YzupODJcF18","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/YzupODJcF18/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 😄Unboxing Miabox Happy-June-Edition mit Verlosung 😄- Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=YzupODJcF18","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"😄Unboxing Miabox Happy-June-Edition mit Verlosung 😄- Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"30. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1e"}}]]}]]}]
-1f:Tead,Mein Feedback zur 5ten Duftreise vom @thiemann_shop - Juni 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.b:["$","div","YzupODJcF18",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=YzupODJcF18","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/YzupODJcF18/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 😄Unboxing Miabox Happy-June-Edition mit Verlosung 😄- Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=YzupODJcF18","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"😄Unboxing Miabox Happy-June-Edition mit Verlosung 😄- Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"30. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$20"}}]]}]]}]
+21:Tead,Mein Feedback zur 5ten Duftreise vom @thiemann_shop - Juni 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -641,8 +831,8 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.a:["$","div","bHEC4rT8zjU",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=bHEC4rT8zjU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/bHEC4rT8zjU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Mein Feedback zur 5ten Duftreise vom @thiemann_shop - Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=bHEC4rT8zjU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Mein Feedback zur 5ten Duftreise vom @thiemann_shop - Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"28. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1f"}}]]}]]}]
-20:Tdd7,📦 Kleiner dm Haul - Juni 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.c:["$","div","bHEC4rT8zjU",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=bHEC4rT8zjU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/bHEC4rT8zjU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Mein Feedback zur 5ten Duftreise vom @thiemann_shop - Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=bHEC4rT8zjU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Mein Feedback zur 5ten Duftreise vom @thiemann_shop - Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"28. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$21"}}]]}]]}]
+22:Tdd7,📦 Kleiner dm Haul - Juni 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -735,8 +925,8 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.b:["$","div","urDwuSE-2SU",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=urDwuSE-2SU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/urDwuSE-2SU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 📦 Kleiner dm Haul - Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=urDwuSE-2SU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"📦 Kleiner dm Haul - Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"27. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$20"}}]]}]]}]
-21:T1268,🍊Unboxing Taobox Dufte Laune mit Verlosung  🍋- Juni 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.d:["$","div","urDwuSE-2SU",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=urDwuSE-2SU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/urDwuSE-2SU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 📦 Kleiner dm Haul - Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=urDwuSE-2SU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"📦 Kleiner dm Haul - Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"27. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$22"}}]]}]]}]
+23:T1268,🍊Unboxing Taobox Dufte Laune mit Verlosung  🍋- Juni 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -849,8 +1039,8 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.c:["$","div","wC3OjZJt91E",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=wC3OjZJt91E","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/wC3OjZJt91E/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 🍊Unboxing Taobox Dufte Laune mit Verlosung  🍋- Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=wC3OjZJt91E","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"🍊Unboxing Taobox Dufte Laune mit Verlosung  🍋- Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"25. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$21"}}]]}]]}]
-22:Te0c,Ein ganz kleiner Haul 😊 - Juni 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.e:["$","div","wC3OjZJt91E",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=wC3OjZJt91E","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/wC3OjZJt91E/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 🍊Unboxing Taobox Dufte Laune mit Verlosung  🍋- Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=wC3OjZJt91E","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"🍊Unboxing Taobox Dufte Laune mit Verlosung  🍋- Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"25. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$23"}}]]}]]}]
+24:Te0c,Ein ganz kleiner Haul 😊 - Juni 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -943,8 +1133,8 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.d:["$","div","Utp1syLVz3k",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=Utp1syLVz3k","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/Utp1syLVz3k/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Ein ganz kleiner Haul 😊 - Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=Utp1syLVz3k","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Ein ganz kleiner Haul 😊 - Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"23. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$22"}}]]}]]}]
-23:T1010,🌊Unboxing Trendraider OceanBox 🌊 - Juni 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.f:["$","div","Utp1syLVz3k",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=Utp1syLVz3k","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/Utp1syLVz3k/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Ein ganz kleiner Haul 😊 - Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=Utp1syLVz3k","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Ein ganz kleiner Haul 😊 - Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"23. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$24"}}]]}]]}]
+25:T1010,🌊Unboxing Trendraider OceanBox 🌊 - Juni 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -1050,8 +1240,8 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.e:["$","div","epQHV4oa6gU",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=epQHV4oa6gU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/epQHV4oa6gU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 🌊Unboxing Trendraider OceanBox 🌊 - Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=epQHV4oa6gU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"🌊Unboxing Trendraider OceanBox 🌊 - Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"21. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$23"}}]]}]]}]
-24:Te9c,💕 Ein Überraschungspaket von @nicole_nina_wien 💕 - Juni 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.10:["$","div","epQHV4oa6gU",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=epQHV4oa6gU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/epQHV4oa6gU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 🌊Unboxing Trendraider OceanBox 🌊 - Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=epQHV4oa6gU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"🌊Unboxing Trendraider OceanBox 🌊 - Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"21. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$25"}}]]}]]}]
+26:Te9c,💕 Ein Überraschungspaket von @nicole_nina_wien 💕 - Juni 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -1144,8 +1334,8 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.f:["$","div","eLbtEHVNB3g",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=eLbtEHVNB3g","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/eLbtEHVNB3g/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 💕 Ein Überraschungspaket von @nicole_nina_wien 💕 - Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=eLbtEHVNB3g","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"💕 Ein Überraschungspaket von @nicole_nina_wien 💕 - Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"20. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$24"}}]]}]]}]
-25:Te97,🍧 Unboxing Medpex Sommerbox 🌞 - Juni 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.11:["$","div","eLbtEHVNB3g",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=eLbtEHVNB3g","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/eLbtEHVNB3g/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 💕 Ein Überraschungspaket von @nicole_nina_wien 💕 - Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=eLbtEHVNB3g","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"💕 Ein Überraschungspaket von @nicole_nina_wien 💕 - Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"20. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$26"}}]]}]]}]
+27:Te97,🍧 Unboxing Medpex Sommerbox 🌞 - Juni 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -1241,8 +1431,8 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.10:["$","div","ApolTYNf9Ns",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=ApolTYNf9Ns","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/ApolTYNf9Ns/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 🍧 Unboxing Medpex Sommerbox 🌞 - Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=ApolTYNf9Ns","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"🍧 Unboxing Medpex Sommerbox 🌞 - Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"18. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$25"}}]]}]]}]
-26:Tedf,Meine erste @Eulenschnitt Überraschungsbox 🛀 - Juni 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.12:["$","div","ApolTYNf9Ns",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=ApolTYNf9Ns","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/ApolTYNf9Ns/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 🍧 Unboxing Medpex Sommerbox 🌞 - Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=ApolTYNf9Ns","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"🍧 Unboxing Medpex Sommerbox 🌞 - Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"18. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$27"}}]]}]]}]
+28:Tedf,Meine erste @Eulenschnitt Überraschungsbox 🛀 - Juni 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -1341,8 +1531,8 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.11:["$","div","-27w73RROqk",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=-27w73RROqk","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/-27w73RROqk/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Meine erste @Eulenschnitt Überraschungsbox 🛀 - Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=-27w73RROqk","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Meine erste @Eulenschnitt Überraschungsbox 🛀 - Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"16. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$26"}}]]}]]}]
-27:Tfc6,Unboxing Glossybox Poolside Paradise? 🏖 - Juni 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.13:["$","div","-27w73RROqk",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=-27w73RROqk","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/-27w73RROqk/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Meine erste @Eulenschnitt Überraschungsbox 🛀 - Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=-27w73RROqk","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Meine erste @Eulenschnitt Überraschungsbox 🛀 - Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"16. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$28"}}]]}]]}]
+29:Tfc6,Unboxing Glossybox Poolside Paradise? 🏖 - Juni 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -1444,8 +1634,8 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.12:["$","div","pJxwQcWkGxM",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=pJxwQcWkGxM","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/pJxwQcWkGxM/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Glossybox Poolside Paradise? 🏖 - Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=pJxwQcWkGxM","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Glossybox Poolside Paradise? 🏖 - Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"14. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$27"}}]]}]]}]
-28:Tdfc,Unboxing Huda Beauty Mystery Bag 🤩 - Juni 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.14:["$","div","pJxwQcWkGxM",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=pJxwQcWkGxM","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/pJxwQcWkGxM/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Glossybox Poolside Paradise? 🏖 - Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=pJxwQcWkGxM","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Glossybox Poolside Paradise? 🏖 - Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"14. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$29"}}]]}]]}]
+2a:Tdfc,Unboxing Huda Beauty Mystery Bag 🤩 - Juni 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -1538,8 +1728,8 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.13:["$","div","VzLwnmjSQPg",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=VzLwnmjSQPg","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/VzLwnmjSQPg/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Huda Beauty Mystery Bag 🤩 - Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=VzLwnmjSQPg","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Huda Beauty Mystery Bag 🤩 - Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"13. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$28"}}]]}]]}]
-29:Tf92,Unboxing MyLittleBox x Petite Mendigote 😍 - Juni 2021 - Antje's Wereld
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.15:["$","div","VzLwnmjSQPg",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=VzLwnmjSQPg","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/VzLwnmjSQPg/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Huda Beauty Mystery Bag 🤩 - Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=VzLwnmjSQPg","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Huda Beauty Mystery Bag 🤩 - Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"13. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$2a"}}]]}]]}]
+2b:Tf92,Unboxing MyLittleBox x Petite Mendigote 😍 - Juni 2021 - Antje's Wereld
 
 Hallo Zusammen,
 
@@ -1640,202 +1830,8 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 Ich habe die Produkte selbst gekauft.
 
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.14:["$","div","OFYYKeeGYSc",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=OFYYKeeGYSc","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/OFYYKeeGYSc/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing MyLittleBox x Petite Mendigote 😍 - Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=OFYYKeeGYSc","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing MyLittleBox x Petite Mendigote 😍 - Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"11. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$29"}}]]}]]}]
-2a:Tebd,Rossmann Haul mit Surprise Box und Mylily - Juni 2021 - Antje's Wereld
-
-Hallo Zusammen,
-
-im heutigen Video zeige ich euch meinen letzten Einkauf bei Rossmann.
-
-mylily:
-https://www.rossmann.de/de/pflege-und-duft-mylily-first-period-kit/p/0745114046116
-
-surprise box:
-https://www.rossmann.de/de/make-up-physicians-formula-beauty-surprise-box/p/4260357381993
-
-Ich wünsche euch jetzt viel Spaß beim Video.
-
-Eure Antje
-
-#antjeswereld #haul #rossmann
-
-Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
-----------------------------------------------------------------------------------------------------------------
-Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
-
-Thiemann Onlineshop:
-https://thiemann.shop?affiliateCode=Antje10 *
-mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
-
-Twicy:
-Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
-TW10Y
-
-ava &amp; may:
-ANTJE-IMDQB
-
-40% Rabattcode für Neukunden
-
-l'arise:
-https://www.larise.com/de/?s=0417547812
-oder gibt meinen Code "0417547812" bei der Bestellung ein
-
-Wir erhalten beide einen Gutschein im Wert von € 10,-
-
-TrendRaider:
-Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
-
-https://trendraider.de/?raf=ref5770314 *
-
-10% Gutscheincode: ref5770314 *
-
-Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
-
-Bloomon:
-https://www.bloomon.de/?referral=antjekrone 
-
-Ihr bekommt eine Vase und ich ein Bouquet.
-
-Purelei:
-http://purelei.refr.cc/antjekroner
-
-Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
-
-My Little Box:
-https://www.mylittlebox.net/
-
-Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
-
-Lookfantastic:
-10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
-
-https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
-
-Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
-
-Pink Box:
-Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
-
-Goodiebox:
-Du bekommst die erste Box 50% günstiger.
-
-https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
-
-Glossybox:
-https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
-
-Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
-
-Birchbox:
-https://birchbox.fr/r/Antje-53833 *
-
-Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
-
-----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
-
-
-Ich markiere das Video als DAUERWERBESENDUNG,
-da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
-
-Ich habe die Produkte selbst gekauft.
-
------------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.15:["$","div","T23udZvl7vs",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=T23udZvl7vs","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/T23udZvl7vs/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Rossmann Haul mit Surprise Box und Mylily - Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=T23udZvl7vs","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Rossmann Haul mit Surprise Box und Mylily - Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"09. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$2a"}}]]}]]}]
-2b:Tddd,Meine Lieblingsprodukte aus Mai - Juni 2021 - Antje's Wereld
-
-Hallo Zusammen,
-
-im heutigen Video zeige ich euch meine Favoriten aus Mai.
-
-Ich wünsche euch jetzt viel Spaß beim Video.
-
-Eure Antje
-
-#antjeswereld #favoriten
-
-Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
-----------------------------------------------------------------------------------------------------------------
-Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
-
-Thiemann Onlineshop:
-https://thiemann.shop?affiliateCode=Antje10 *
-mit Antje10 könnt ihr 10% auf eure Bestellung sparen und ich bekomme etwas gutgeschrieben*
-
-Twicy:
-Ich habe einen Rabattcode für euch (10% Gutschein). Dieser ist bis zum 30.06.2021 gültig (einmaliger Rabatt):
-TW10Y
-
-ava &amp; may:
-ANTJE-IMDQB
-
-40% Rabattcode für Neukunden
-
-l'arise:
-https://www.larise.com/de/?s=0417547812
-oder gibt meinen Code "0417547812" bei der Bestellung ein
-
-Wir erhalten beide einen Gutschein im Wert von € 10,-
-
-TrendRaider:
-Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
-
-https://trendraider.de/?raf=ref5770314 *
-
-10% Gutscheincode: ref5770314 *
-
-Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
-
-Bloomon:
-https://www.bloomon.de/?referral=antjekrone 
-
-Ihr bekommt eine Vase und ich ein Bouquet.
-
-Purelei:
-http://purelei.refr.cc/antjekroner
-
-Durch den Link erhaltet ihr (Neukunden) einen 15€ Rabattcode (Mindestbestellwert 75€). Wenn ihr diesen einlöst, dann erhalte ich einen 15€ Rabatt als Dankeschön.
-
-My Little Box:
-https://www.mylittlebox.net/
-
-Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
-
-Lookfantastic:
-10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
-
-https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
-
-Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
-
-Pink Box:
-Schreib mir eine Mail, wenn du 5€ Rabatt haben möchtest (antjeswereld@gmail.com)
-
-Goodiebox:
-Du bekommst die erste Box 50% günstiger.
-
-https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
-
-Glossybox:
-https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
-
-Die erste Box ist für euch 20% günstiger und ich erhalte Credits, die mir gut geschrieben werden.
-
-Birchbox:
-https://birchbox.fr/r/Antje-53833 *
-
-Wir erhalten jeweils 100 Punkte, also 10€ geschenkt zum Ausgeben.
-
-----------------------------------------------------------------------------------------------------------------------Erklärung bzgl. der Einblendung von Dauerwerbesendung:
-
-
-Ich markiere das Video als DAUERWERBESENDUNG,
-da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
-
-Ich habe die Produkte selbst gekauft.
-
------------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.16:["$","div","jBKcMHxh7o4",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=jBKcMHxh7o4","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/jBKcMHxh7o4/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Meine Lieblingsprodukte aus Mai - Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=jBKcMHxh7o4","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Meine Lieblingsprodukte aus Mai - Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"07. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$2b"}}]]}]]}]
-17:["$","p",null,{"className":"tracking-tighter text-muted-foreground text-center text-sm md:mb-20 mb-8","children":["Zuletzt aktualisiert am ","09. April 2026, 18:33"," Uhr"]}]
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.16:["$","div","OFYYKeeGYSc",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=OFYYKeeGYSc","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/OFYYKeeGYSc/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing MyLittleBox x Petite Mendigote 😍 - Juni 2021 - Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=OFYYKeeGYSc","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing MyLittleBox x Petite Mendigote 😍 - Juni 2021 - Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"11. Juni 2021"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$2b"}}]]}]]}]
+17:["$","p",null,{"className":"tracking-tighter text-muted-foreground text-center text-sm md:mb-20 mb-8","children":["Zuletzt aktualisiert am ","10. April 2026, 18:09"," Uhr"]}]
 18:["$","nav",null,{"role":"navigation","aria-label":"pagination","className":"mx-auto flex w-full justify-center","children":["$","ul",null,{"className":"flex flex-row items-center gap-1","children":[["$","li",null,{"className":"","children":["$","a",null,{"className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 px-4 py-2 gap-1 pl-2.5","aria-label":"Go to previous page","href":"/videos/page/109","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-4 w-4","aria-hidden":"true","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],["$","span",null,{"children":"Zurück"}]]}]}],[["$","li",null,{"className":"","children":["$","a",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/1","children":"1"}]}],["$","span",null,{"aria-hidden":true,"className":"flex h-9 w-9 items-center justify-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-ellipsis h-4 w-4","aria-hidden":"true","children":[["$","circle","41hilf",{"cx":"12","cy":"12","r":"1"}],["$","circle","1wjl8i",{"cx":"19","cy":"12","r":"1"}],["$","circle","1pcz8c",{"cx":"5","cy":"12","r":"1"}],"$undefined"]}],["$","span",null,{"className":"sr-only","children":"Weitere Seiten"}]]}]],[["$","li","108",{"className":"","children":["$","a",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/108","children":108}]}],["$","li","109",{"className":"","children":["$","a",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/109","children":109}]}],["$","li","110",{"className":"","children":["$","a",null,{"aria-current":"page","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input bg-background transition-colors hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/110","children":110}]}],["$","li","111",{"className":"","children":"$L2c"}],"$L2d"],"$L2e","$L2f"]}]}]
 19:["$","$L30",null,{"children":["$","$31",null,{"name":"Next.MetadataOutlet","children":"$@32"}]}]
 2c:["$","a",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/111","children":111}]
