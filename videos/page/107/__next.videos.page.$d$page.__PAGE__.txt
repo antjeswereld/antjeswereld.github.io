@@ -1,30 +1,12 @@
 1:"$Sreact.fragment"
 2:I[22016,["/_next/static/chunks/78c0d2861d5d3362.js","/_next/static/chunks/1f888931e4e688fd.js","/_next/static/chunks/246494a74b23aaae.js"],""]
 3:I[5500,["/_next/static/chunks/78c0d2861d5d3362.js","/_next/static/chunks/1f888931e4e688fd.js","/_next/static/chunks/246494a74b23aaae.js"],"Image"]
-2f:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
-30:"$Sreact.suspense"
-0:{"buildId":"HoCxENy8UJHDbe5NWXN4C","rsc":["$","$1","c",{"children":[["$","section",null,{"children":[["$","div",null,{"className":"mb-6 md:mb-12 lg:mb-20 mx-auto text-center bg-sky-800 w-full p-6 md:p-10 text-2xl md:text-4xl lg:text-5xl font-bold shadow-md shadow-gray-400 dark:shadow-gray-600","children":["$","h1",null,{"className":"text-[rgb(250,250,250)]","children":"Bücher & Beauty: Meine YouTube-Videos und Shorts - Seite 107"}]}],["$","div",null,{"className":"container mx-auto px-2 sm:px-5","children":[["$","div",null,{"className":"prose lg:prose-xl dark:prose-invert blog-content max-w-full px-3 md:px-16 2xl:px-0","children":[["$","h3","h3-0",{"children":"Buchrezensionen & Beauty-Tipps"}],"\n",["$","p","p-0",{"children":"Hier auf Seite 107 findet ihr weitere meiner Videos und Shorts von meinem YouTube-Kanal.\nAbonniert meinen YouTube-Kanal, um keine neuen Videos oder Shorts zu verpassen!"}]]}],["$","div",null,{"className":"text-center","children":["$","button",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] transition-transform transform hover:scale-105 p-5 sm:p-2 h-20 w-88 sm:w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 text-xl sm:text-2xl font-bold mt-10 bg-sky-800 text-[rgb(250,250,250)]","children":["$","$L2",null,{"href":"https://www.youtube.com/@antjeswereld","target":"_blank","className":"w-full h-full flex flex-row items-center justify-center hover:text-[rgb(250,250,250)]","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 576 512","className":"mr-5 !w-16 !h-16 block","children":["$undefined",[["$","path","0",{"d":"M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]," Zum YouTube-Kanal"]}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-16 2xl:gap-28 lg:grid-cols-2 xl:grid-cols-3 md:mt-24 mt-8 mb-6 justify-items-center","children":[["$","div","Voh9f2CPGmw",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=Voh9f2CPGmw","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/Voh9f2CPGmw/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Kaleidos Smokey Nostalgia Full Set + Oceansapart Try-on | April 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=Voh9f2CPGmw","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Kaleidos Smokey Nostalgia Full Set + Oceansapart Try-on | April 2022 | Antje's Wereld"},"target":"_blank"}]}],"$L4","$L5"]}]]}],"$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16"]}],"$L17","$L18"]}]]}],null,"$L19"]}],"loading":null,"isPartial":false}
-4:["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"17. April 2022"}]
-1a:Tf8e,Hallo Zusammen,
+2e:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+2f:"$Sreact.suspense"
+0:{"buildId":"dTjNYYUFqkxwIDFJz5uue","rsc":["$","$1","c",{"children":[["$","section",null,{"children":[["$","div",null,{"className":"mb-6 md:mb-12 lg:mb-20 mx-auto text-center bg-sky-800 w-full p-6 md:p-10 text-2xl md:text-4xl lg:text-5xl font-bold shadow-md shadow-gray-400 dark:shadow-gray-600","children":["$","h1",null,{"className":"text-[rgb(250,250,250)]","children":"Bücher & Beauty: Meine YouTube-Videos und Shorts - Seite 107"}]}],["$","div",null,{"className":"container mx-auto px-2 sm:px-5","children":[["$","div",null,{"className":"prose lg:prose-xl dark:prose-invert blog-content max-w-full px-3 md:px-16 2xl:px-0","children":[["$","h3","h3-0",{"children":"Buchrezensionen & Beauty-Tipps"}],"\n",["$","p","p-0",{"children":"Hier auf Seite 107 findet ihr weitere meiner Videos und Shorts von meinem YouTube-Kanal.\nAbonniert meinen YouTube-Kanal, um keine neuen Videos oder Shorts zu verpassen!"}]]}],["$","div",null,{"className":"text-center","children":["$","button",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] transition-transform transform hover:scale-105 p-5 sm:p-2 h-20 w-88 sm:w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 text-xl sm:text-2xl font-bold mt-10 bg-sky-800 text-[rgb(250,250,250)]","children":["$","$L2",null,{"href":"https://www.youtube.com/@antjeswereld","target":"_blank","className":"w-full h-full flex flex-row items-center justify-center hover:text-[rgb(250,250,250)]","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 576 512","className":"mr-5 !w-16 !h-16 block","children":["$undefined",[["$","path","0",{"d":"M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]," Zum YouTube-Kanal"]}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-16 2xl:gap-28 lg:grid-cols-2 xl:grid-cols-3 md:mt-24 mt-8 mb-6 justify-items-center","children":[["$","div","-x7RbHG1NLw",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=-x7RbHG1NLw","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/-x7RbHG1NLw/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Action Haul | Juni 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=-x7RbHG1NLw","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Action Haul | Juni 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"10. Juni 2022"}],"$L4"]}]]}],"$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15"]}],"$L16","$L17"]}]]}],null,"$L18"]}],"loading":null,"isPartial":false}
+19:Tbcb,Hallo Zusammen,
 
-im heutigen Video zeige ich euch eine Collection von Kaleidos. Ich finde sie einfach sooo schön.
-
-Außerdem zeige ich ein Outfit, das ich von OCEANSAPART (Sponsor meines Videos) zur Verfügung gestellt bekommen habe:
-Heaven Sweat Set: https://www.oceansapart.com/de/produkt/heaven-sweat-set/
-
-Mit meinem Code antjenew bekommt ihr ab einem Mindestbestellwert
-von 79€ einen weitere Artikel gratis geschenkt sowie -25% Rabatt auf
-die gesamte Bestellung. Hol dir jetzt im Onlineshop deine neuen Must
-Haves, die im deinem Kleiderschrank nicht fehlen dürfen🙂. Im Free Gift
-Chooser vorbeischauen lohnt sich. Ihr könnt z.B. einen Artikel
-auswählen, den ich euch im Video gezeigt habe!
-Ich kann euch OCEANSAPART wirklich nur empfehlen! 🙂
-
-Link zum #OCEANSAPART Onlineshop
-https://link.oceansapart.com/ucdym9ojcrgtqchgrxm8lpda-cusb
-
-Hier geht's zu Kaleidos:
-https://www.kaleidosmakeup.com/products/smokey-nostalgia-full-set
+das Video habe ich schon vor einiger Zeit gedreht. Komme aber erst jetzt dazu es hochzuladen😊. Ich zeige euch meinen letzten Einkauf beim Action.
 
 Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
 
@@ -32,8 +14,8 @@ Ich wünsche euch jetzt viel Spaß beim Video.
 
 Eure Antje
 
-#antjeswereld #kaleidos #sportsfashion
-Schaut auch gerne Mal auf meinem Instagram Account antjeswereld oder antjeswereld_sale vorbei.
+#antjeswereld #action #haul
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
 ----------------------------------------------------------------------------------------------------------------
 Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
 Zeesea Cosmetics:
@@ -41,12 +23,6 @@ https://zeeseacosmetics.com/?ref=fxc6ti252r *
 = 10% Rabatt und ich bekomme eine Provision auf die Einkäufe
 oder
 ANTJEKRONER 15% Rabattcode, da bekomme ich die Gutschrift
-
-Stylevana:
-Mit meinem Affliate-Code *INF105ANT* könnt ihr 10-15% sparen.
-
-Hier könnt ihr auch bestellen:
-Shop Stylevana US: https://vana.ly/uZoWaS *
 
 Blissim Box:
 https://blissim.de/r/ANTJE-15368 *
@@ -98,10 +74,10 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 
 Ich habe die Produkte selbst gekauft.
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.5:["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1a"}}]
-1b:Tda3,Hallo Zusammen,
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.4:["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$19"}}]
+1a:Td9d,Hallo Zusammen,
 
-im heutigen Video möchte ich euch ein Unboxing der TrendRaider April Box. Diese gibt es auch als vegane Variante.
+im heutigen Video möchte ich euch ein Unboxing der TrendRaider Mai Box. Diese gibt es auch als vegane Variante.
 
 Diese gibt es in folgenden Varianten:
 
@@ -122,7 +98,7 @@ Ich wünsche euch jetzt viel Spaß beim Video.
 
 Eure Antje
 
-#antjeswereld #trendraider #findyourbalance
+#antjeswereld #pureocean  #trendraider 
 Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
 ----------------------------------------------------------------------------------------------------------------
 Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
@@ -182,10 +158,27 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 
 Ich habe die Produkte selbst gekauft.
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.6:["$","div","N5DPrquIYfM",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=N5DPrquIYfM","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/N5DPrquIYfM/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing TrendRaider Find your Balance | April 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=N5DPrquIYfM","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing TrendRaider Find your Balance | April 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"15. April 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1b"}}]]}]]}]
-1c:T1052,Hallo Zusammen,
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.5:["$","div","WhARIwTCeOU",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=WhARIwTCeOU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/WhARIwTCeOU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing TrendRaider Pure Ocean Box | Juni 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=WhARIwTCeOU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing TrendRaider Pure Ocean Box | Juni 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"08. Juni 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1a"}}]]}]]}]
+1b:Tf35,Hallo Zusammen,
 
-im heutigen Video gibt es zur Feier des Tages ein Q&amp;A. Heute vor 2 Jahren habe ich mein erstes YouTube-Video hochgeladen und das möchte ich mit euch feiern.
+im heutigen Video zeige ich euch die Mysterybox Pride von Purish x Maxim. Außerdem zeige ich euch einen schnellen Look mit den enthaltenen Produkten.
+
+Link zu Maxims Video: https://youtu.be/HquupLlX-gQ
+
+Rabattcodes:
+schikitasplace15 von @schikitasplace 
+claudiswelt15 von @ClaudisWelt 
+kontra15 von @Kontrajunkie 
+
+Die Mysterybox ist leider ausverkauft, aber ich habe euch die Produkte hier nochmal verlinkt.
+
+Angel Aura Primer: https://purish.com/products/nabla-cosmetics-angel-aura
+Infinite Chrome Flakes: https://purish.com/products/danessa-myricks-beauty-infinite-chrome-flakes
+Blursh Lights: https://purish.com/products/made-by-mitchell-blursh-lights
+Hydra FX Liner: https://purish.com/products/suva-beauy-hydra-fx-uv-eyeliner
+Glam &amp; Doll Mascara: https://purish.com/products/catrice-glam-and-doll-false-lashes-mascara-waterproof-010
+Nude Prism Palette: https://purish.com/products/lunar-beauty-nude-prism-color-palette
+Microfiber Tool: https://purish.com/products/giacomo-cosmetics-microfibre-multi-tool
 
 Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
 
@@ -193,7 +186,7 @@ Ich wünsche euch jetzt viel Spaß beim Video.
 
 Eure Antje
 
-#antjeswereld #q&amp;a #jubiläum
+#antjeswereld #unboxing #mysterybox
 Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
 ----------------------------------------------------------------------------------------------------------------
 Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
@@ -203,11 +196,168 @@ https://zeeseacosmetics.com/?ref=fxc6ti252r *
 oder
 ANTJEKRONER 15% Rabattcode, da bekomme ich die Gutschrift
 
-Stylevana:
-Mit meinem Affliate-Code *INF105ANT* könnt ihr 10-15% sparen.
+Blissim Box:
+https://blissim.de/r/ANTJE-15368 *
 
-Hier könnt ihr auch bestellen:
-Shop Stylevana US: https://vana.ly/uZoWaS *
+5€ Rabatt für dich und 5€ für mich
+
+ava &amp; may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+----------------------------------------------------------------------------------------------------------------------
+Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.6:["$","div","INT0tIBL2y8",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=INT0tIBL2y8","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/INT0tIBL2y8/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing & schneller Look mit der Mysterybox Pride. von Purish x @MaximGiacomo | Juni 2022","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=INT0tIBL2y8","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing &amp; schneller Look mit der Mysterybox Pride. von Purish x @MaximGiacomo | Juni 2022"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"06. Juni 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1b"}}]]}]]}]
+1c:Tf23,Hallo Zusammen,
+
+im  heutigen Video zeige ich euch Trashysaurus, unser Wanderpaket. Nach mir geht das #Wanderpaket zur lieben @UnboxbutterflyNicole .
+Schaut doch mal bei den anderen Mädels vorbei😉.
+
+🎀 Claudis Welt: https://youtube.com/c/ClaudisWelt
+🎀 Jasmin‘s Beauty Universum https://www.youtube.com/channel/UClRfYzpNFTuUcieAduCHaWA
+🎀 Jennisbeautyworld: https://www.youtube.com/user/jennimaus08
+🎀 Kathrins Welt und so: https://bit.ly/2S0SLNn
+🎀 Misscurlyjen: https://youtube.com/user/MISScurlyJEN
+🎀 Nicole Nina Wien: https://bit.ly/3fYhlGM
+🎀 Nika’s BeautyKiste: https://www.youtube.com/user/Anichica...
+🎀 Schikitas Place: https://bit.ly/3csFsMT
+🎀 Unboxbutterfly Nicole: https://bit.ly/3uIyZDs
+🎀Frühlingsrolina https://www.youtube.com/c/Fr%C3%BChlingsrolina
+
+Shop von misscurlyjen:
+https://www.misscurlywax.com/shop/
+
+Link zum Buch von @ClaudisWelt :
+https://www.peletierverlag.de/book-shop/andere-autoren/claudis-welt/
+
+Vielen Dank, meine Süße @kathrinsweltundso 😘
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #wanderpaket #trashysaurus
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Zeesea Cosmetics:
+https://zeeseacosmetics.com/?ref=fxc6ti252r *
+= 10% Rabatt und ich bekomme eine Provision auf die Einkäufe
+oder
+ANTJEKRONER 15% Rabattcode, da bekomme ich die Gutschrift
+
+Blissim Box:
+https://blissim.de/r/ANTJE-15368 *
+
+5€ Rabatt für dich und 5€ für mich
+
+ava &amp; may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+----------------------------------------------------------------------------------------------------------------------
+Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.7:["$","div","5zmV4z7PeOs",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=5zmV4z7PeOs","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/5zmV4z7PeOs/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Trashysaurus mit einer Überraschung | Juni 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=5zmV4z7PeOs","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Trashysaurus mit einer Überraschung | Juni 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"05. Juni 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1c"}}]]}]]}]
+1d:Tfb9,Hallo Zusammen,
+
+im heutigen Video zeige ich euch die Goodiebag von Glow Hour by dm.
+Diese ist leider ausverkauft, aber vielleicht interessiert euch was drin ist.
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #glowhour #unboxing
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Zeesea Cosmetics:
+https://zeeseacosmetics.com/?ref=fxc6ti252r *
+= 10% Rabatt und ich bekomme eine Provision auf die Einkäufe
+oder
+ANTJEKRONER 15% Rabattcode, da bekomme ich die Gutschrift
 
 Blissim Box:
 https://blissim.de/r/ANTJE-15368 *
@@ -262,10 +412,10 @@ Ich habe die Produkte selbst gekauft.
 * (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.
 
 Angaben zur Verlosung:
-1. Schreibe mir einen lieben Kommentar unter diesem Video, wenn du teilnehmen möchtest ✅
+1. Schreibe mir einen lieben Kommentar unter diesem Video mit #verlosung, wenn du teilnehmen möchtest ✅
 2. Hinterlasse mir bitte eine E-Mailadresse oder deinen Instragramnamen, damit ich dich kontaktieren kann✅
 3. Die Verlosung ist ab 18 Jahren
-4. Die Verlosung endet am 01.05.2022 um 23:00 Uhr 
+4. Die Verlosung endet am 01.07.2022 um 23:00 Uhr 
 5. Die Gewinner werden per Instagram benachrichtigt oder E-Mail und muss sich innerhalb einer Woche nach Verlosungsende bei mir per Mail oder Instagram melden 
 6. Der Rechtsweg ist ausgeschlossen 
 7. Jeder kann 1x teilnehmen 
@@ -278,601 +428,24 @@ https://support.google.com/youtube/an...
 
 Youtube steht in keinem Zusammenhang mit dem Gewinnspiel.
 
-Datenschutzhinweis: Es werden keine Daten gespeichert! Die Adresse &amp; Name des Gewinners werden lediglich für den Versand genutzt und danach sofort gelöscht7:["$","div","oGDglQmrzPw",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=oGDglQmrzPw","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/oGDglQmrzPw/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Q&A 🍾2 Jahre Antje's Wereld 🎊 🎉| April 2022 | Vielen Dank 💞","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=oGDglQmrzPw","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Q&amp;A 🍾2 Jahre Antje's Wereld 🎊 🎉| April 2022 | Vielen Dank 💞"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"13. April 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1c"}}]]}]]}]
-1d:Td41,Hallo Zusammen,
+Datenschutzhinweis: Es werden keine Daten gespeichert! Die Adresse &amp; Name des Gewinners werden lediglich für den Versand genutzt und danach sofort gelöscht8:["$","div","lUqEp1yhBl4",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=lUqEp1yhBl4","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/lUqEp1yhBl4/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 🌈Glow Hour by dm Goodiebag 🌈| Juni 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=lUqEp1yhBl4","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"🌈Glow Hour by dm Goodiebag 🌈| Juni 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"03. Juni 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1d"}}]]}]]}]
+1e:Tc46,Hallo Zusammen,
 
-im heutigen Video zeige ich euch eine Mysterybox von Purish. Ich habe mir die big Variante geholt und was soll ich sagen...hört es euch einfach selbst an 😉
+im heutigen Video möchte ich euch die deutsche Blissim Box. Ich bin gespannt, was ihr zum Inhalt sagt.
 
-Hier könnt ihr sie bestellen:
-https://purish.com/products/purish-mystery-box
-
-Mit den Rabattcodes von @schikitasplace (schikita15), @ClaudisWelt (claudi15) oder @Kontrajunkie (kontra15) könnt ihr noch 20% auf die Box und ausgewählte Marken sparen. Diese Codes sind Affliatecodes d.h. die Mädels bekommen eine Provision, wenn ihr diese Codes verwendet.
-
-Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
-
-Ich wünsche euch jetzt viel Spaß beim Video.
-
-Eure Antje
-
-#antjeswereld #purish #mysterybox
-Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
-----------------------------------------------------------------------------------------------------------------
-Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
-Zeesea Cosmetics:
-https://zeeseacosmetics.com/?ref=fxc6ti252r *
-= 10% Rabatt und ich bekomme eine Provision auf die Einkäufe
-oder
-ANTJEKRONER 15% Rabattcode, da bekomme ich die Gutschrift
-
-Blissim Box:
-https://blissim.de/r/ANTJE-15368 *
-
-5€ Rabatt für dich und 5€ für mich
-
-ava &amp; may:
-ANTJE-IMDQB
-
-40% Rabattcode für Neukunden
-
-l'arise:
-https://www.larise.com/de/?s=0417547812
-oder gibt meinen Code "0417547812" bei der Bestellung ein
-
-Wir erhalten beide einen Gutschein im Wert von € 10,-
-
-TrendRaider:
-Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
-
-https://trendraider.de/?raf=ref5770314 *
-
-10% Gutscheincode: ref5770314 *
-
-Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
-
-My Little Box:
-https://www.mylittlebox.net/
-
-Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
-
-Lookfantastic:
-10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
-
-https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
-
-Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
-
-Goodiebox:
-Du bekommst die erste Box 50% günstiger.
-
-https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
-
-----------------------------------------------------------------------------------------------------------------------
-Erklärung bzgl. der Einblendung von Dauerwerbesendung:
-
-Ich markiere das Video als DAUERWERBESENDUNG,
-da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
-
-Ich habe die Produkte selbst gekauft.
------------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.8:["$","div","2DhqA2L5gLc",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=2DhqA2L5gLc","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/2DhqA2L5gLc/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Purish Mysterybox 💞 First Summer Feelings Edition| April 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=2DhqA2L5gLc","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Purish Mysterybox 💞 First Summer Feelings Edition| April 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"12. April 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1d"}}]]}]]}]
-1e:Tb80,Hallo Zusammen,
-
-im heutigen Video möchte ich euch meinen dm Haul. Was habe ich wohl gekauft?
-
-Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
-
-Ich wünsche euch jetzt viel Spaß beim Video.
-
-Eure Antje
-
-#antjeswereld #haul #dm
-Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
-----------------------------------------------------------------------------------------------------------------
-Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
-Zeesea Cosmetics:
-https://zeeseacosmetics.com/?ref=fxc6ti252r *
-= 10% Rabatt und ich bekomme eine Provision auf die Einkäufe
-oder
-ANTJEKRONER 15% Rabattcode, da bekomme ich die Gutschrift
-
-Blissim Box:
-https://blissim.de/r/ANTJE-15368 *
-
-5€ Rabatt für dich und 5€ für mich
-
-ava &amp; may:
-ANTJE-IMDQB
-
-40% Rabattcode für Neukunden
-
-l'arise:
-https://www.larise.com/de/?s=0417547812
-oder gibt meinen Code "0417547812" bei der Bestellung ein
-
-Wir erhalten beide einen Gutschein im Wert von € 10,-
-
-TrendRaider:
-Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
-
-https://trendraider.de/?raf=ref5770314 *
-
-10% Gutscheincode: ref5770314 *
-
-Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
-
-My Little Box:
-https://www.mylittlebox.net/
-
-Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
-
-Lookfantastic:
-10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
-
-https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
-
-Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
-
-Goodiebox:
-Du bekommst die erste Box 50% günstiger.
-
-https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
-
-----------------------------------------------------------------------------------------------------------------------
-Erklärung bzgl. der Einblendung von Dauerwerbesendung:
-
-Ich markiere das Video als DAUERWERBESENDUNG,
-da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
-
-Ich habe die Produkte selbst gekauft.
------------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.9:["$","div","EhXGwV6jeFA",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=EhXGwV6jeFA","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/EhXGwV6jeFA/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 🐣dm Haul 🐣| April 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=EhXGwV6jeFA","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"🐣dm Haul 🐣| April 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"11. April 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1e"}}]]}]]}]
-1f:Tb99,Hallo Zusammen,
-
-im heutigen Video möchte ich euch meine Favoriten im März 2022. Welche waren eure?
-
-Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
-
-Ich wünsche euch jetzt viel Spaß beim Video.
-
-Eure Antje
-
-#antjeswereld #makeupfavoriten #märz2022
-Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
-----------------------------------------------------------------------------------------------------------------
-Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
-Zeesea Cosmetics:
-https://zeeseacosmetics.com/?ref=fxc6ti252r *
-= 10% Rabatt und ich bekomme eine Provision auf die Einkäufe
-oder
-ANTJEKRONER 15% Rabattcode, da bekomme ich die Gutschrift
-
-Blissim Box:
-https://blissim.de/r/ANTJE-15368 *
-
-5€ Rabatt für dich und 5€ für mich
-
-ava &amp; may:
-ANTJE-IMDQB
-
-40% Rabattcode für Neukunden
-
-l'arise:
-https://www.larise.com/de/?s=0417547812
-oder gibt meinen Code "0417547812" bei der Bestellung ein
-
-Wir erhalten beide einen Gutschein im Wert von € 10,-
-
-TrendRaider:
-Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
-
-https://trendraider.de/?raf=ref5770314 *
-
-10% Gutscheincode: ref5770314 *
-
-Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
-
-My Little Box:
-https://www.mylittlebox.net/
-
-Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
-
-Lookfantastic:
-10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
-
-https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
-
-Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
-
-Goodiebox:
-Du bekommst die erste Box 50% günstiger.
-
-https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
-
-----------------------------------------------------------------------------------------------------------------------
-Erklärung bzgl. der Einblendung von Dauerwerbesendung:
-
-Ich markiere das Video als DAUERWERBESENDUNG,
-da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
-
-Ich habe die Produkte selbst gekauft.
------------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.a:["$","div","ZS2Iat7OMik",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=ZS2Iat7OMik","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/ZS2Iat7OMik/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Meine Favoriten März 2022 🤫 | April 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=ZS2Iat7OMik","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Meine Favoriten März 2022 🤫 | April 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"10. April 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1f"}}]]}]]}]
-20:Tbe0,Hallo Zusammen,
-
-im heutigen Video zeige ich euch das Abonnenten-Wanderpaket der Gruppe 1. Die dritte Runde ist durch und ich zeige euch was sich in dem Paket aktuell befindet. 
-
-Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
-
-Ich wünsche euch jetzt viel Spaß beim Video.
-
-Eure Antje
-
-#antjeswereld #wanderpaket #unboxing
-Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
-----------------------------------------------------------------------------------------------------------------
-Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
-Zeesea Cosmetics:
-https://zeeseacosmetics.com/?ref=fxc6ti252r *
-= 10% Rabatt und ich bekomme eine Provision auf die Einkäufe
-oder
-ANTJEKRONER 15% Rabattcode, da bekomme ich die Gutschrift
-
-Blissim Box:
-https://blissim.de/r/ANTJE-15368 *
-
-5€ Rabatt für dich und 5€ für mich
-
-ava &amp; may:
-ANTJE-IMDQB
-
-40% Rabattcode für Neukunden
-
-l'arise:
-https://www.larise.com/de/?s=0417547812
-oder gibt meinen Code "0417547812" bei der Bestellung ein
-
-Wir erhalten beide einen Gutschein im Wert von € 10,-
-
-TrendRaider:
-Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
-
-https://trendraider.de/?raf=ref5770314 *
-
-10% Gutscheincode: ref5770314 *
-
-Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
-
-My Little Box:
-https://www.mylittlebox.net/
-
-Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
-
-Lookfantastic:
-10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
-
-https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
-
-Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
-
-Goodiebox:
-Du bekommst die erste Box 50% günstiger.
-
-https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
-
-----------------------------------------------------------------------------------------------------------------------
-Erklärung bzgl. der Einblendung von Dauerwerbesendung:
-
-Ich markiere das Video als DAUERWERBESENDUNG,
-da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
-
-Ich habe die Produkte selbst gekauft.
------------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.b:["$","div","IQ_Tal27-WY",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=IQ_Tal27-WY","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/IQ_Tal27-WY/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 📦Abonnenten-Wanderpaket Gruppe1 Runde3📦| April 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=IQ_Tal27-WY","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"📦Abonnenten-Wanderpaket Gruppe1 Runde3📦| April 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"08. April 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$20"}}]]}]]}]
-21:Tb64,Hallo Zusammen,
-
-im heutigen Video zeige ich euch ein Fullface mit Produkten von unterschiedlichen Marken.
-
-Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
-
-Ich wünsche euch jetzt viel Spaß beim Video.
-
-Eure Antje
-
-#antjeswereld #fullface #uomabeauty
-Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
-----------------------------------------------------------------------------------------------------------------
-Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
-Zeesea Cosmetics:
-https://zeeseacosmetics.com/?ref=fxc6ti252r *
-= 10% Rabatt und ich bekomme eine Provision auf die Einkäufe
-oder
-ANTJEKRONER 15% Rabattcode, da bekomme ich die Gutschrift
-
-Blissim Box:
-https://blissim.de/r/ANT
-
-ava &amp; may:
-ANTJE-IMDQB
-
-40% Rabattcode für Neukunden
-
-l'arise:
-https://www.larise.com/de/?s=0417547812
-oder gibt meinen Code "0417547812" bei der Bestellung ein
-
-Wir erhalten beide einen Gutschein im Wert von € 10,-
-
-TrendRaider:
-Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
-
-https://trendraider.de/?raf=ref5770314 *
-
-10% Gutscheincode: ref5770314 *
-
-Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
-
-My Little Box:
-https://www.mylittlebox.net/
-
-Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
-
-Lookfantastic:
-10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
-
-https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
-
-Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
-
-Goodiebox:
-Du bekommst die erste Box 50% günstiger.
-
-https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
-
-----------------------------------------------------------------------------------------------------------------------
-Erklärung bzgl. der Einblendung von Dauerwerbesendung:
-
-Ich markiere das Video als DAUERWERBESENDUNG,
-da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
-
-Ich habe die Produkte selbst gekauft.
------------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.c:["$","div","ADgjLRlL7Ck",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=ADgjLRlL7Ck","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/ADgjLRlL7Ck/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Fullface mit UomaBeauty, Catrice, e.l.f...| April 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=ADgjLRlL7Ck","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Fullface mit UomaBeauty, Catrice, e.l.f...| April 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"06. April 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$21"}}]]}]]}]
-22:Tbd1,Hallo Zusammen,
-
-im heutigen Video zeige ich euch Produkte von Polaar, die ich getestet habe. Im Video erfahrt ihr wie sie mir gefallen und ob ich sie mir kaufen würde.
-
-Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
-
-Ich wünsche euch jetzt viel Spaß beim Video.
-
-Eure Antje
-
-#antjeswereld #review #polaar
-Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
-----------------------------------------------------------------------------------------------------------------
-Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
-Zeesea Cosmetics:
-https://zeeseacosmetics.com/?ref=fxc6ti252r *
-= 10% Rabatt und ich bekomme eine Provision auf die Einkäufe
-oder
-ANTJEKRONER 15% Rabattcode, da bekomme ich die Gutschrift
-
-Blissim Box:
-https://blissim.de/r/ANTJE-15368 *
-
-5€ Rabatt für dich und 5€ für mich
-
-ava &amp; may:
-ANTJE-IMDQB
-
-40% Rabattcode für Neukunden
-
-l'arise:
-https://www.larise.com/de/?s=0417547812
-oder gibt meinen Code "0417547812" bei der Bestellung ein
-
-Wir erhalten beide einen Gutschein im Wert von € 10,-
-
-TrendRaider:
-Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
-
-https://trendraider.de/?raf=ref5770314 *
-
-10% Gutscheincode: ref5770314 *
-
-Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
-
-My Little Box:
-https://www.mylittlebox.net/
-
-Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
-
-Lookfantastic:
-10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
-
-https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
-
-Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
-
-Goodiebox:
-Du bekommst die erste Box 50% günstiger.
-
-https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
-
-----------------------------------------------------------------------------------------------------------------------
-Erklärung bzgl. der Einblendung von Dauerwerbesendung:
-
-Ich markiere das Video als DAUERWERBESENDUNG,
-da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
-
-Ich habe die Produkte selbst gekauft.
------------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.d:["$","div","wA4xALV5R4g",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=wA4xALV5R4g","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/wA4xALV5R4g/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Review zu Produkten von Polaar | April 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=wA4xALV5R4g","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Review zu Produkten von Polaar | April 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"04. April 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$22"}}]]}]]}]
-23:Tbae,Hallo Zusammen,
-
-im heutigen Video zeige ich euch alle Paletten, die noch neu und in meiner Makeup-Sammlung sind.
-
-Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
-
-Ich wünsche euch jetzt viel Spaß beim Video.
-
-Eure Antje
-
-#antjeswereld #makeupsammlung #lidschattenpaletten
-Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
-----------------------------------------------------------------------------------------------------------------
-Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
-Zeesea Cosmetics:
-https://zeeseacosmetics.com/?ref=fxc6ti252r *
-= 10% Rabatt und ich bekomme eine Provision auf die Einkäufe
-oder
-ANTJEKRONER 15% Rabattcode, da bekomme ich die Gutschrift
-
-Blissim Box:
-https://blissim.de/r/ANTJE-15368 *
-
-5€ Rabatt für dich und 5€ für mich
-
-ava &amp; may:
-ANTJE-IMDQB
-
-40% Rabattcode für Neukunden
-
-l'arise:
-https://www.larise.com/de/?s=0417547812
-oder gibt meinen Code "0417547812" bei der Bestellung ein
-
-Wir erhalten beide einen Gutschein im Wert von € 10,-
-
-TrendRaider:
-Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
-
-https://trendraider.de/?raf=ref5770314 *
-
-10% Gutscheincode: ref5770314 *
-
-Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
-
-My Little Box:
-https://www.mylittlebox.net/
-
-Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
-
-Lookfantastic:
-10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
-
-https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
-
-Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
-
-Goodiebox:
-Du bekommst die erste Box 50% günstiger.
-
-https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
-
-----------------------------------------------------------------------------------------------------------------------
-Erklärung bzgl. der Einblendung von Dauerwerbesendung:
-
-Ich markiere das Video als DAUERWERBESENDUNG,
-da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
-
-Ich habe die Produkte selbst gekauft.
------------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.e:["$","div","EbUBqbKEGg4",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=EbUBqbKEGg4","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/EbUBqbKEGg4/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Alle neuen Paletten in meiner Makeup-Sammlung Teil 2 | April 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=EbUBqbKEGg4","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Alle neuen Paletten in meiner Makeup-Sammlung Teil 2 | April 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"03. April 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$23"}}]]}]]}]
-24:Tbdd,Hallo Zusammen,
-
-im heutigen Video zeige ich euch die Depot Deko Wunder Box für Ostern.
-
-Hier kannst du sie bestellen:
-https://www.depot-online.de/de/s/deko-wunder-box-210
-
-Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
-
-Ich wünsche euch jetzt viel Spaß beim Video.
-
-Eure Antje
-
-#antjeswereld #dekowunderbox #unboxing
-Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
-----------------------------------------------------------------------------------------------------------------
-Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
-Zeesea Cosmetics:
-https://zeeseacosmetics.com/?ref=fxc6ti252r *
-= 10% Rabatt und ich bekomme eine Provision auf die Einkäufe
-oder
-ANTJEKRONER 15% Rabattcode, da bekomme ich die Gutschrift
-
-Blissim Box:
-https://blissim.de/r/ANTJE-15368 *
-
-5€ Rabatt für dich und 5€ für mich
-
-ava &amp; may:
-ANTJE-IMDQB
-
-40% Rabattcode für Neukunden
-
-l'arise:
-https://www.larise.com/de/?s=0417547812
-oder gibt meinen Code "0417547812" bei der Bestellung ein
-
-Wir erhalten beide einen Gutschein im Wert von € 10,-
-
-TrendRaider:
-Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
-
-https://trendraider.de/?raf=ref5770314 *
-
-10% Gutscheincode: ref5770314 *
-
-Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
-
-My Little Box:
-https://www.mylittlebox.net/
-
-Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
-
-Lookfantastic:
-10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
-
-https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
-
-Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
-
-Goodiebox:
-Du bekommst die erste Box 50% günstiger.
-
-https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
-
-----------------------------------------------------------------------------------------------------------------------
-Erklärung bzgl. der Einblendung von Dauerwerbesendung:
-
-Ich markiere das Video als DAUERWERBESENDUNG,
-da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
-
-Ich habe die Produkte selbst gekauft.
------------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.f:["$","div","JsoGkAhStmM",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=JsoGkAhStmM","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/JsoGkAhStmM/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Depot 🐣Ostern 🐰Deko Wunder Box | April 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=JsoGkAhStmM","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Depot 🐣Ostern 🐰Deko Wunder Box | April 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"02. April 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$24"}}]]}]]}]
-25:Td74,Hallo Zusammen,
-
-im heutigen Video möchte ich euch die deutsche Blissim Box. Ich bin gespannt was ihr zum Inhalt sagt.
-
-Beim Video editieren ist mir aufgefallen, dass auf dem Heft ja März 2022 steht, aber die erste deutsche Blissim Box gab es ja erst Anfang März🤔. Ob das ein Druckfehler ist?Ich freue mich einfach über diese Box.
-
-01.04.2022 16:51Uhr Ja, es ist ein Druckfehler. Blissim hat dies gerade bestätigt. Diese Box ist die Aprilbox😊.
+Sie kostet regulär 14,90€.
 
 Hier könnt ihr sie bestellen:
 https://blissim.de/r/ANTJE-15368
 (5€ Rabatt für dich auf deine erste Box und 5€ für mich)
 
-
 Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
 
 Ich wünsche euch jetzt viel Spaß beim Video.
 
 Eure Antje
 
-#antjeswereld #blissimde #unboxing
+#antjeswereld #blissimde #watervibes
 Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
 ----------------------------------------------------------------------------------------------------------------
 Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
@@ -932,10 +505,10 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 
 Ich habe die Produkte selbst gekauft.
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.10:["$","div","LPgbUPiCjOU",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=LPgbUPiCjOU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/LPgbUPiCjOU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Blissim Spring Colors x omy | April 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=LPgbUPiCjOU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Blissim Spring Colors x omy | April 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"01. April 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$25"}}]]}]]}]
-26:Tbe7,Hallo Zusammen,
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.9:["$","div","EXa4Kj0t6Xc",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=EXa4Kj0t6Xc","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/EXa4Kj0t6Xc/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 🌊Wasser Vibes in der Blissim Box?🌊 | Juni 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=EXa4Kj0t6Xc","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"🌊Wasser Vibes in der Blissim Box?🌊 | Juni 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"01. Juni 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1e"}}]]}]]}]
+1f:Tb75,Hallo Zusammen,
 
-im heutigen Video zeige ich euch einen kleinen Makeup Haul. Die Produkte habe ich gekauft, weil ich sie einfach schön finde. Hoffentlich funktionieren sie auch für mich 😉.
+im heutigen Video sortiere ich weitere Produkte aus.
 
 Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
 
@@ -943,7 +516,7 @@ Ich wünsche euch jetzt viel Spaß beim Video.
 
 Eure Antje
 
-#antjeswereld #haul #makeup
+#antjeswereld #aussortiert #declutter
 Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
 ----------------------------------------------------------------------------------------------------------------
 Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
@@ -1003,25 +576,18 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 
 Ich habe die Produkte selbst gekauft.
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.11:["$","div","-eiSVkXs76M",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=-eiSVkXs76M","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/-eiSVkXs76M/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel kleiner Makeup Haul - einfach schön | März 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=-eiSVkXs76M","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"kleiner Makeup Haul - einfach schön | März 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"30. März 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$26"}}]]}]]}]
-12:["$","div","rCwbcJEo5Xs",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=rCwbcJEo5Xs","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/rCwbcJEo5Xs/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Haunted Europe Lidschattenpalette von Nomad Cosmetics #shorts","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=rCwbcJEo5Xs","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Haunted Europe Lidschattenpalette von Nomad Cosmetics #shorts"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"29. März 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"Ich zeige euch hier eine neue Palette von Nomad Cosmetics 🥰. \n\nHier könnt ihr sie bestellen:\nhttps://nomadcosmetics.com/products/haunted-europe-palette\n\n#antjeswereld #nomadcosmetics"}}]]}]]}]
-27:Te60,Hallo Zusammen,
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.a:["$","div","98Ao_Ry-H_c",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=98Ao_Ry-H_c","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/98Ao_Ry-H_c/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Was darf bleiben? Teil 2/2 🤔| Juni 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=98Ao_Ry-H_c","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Was darf bleiben? Teil 2/2 🤔| Juni 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"30. Mai 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$1f"}}]]}]]}]
+b:["$","div","JM2j9EQjR5c",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=JM2j9EQjR5c","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/JM2j9EQjR5c/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Sportsfashion in Sommerfarben ☀️ #oceansapart #shorts #sportsfashion","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=JM2j9EQjR5c","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Sportsfashion in Sommerfarben ☀️ #oceansapart #shorts #sportsfashion"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"29. Mai 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"Ich zeige euch ein paar Oceansapart Sets. Diese habe ich zur Verfügung gestellt bekommen.\n\nZum OCEANSAPART Shop: https://link.oceansapart.com/ucdym9ojcrgtqchgrxm8lpda-qa00\n\nMit meinem Code antje50 kannst du bis zu 40%\nsparen! Ab 69€ sparst du bereits 20%, ab 79€ 30% und ab 89€ ganze\n40% auf deine gesamte Bestellung!!\n\nViola Set: https://www.oceansapart.com/de/produkt/viola-skort-set/\nAmaya Set: https://www.oceansapart.com/de/produkt/amaya-prime-set/"}}]]}]]}]
+20:Td00,Hallo Zusammen,
 
-im heutigen Video zeige ich euch ein neues Trashwanderpaket.
-Alle Mädels, die mitmachen, habe ich euch hier eingetragen:
-🎀Belladonna - this is life!
-https://www.youtube.com/channel/UCzotcXaG3zHbbPc7oKbV9Qw
-🎀Antje von Antjes Wereld
-🎀Yvonne von Himbeere süßsauer
-https://www.youtube.com/user/Celena44
-🎀Irene von Irenes Boxenwelt und mehr
-https://www.youtube.com/channel/UC-i_tLDFoqPSx8t4qQwE5Bg
-🎀Nina von Ninas Beautyschuppen
-https://www.youtube.com/channel/UC2IbYuShBZ1WI-DGXnL8FMw
-🎀Myrca von Myrca´s Lifestyle
-https://www.youtube.com/channel/UCt5JO4W8IBo0gOUQyAp8CtA
-🎀Heike von Heikes kleine Welt
-https://www.youtube.com/channel/UCrEjw3KCYryVRqr6B_j5zTg
+im heutigen Video zeige ich euch die Glossybox für Mai.
+
+Die Glossybox ist eine Abobox. Diese gibt es als Monatsabo (je Box 15€), 3 Monats- (pro Quartal 43,50€ Einmalzahlung), 6 Monats- (pro Halbjahr 81,00€ Einmalzahlung) und 12 Monatsabo (12,50€ - dieses kann jetzt auch monatlich bezahlt werden).
+
+Diese könnt ihr hier bestellen:
+
+Glossybox:
+https://www.glossybox.de/referrals.list?applyCode=ANTJE-RCO *
 
 Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
 
@@ -1029,7 +595,7 @@ Ich wünsche euch jetzt viel Spaß beim Video.
 
 Eure Antje
 
-#antjeswereld #trashpaket #wanderpaket
+#antjeswereld #glossybox #unboxing
 Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
 ----------------------------------------------------------------------------------------------------------------
 Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
@@ -1039,9 +605,83 @@ https://zeeseacosmetics.com/?ref=fxc6ti252r *
 oder
 ANTJEKRONER 15% Rabattcode, da bekomme ich die Gutschrift
 
-Thiemann Onlineshop:
-https://thiemann.shop?affiliateCode=Antje10 *
-Ihr spart 10% und ich bekomme eine kleine Provision
+Blissim Box:
+https://blissim.de/r/ANTJE-15368 *
+
+5€ Rabatt für dich und 5€ für mich
+
+ava &amp; may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+----------------------------------------------------------------------------------------------------------------------
+Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Box von meiner Freundin zum Zeigen ausgeliehen bekommen:-).
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.c:["$","div","3DL3nR5AJNg",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=3DL3nR5AJNg","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/3DL3nR5AJNg/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Glossybox Perfectly Imperfect? | Mai 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=3DL3nR5AJNg","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Glossybox Perfectly Imperfect? | Mai 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"27. Mai 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$20"}}]]}]]}]
+21:Td2c,Hallo Zusammen,
+
+im heutigen Video zeige ich euch die Nude York Palette von Rude Cosmetics zeigen. Diese habe ich bei @kosmetik4lessOnAir gekauft und kostet 22,99€.
+
+Hier könnt ihr die Produkte von Rude Cosmetics bestellen:
+https://www.kosmetik4less.de/de/rude-cosmetics
+
+Nude York Palette: https://www.kosmetik4less.de/de/rude-cosmetics-makeup-palette-nude-york-face-eye-palette.html
+
+Falls ihr etwas sparen wollt, dann könnt ihr gerne den Code CLAUDI15 (15 % Rabatt) von @ClaudisWelt verwenden.
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #rudecosmetics #fristimpression
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Zeesea Cosmetics:
+https://zeeseacosmetics.com/?ref=fxc6ti252r *
+= 10% Rabatt und ich bekomme eine Provision auf die Einkäufe
+oder
+ANTJEKRONER 15% Rabattcode, da bekomme ich die Gutschrift
 
 Blissim Box:
 https://blissim.de/r/ANTJE-15368 *
@@ -1093,26 +733,248 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 
 Ich habe die Produkte selbst gekauft.
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.13:["$","div","kc-IUXxLXaw",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=kc-IUXxLXaw","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/kc-IUXxLXaw/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel 📦neues Trashwanderpaket 📦Runde 1 | März 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=kc-IUXxLXaw","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"📦neues Trashwanderpaket 📦Runde 1 | März 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"28. März 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$27"}}]]}]]}]
-28:Tff9,Hallo Zusammen,
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.d:["$","div","sEEFqdHPhRM",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=sEEFqdHPhRM","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/sEEFqdHPhRM/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel First Impression Nude York Palette von Rude Cosmetics | Mai 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=sEEFqdHPhRM","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"First Impression Nude York Palette von Rude Cosmetics | Mai 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"25. Mai 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$21"}}]]}]]}]
+22:Tda0,Hallo Zusammen,
+
+im  heutigen Video möchte ich euch ein Unboxing der TrendRaider Mai Box. Diese gibt es auch als vegane Variante.
+
+Diese gibt es in folgenden Varianten:
+
+- Flexibel = 32,95 € (Mindestlaufzeit 2 Monate, danach jederzeit kündbar)
+- einmalige Box = 34,95 € (kein Abo)
+- 3 Monate = 33,95 € (automatische Kündigung)
+- 12 Monate = 29,95 € (automatische Kündigung)
+
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #trendraider #aroundtheworld
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Zeesea Cosmetics:
+https://zeeseacosmetics.com/?ref=fxc6ti252r *
+= 10% Rabatt und ich bekomme eine Provision auf die Einkäufe
+oder
+ANTJEKRONER 15% Rabattcode, da bekomme ich die Gutschrift
+
+Blissim Box:
+https://blissim.de/r/ANTJE-15368 *
+
+5€ Rabatt für dich und 5€ für mich
+
+ava &amp; may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+----------------------------------------------------------------------------------------------------------------------
+Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.e:["$","div","ZNA4grMR8W0",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=ZNA4grMR8W0","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/ZNA4grMR8W0/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel TrendRaider Box 🌍 Around the world ✈️ | Mai 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=ZNA4grMR8W0","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"TrendRaider Box 🌍 Around the world ✈️ | Mai 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"23. Mai 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$22"}}]]}]]}]
+23:Tb6d,Hallo Zusammen,
+
+im heutigen Video sortiere ich Produkte aus.
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #aussortiert #declutter
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Zeesea Cosmetics:
+https://zeeseacosmetics.com/?ref=fxc6ti252r *
+= 10% Rabatt und ich bekomme eine Provision auf die Einkäufe
+oder
+ANTJEKRONER 15% Rabattcode, da bekomme ich die Gutschrift
+
+Blissim Box:
+https://blissim.de/r/ANTJE-15368 *
+
+5€ Rabatt für dich und 5€ für mich
+
+ava &amp; may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+----------------------------------------------------------------------------------------------------------------------
+Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.f:["$","div","c80_EOnzjxU",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=c80_EOnzjxU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/c80_EOnzjxU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Was darf bleiben? Teil 1/2 🤔| Mai 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=c80_EOnzjxU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Was darf bleiben? Teil 1/2 🤔| Mai 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"22. Mai 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$23"}}]]}]]}]
+24:Tda2,Hallo Zusammen,
+
+im heutigen Video zeige ich euch ein Outfit, das ich von OCEANSAPART zur Verfügung gestellt bekommen habe:
+https://www.oceansapart.com/de/produkt/blossom-sweat-set/
+
+Mit dem Code antje50 sparst du zum 23.05 unglaubliche 50% auf deine gesamte Bestellung. Nach dem 24.05 kannst du meinen Code auch weiterhin nutzen: du bekommst bei einem Mindestbestellwert von 89€ 40%, bei 79€ 30% und bei 69€ 20% Rabatt auf die gesamte Kollektion. Schau schnell über den Link vorbei und sicher dir dieses unschlagbare Angebot!
+Link zum #OCEANSAPART Onlineshop
+https://link.oceansapart.com/ucdym9ojcrgtqchgrxm8lpda-sxad
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #aussortiert #declutter
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Zeesea Cosmetics:
+https://zeeseacosmetics.com/?ref=fxc6ti252r *
+= 10% Rabatt und ich bekomme eine Provision auf die Einkäufe
+oder
+ANTJEKRONER 15% Rabattcode, da bekomme ich die Gutschrift
+
+Blissim Box:
+https://blissim.de/r/ANTJE-15368 *
+
+5€ Rabatt für dich und 5€ für mich
+
+ava &amp; may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+----------------------------------------------------------------------------------------------------------------------
+Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.10:["$","div","StE93cHvNfg",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=StE93cHvNfg","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/StE93cHvNfg/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel OCEANSAPART \"we are one\" mit 50% Rabattcode + Try on| Mai 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=StE93cHvNfg","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"OCEANSAPART \"we are one\" mit 50% Rabattcode + Try on| Mai 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"21. Mai 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$24"}}]]}]]}]
+25:Teb1,Hallo Zusammen,
 
 im heutigen Video zeige ich euch die ZEESEA Cosmetics Beauty Abobox. Was sagt ihr dazu?
 
-Außerdem zeige ich ein paar Outfits, die ich von OCEANSAPART (Sponsor meines Videos) zur Verfügung gestellt bekommen habe:
-Amaya Prime Set: https://www.oceansapart.com/de/produkt/amaya-prime-set/
-Becca Set Deluxe: https://www.oceansapart.com/de/produkt/becca-set-deluxe/
-Kaela Set Deluxe: https://www.oceansapart.com/de/produkt/kaela-set-deluxe/
-Joy Set Relax: https://www.oceansapart.com/de/produkt/joy-set-relax/
+https://zeeseacosmetics.com/collections/eyeliner-1/products/supreme-lasting-eyeliner-pencil
 
-selbstgekauft:
-Jessy Set: https://www.oceansapart.com/de/produkt/jessy-set/
+https://zeeseacosmetics.com/collections/nutcracker/products/zeesea-nutcracker-non-powdery-silky-compact-powder
 
-Mit meinem Code antje30 bekommt ihr 30% Rabatt auf die gesamte Bestellung. Die beliebten Seamless Sets, die wie eine zweite Haut am Körper sitzen, kosten anstatt 79,99€ nur noch ca. 55€. Hol dir jetzt im Onlineshop deine neuen Must Haves, die im Kleiderschrank nicht fehlen
-dürfen.
-Ich kann euch OCEANSAPART wirklich nur empfehlen!
+https://zeeseacosmetics.com/collections/highlighter-1/products/new-luxurious-highlighter-with-zeesea-multi-mineral-complex
 
-Link zum #OCEANSAPART Onlineshop
-https://link.oceansapart.com/ucdym9ojcrgtqchgrxm8lpda-rif5
+https://zeeseacosmetics.com/collections/eyeshadow/products/zeesea-x-the-british-museum-enchanting-egypt-eyeshadow-palette-16-shades?variant=30278372622372
 
 https://zeeseacosmetics.com/?ref=fxc6ti252r *
 = 10% Rabatt und ich bekomme eine Provision auf die Einkäufe
@@ -1128,76 +990,7 @@ Ich wünsche euch jetzt viel Spaß beim Video.
 
 Eure Antje
 
-#antjeswereld #sportsfashion #zeesea
-Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
-----------------------------------------------------------------------------------------------------------------
-Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
-Thiemann Onlineshop:
-https://thiemann.shop?affiliateCode=Antje10 *
-Ihr spart 10% und ich bekomme eine kleine Provision
-
-Blissim Box:
-https://blissim.de/r/ANTJE-15368 *
-
-5€ Rabatt für dich und 5€ für mich
-
-ava &amp; may:
-ANTJE-IMDQB
-
-40% Rabattcode für Neukunden
-
-l'arise:
-https://www.larise.com/de/?s=0417547812
-oder gibt meinen Code "0417547812" bei der Bestellung ein
-
-Wir erhalten beide einen Gutschein im Wert von € 10,-
-
-TrendRaider:
-Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
-
-https://trendraider.de/?raf=ref5770314 *
-
-10% Gutscheincode: ref5770314 *
-
-Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
-
-My Little Box:
-https://www.mylittlebox.net/
-
-Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
-
-Lookfantastic:
-10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
-
-https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
-
-Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
-
-Goodiebox:
-Du bekommst die erste Box 50% günstiger.
-
-https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
-
-----------------------------------------------------------------------------------------------------------------------
-Erklärung bzgl. der Einblendung von Dauerwerbesendung:
-
-Ich markiere das Video als DAUERWERBESENDUNG,
-da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
------------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.14:["$","div","dxt8USzsKZ4",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=dxt8USzsKZ4","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/dxt8USzsKZ4/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Oceansapart Try-on + Unboxing Zeesea Beauty Box | März 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=dxt8USzsKZ4","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Oceansapart Try-on + Unboxing Zeesea Beauty Box | März 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"27. März 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$28"}}]]}]]}]
-29:Tc32,Hallo Zusammen,
-
-im heutigen Video euch die Asam Wundertüte. 
-
-Sie hat 34,99€ gekostet und ob sie sich gelohnt hat, seht ihr im Video.
-
-Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
-
-Ich wünsche euch jetzt viel Spaß beim Video.
-
-Eure Antje
-
-#antjeswereld #wundertuete #asambeauty
+#antjeswereld #zeeseacosmetics #beautybox
 Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
 ----------------------------------------------------------------------------------------------------------------
 Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
@@ -1206,10 +999,6 @@ https://zeeseacosmetics.com/?ref=fxc6ti252r *
 = 10% Rabatt und ich bekomme eine Provision auf die Einkäufe
 oder
 ANTJEKRONER 15% Rabattcode, da bekomme ich die Gutschrift
-
-Thiemann Onlineshop:
-https://thiemann.shop?affiliateCode=Antje10 *
-Ihr spart 10% und ich bekomme eine kleine Provision
 
 Blissim Box:
 https://blissim.de/r/ANTJE-15368 *
@@ -1261,10 +1050,18 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 
 Ich habe die Produkte selbst gekauft.
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.15:["$","div","n2QC81dl6RM",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=n2QC81dl6RM","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/n2QC81dl6RM/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Asam Wundertüte Lohnt sie sich? | März 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=n2QC81dl6RM","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Asam Wundertüte Lohnt sie sich? | März 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"26. März 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$29"}}]]}]]}]
-2a:Tc11,Hallo Zusammen,
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.11:["$","div","tcrWlWMsW4s",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=tcrWlWMsW4s","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/tcrWlWMsW4s/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Zeesea Beauty Box - ich bin verwirrt | Mai 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=tcrWlWMsW4s","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Zeesea Beauty Box - ich bin verwirrt | Mai 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"20. Mai 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$25"}}]]}]]}]
+26:Tcc3,Hallo Zusammen,
 
-im heutigen Video zeige ich euch Mysteryboxen aus einem Glossybox Sale. Haben sie sich gelohnt?
+im heutigen Video sortiere ich euch meine Pflegeprodukte von Dalton Marine Cosmetics.
+
+Hier geht's zu Dalton Marine Cosmetics:
+https://www.dalton-cosmetics.com/de
+
+Hier geht's zum Haut-Fragebogen:
+https://www.dalton-cosmetics.com/de/fragebogen-hautbild
+
+Der Affliate-Code von @ClaudisWelt  "SOMMERCLAUDI" gilt bis zum 19.05.2022 und damit gibt es 25% auf eure Bestellung.
 
 Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
 
@@ -1272,7 +1069,7 @@ Ich wünsche euch jetzt viel Spaß beim Video.
 
 Eure Antje
 
-#antjeswereld #sale #glossybox
+#antjeswereld #daltonmarinecosmetics #pflegeprodukte
 Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
 ----------------------------------------------------------------------------------------------------------------
 Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
@@ -1281,10 +1078,6 @@ https://zeeseacosmetics.com/?ref=fxc6ti252r *
 = 10% Rabatt und ich bekomme eine Provision auf die Einkäufe
 oder
 ANTJEKRONER 15% Rabattcode, da bekomme ich die Gutschrift
-
-Thiemann Onlineshop:
-https://thiemann.shop?affiliateCode=Antje10 *
-Ihr spart 10% und ich bekomme eine kleine Provision
 
 Blissim Box:
 https://blissim.de/r/ANTJE-15368 *
@@ -1336,12 +1129,231 @@ da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Pr
 
 Ich habe die Produkte selbst gekauft.
 -----------------------------------------------------------------------------------------------------------------------
-* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.16:["$","div","KHltTaypFXY",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=KHltTaypFXY","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/KHltTaypFXY/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Lohnt sich der Glossybox Sale mit Mysteryboxen? | März 2021 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=KHltTaypFXY","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Lohnt sich der Glossybox Sale mit Mysteryboxen? | März 2021 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"25. März 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$2a"}}]]}]]}]
-17:["$","p",null,{"className":"tracking-tighter text-muted-foreground text-center text-sm md:mb-20 mb-8","children":["Zuletzt aktualisiert am ","15. September 2026, 20:24"," Uhr"]}]
-18:["$","nav",null,{"role":"navigation","aria-label":"pagination","className":"mx-auto flex w-full justify-center","children":["$","ul",null,{"className":"flex flex-row items-center gap-1","children":[["$","li",null,{"className":"","children":["$","a",null,{"className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 px-4 py-2 gap-1 pl-2.5","aria-label":"Go to previous page","href":"/videos/page/106","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-4 w-4","aria-hidden":"true","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],["$","span",null,{"children":"Zurück"}]]}]}],[["$","li",null,{"className":"","children":["$","a",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/1","children":"1"}]}],["$","span",null,{"aria-hidden":true,"className":"flex h-9 w-9 items-center justify-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-ellipsis h-4 w-4","aria-hidden":"true","children":[["$","circle","41hilf",{"cx":"12","cy":"12","r":"1"}],["$","circle","1wjl8i",{"cx":"19","cy":"12","r":"1"}],["$","circle","1pcz8c",{"cx":"5","cy":"12","r":"1"}],"$undefined"]}],["$","span",null,{"className":"sr-only","children":"Weitere Seiten"}]]}]],[["$","li","105",{"className":"","children":["$","a",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/105","children":105}]}],["$","li","106",{"className":"","children":["$","a",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/106","children":106}]}],["$","li","107",{"className":"","children":["$","a",null,{"aria-current":"page","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input bg-background transition-colors hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/107","children":107}]}],["$","li","108",{"className":"","children":"$L2b"}],"$L2c"],"$L2d","$L2e"]}]}]
-19:["$","$L2f",null,{"children":["$","$30",null,{"name":"Next.MetadataOutlet","children":"$@31"}]}]
-2b:["$","a",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/108","children":108}]
-2c:["$","li","109",{"className":"","children":["$","a",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/109","children":109}]}]
-2d:[["$","span",null,{"aria-hidden":true,"className":"flex h-9 w-9 items-center justify-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-ellipsis h-4 w-4","aria-hidden":"true","children":[["$","circle","41hilf",{"cx":"12","cy":"12","r":"1"}],["$","circle","1wjl8i",{"cx":"19","cy":"12","r":"1"}],["$","circle","1pcz8c",{"cx":"5","cy":"12","r":"1"}],"$undefined"]}],["$","span",null,{"className":"sr-only","children":"Weitere Seiten"}]]}],["$","li",null,{"className":"","children":["$","a",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/132","children":132}]}]]
-2e:["$","li",null,{"className":"","children":["$","a",null,{"className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 px-4 py-2 gap-1 pr-2.5","aria-label":"Go to next page","href":"/videos/page/108","children":[["$","span",null,{"children":"Weiter"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right h-4 w-4","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]]}]}]
-31:null
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.12:["$","div","GsW8tLxLxOU",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=GsW8tLxLxOU","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/GsW8tLxLxOU/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Meine Dalton Marine Cosmetics \"Sammlung\" 😊| Mai 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=GsW8tLxLxOU","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Meine Dalton Marine Cosmetics \"Sammlung\" 😊| Mai 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"18. Mai 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$26"}}]]}]]}]
+27:Tb5c,Hallo Zusammen,
+
+im heutigen Video zeige ich Unboxing der DocMorris Box. DocMorris spendet 1000€ aus dem Verkauf der Boxen. 
+
+Weitere Infos zur "für dich"- Box:
+https://www.docmorris.de/fuer-cf-box
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #apothekenbox #docmorrisfürdichbox
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Zeesea Cosmetics:
+https://zeeseacosmetics.com/?ref=fxc6ti252r *
+= 10% Rabatt und ich bekomme eine Provision auf die Einkäufe
+oder
+ANTJEKRONER 15% Rabattcode, da bekomme ich die Gutschrift
+
+Blissim Box:
+https://blissim.de/r/ANTJE-15368 *
+
+5€ Rabatt für dich und 5€ für mich
+
+ava &amp; may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+----------------------------------------------------------------------------------------------------------------------
+Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.13:["$","div","ZnjNDE5VIUI",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=ZnjNDE5VIUI","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/ZnjNDE5VIUI/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel DocMorris für dich Sommerbox | Mai 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=ZnjNDE5VIUI","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"DocMorris für dich Sommerbox | Mai 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"16. Mai 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$27"}}]]}]]}]
+28:Tbe9,Hallo Zusammen,
+
+im heutigen Video zeige ich euch die Oden's eye Mysterybox. Ob sie mir gefällt?
+
+Hier könnt ihr bestellen:
+https://www.odenseye.se/
+
+Ich habe den Code Angeschka verwendet.
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #odenseye #unboxing
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Zeesea Cosmetics:
+https://zeeseacosmetics.com/?ref=fxc6ti252r *
+= 10% Rabatt und ich bekomme eine Provision auf die Einkäufe
+oder
+ANTJEKRONER 15% Rabattcode, da bekomme ich die Gutschrift
+
+Blissim Box:
+https://blissim.de/r/ANTJE-15368 *
+
+5€ Rabatt für dich und 5€ für mich
+
+ava &amp; may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+----------------------------------------------------------------------------------------------------------------------
+Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.14:["$","div","qLMEs8UCLhA",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-end xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=qLMEs8UCLhA","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/qLMEs8UCLhA/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel Unboxing Oden's eye Mysterybox 🤫 | Mai 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=qLMEs8UCLhA","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"Unboxing Oden's eye Mysterybox 🤫 | Mai 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"15. Mai 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$28"}}]]}]]}]
+29:Td0c,Hallo Zusammen,
+
+im heutigen Video zeige ich euch die Mai Box von Mylittlebox.
+
+Diese gibt es im Monats-, und Jahresabo. Die Box im Monatsabo kostet 17,90€ und im Jahresabo 195€ (Einmalzahlung, 12 Boxen zum Preis von 11).
+
+Die Box kannst du dir über folgenden Link bestellen:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Wenn dir das Video gefällt, dann lass mir doch einen einen Daumen nach oben da und abonniere meinen Kanal. Darüber würde ich mich sehr freuen.
+
+Ich wünsche euch jetzt viel Spaß beim Video.
+
+Eure Antje
+
+#antjeswereld #unboxing #mylittlebox
+Schaut auch gerne Mal auf meinem Instagram Account antjeswereld vorbei.
+----------------------------------------------------------------------------------------------------------------
+Codes, damit ihr bei Abos oder Bestellungen sparen könnt:*
+Zeesea Cosmetics:
+https://zeeseacosmetics.com/?ref=fxc6ti252r *
+= 10% Rabatt und ich bekomme eine Provision auf die Einkäufe
+oder
+ANTJEKRONER 15% Rabattcode, da bekomme ich die Gutschrift
+
+Blissim Box:
+https://blissim.de/r/ANTJE-15368 *
+
+5€ Rabatt für dich und 5€ für mich
+
+ava &amp; may:
+ANTJE-IMDQB
+
+40% Rabattcode für Neukunden
+
+l'arise:
+https://www.larise.com/de/?s=0417547812
+oder gibt meinen Code "0417547812" bei der Bestellung ein
+
+Wir erhalten beide einen Gutschein im Wert von € 10,-
+
+TrendRaider:
+Wenn du noch kein Abonnent bist, aber einer werden möchtest, dann kannst du sie über den folgenden Link bestellen und bekommst einen 10% TrendBox-Gutschein:
+
+https://trendraider.de/?raf=ref5770314 *
+
+10% Gutscheincode: ref5770314 *
+
+Sobald 3 von euch über diesen Link eine TrendBox bestellt haben, bekomme ich eine PremiumBox im Wert von 50 Euro und 500 TrendPunkte. Zusätzlich wird ein Baum gepflanzt.
+
+My Little Box:
+https://www.mylittlebox.net/
+
+Bei Abschluss eines Abos könnt ihr meinen Code FRIEND51341 angeben. Dann bekommt ihr eure erste Box 3€ günstiger und ich 3€ Rabatt auf meine nächste Lieferung.
+
+Lookfantastic:
+10€ Rabatt für die erste Bestellung ab 30€, kannst du über folgenden Link bekommen:
+
+https://www.lookfantastic.de/referrals.list?applyCode=ANTJE-RJM *
+
+Oder gibt den Code ANTJE-RJM bei der Bestellung ein.
+
+Goodiebox:
+Du bekommst die erste Box 50% günstiger.
+
+https://bygoodiebox.com/de/de/happyinvite?invitationCode=anrön-wumtkzum
+
+----------------------------------------------------------------------------------------------------------------------
+Erklärung bzgl. der Einblendung von Dauerwerbesendung:
+
+Ich markiere das Video als DAUERWERBESENDUNG,
+da ich im Video Produkte zeige deren Marken ich nenne oder ihr die Marken und Produkte erkennen könnt.
+
+Ich habe die Produkte selbst gekauft.
+-----------------------------------------------------------------------------------------------------------------------
+* (Affiliate Links) = Die oben von mir aufgeführten Links sind Affiliate Links. Diese dienen zur Orientierung und schnellem finden der Produkte und werden je nach Erfolg mit einer Provision ausgezahlt falls diese genutzt werden :). Natürlich bleibt es euch allein überlassen wo ihr die Produkte kaufen möchtet :) Affiliate Links mache ich durch ein Sternchen am Ende des Links * erkennbar.15:["$","div","YlqOOjp9I9Q",{"className":"w-full max-w-96 shadow-md shadow-gray-400 dark:shadow-gray-600 justify-self-center lg:justify-self-start xl:justify-self-center","children":[["$","$L2",null,{"href":"https://www.youtube.com/watch?v=YlqOOjp9I9Q","target":"_blank","children":["$","div",null,{"className":"overflow-hidden w-full h-48 relative","children":["$","$L3",null,{"src":"https://i.ytimg.com/vi/YlqOOjp9I9Q/hqdefault.jpg","alt":"YouTube-Video vom Kanal @antjeswereld mit dem Titel MyLittleBox ICONÉS | Mai 2022 | Antje's Wereld","className":"h-full min-h-full min-w-full object-cover object-center","fill":true}]}]}],["$","div",null,{"className":"grid grid-cols-1 gap-3 md:col-span-2 bg-muted p-6 relative","children":[["$","h2",null,{"className":"font-sans font-bold text-primary h-16","children":["$","$L2",null,{"href":"https://www.youtube.com/watch?v=YlqOOjp9I9Q","className":"transition-color no-underline font-bold text-lg line-clamp-2 hover:text-sky-800","dangerouslySetInnerHTML":{"__html":"MyLittleBox ICONÉS | Mai 2022 | Antje's Wereld"},"target":"_blank"}]}],["$","p",null,{"className":"prose tracking-tighter text-muted-foreground text-sm","children":"13. Mai 2022"}],["$","p",null,{"className":"h-[4.5rem] bg-muted prose prose-sm line-clamp-4 dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$29"}}]]}]]}]
+16:["$","p",null,{"className":"tracking-tighter text-muted-foreground text-center text-sm md:mb-20 mb-8","children":["Zuletzt aktualisiert am ","22. Oktober 2026, 20:43"," Uhr"]}]
+17:["$","nav",null,{"role":"navigation","aria-label":"pagination","className":"mx-auto flex w-full justify-center","children":["$","ul",null,{"className":"flex flex-row items-center gap-1","children":[["$","li",null,{"className":"","children":["$","a",null,{"className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 px-4 py-2 gap-1 pl-2.5","aria-label":"Go to previous page","href":"/videos/page/106","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-4 w-4","aria-hidden":"true","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],["$","span",null,{"children":"Zurück"}]]}]}],[["$","li",null,{"className":"","children":["$","a",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/1","children":"1"}]}],["$","span",null,{"aria-hidden":true,"className":"flex h-9 w-9 items-center justify-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-ellipsis h-4 w-4","aria-hidden":"true","children":[["$","circle","41hilf",{"cx":"12","cy":"12","r":"1"}],["$","circle","1wjl8i",{"cx":"19","cy":"12","r":"1"}],["$","circle","1pcz8c",{"cx":"5","cy":"12","r":"1"}],"$undefined"]}],["$","span",null,{"className":"sr-only","children":"Weitere Seiten"}]]}]],[["$","li","105",{"className":"","children":["$","a",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/105","children":105}]}],["$","li","106",{"className":"","children":["$","a",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/106","children":106}]}],["$","li","107",{"className":"","children":["$","a",null,{"aria-current":"page","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 border border-input bg-background transition-colors hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/107","children":107}]}],["$","li","108",{"className":"","children":"$L2a"}],"$L2b"],"$L2c","$L2d"]}]}]
+18:["$","$L2e",null,{"children":["$","$2f",null,{"name":"Next.MetadataOutlet","children":"$@30"}]}]
+2a:["$","a",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/108","children":108}]
+2b:["$","li","109",{"className":"","children":["$","a",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/109","children":109}]}]
+2c:[["$","span",null,{"aria-hidden":true,"className":"flex h-9 w-9 items-center justify-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-ellipsis h-4 w-4","aria-hidden":"true","children":[["$","circle","41hilf",{"cx":"12","cy":"12","r":"1"}],["$","circle","1wjl8i",{"cx":"19","cy":"12","r":"1"}],["$","circle","1pcz8c",{"cx":"5","cy":"12","r":"1"}],"$undefined"]}],["$","span",null,{"className":"sr-only","children":"Weitere Seiten"}]]}],["$","li",null,{"className":"","children":["$","a",null,{"className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 w-10","href":"/videos/page/134","children":134}]}]]
+2d:["$","li",null,{"className":"","children":["$","a",null,{"className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-sky-800 hover:text-[rgb(250,250,250)] h-10 px-4 py-2 gap-1 pr-2.5","aria-label":"Go to next page","href":"/videos/page/108","children":[["$","span",null,{"children":"Weiter"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right h-4 w-4","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}]]}]}]
+30:null
